@@ -1,0 +1,37 @@
+name: Dermacomp Price Monitor
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  scrape_and_update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install axios cheerio
+
+      - name: Ejecutar Scraper
+        run: node bot/scraper.js
+        env:
+          SCRAPE_MODE: "save_file" 
+
+      - name: Guardar cambios en GitHub
+        run: |
+          git config --global user.name "Dermacomp Bot"
+          git config --global user.email "bot@dermacomp.com"
+          mkdir -p data # Registra la carpeta si no existe
+          git add data/precios.json || echo "No hay archivo aún"
+          git commit -m "Actualización automática de precios" || echo "Sin cambios"
+          git push

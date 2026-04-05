@@ -1,0 +1,6 @@
+node_modules/
+*.log
+scraper_output.txt
+.env
+data/precios.json
+C:\Users\ASUS\OneDrive\Desktop\pagina wed\scraper_output.txt
