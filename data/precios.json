@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-04-08T02:40:30.311Z",
+  "ultima_actualizacion": "2026-04-08T13:25:23.570Z",
   "productos": [
     {
       "nombre": "Blanqueador EKONO pureza cítrica (2000  ml)",
@@ -376,17 +376,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Isdin Fusion Water Light Spf 50+",
-      "marca": "Isdin",
-      "precio": 142100,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169504/8429420226265-1.jpg.jpg?v=638738832321200000",
-      "url": "https://www.bellapiel.com.co/fusion-water-color-light-spf50-50ml-5849/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Mascarilla Absolut Repair Reparación Cabello Dañado - Loreal Professionnel",
       "marca": "L'Oréal Professionnel",
       "precio": 143000,
@@ -706,23 +695,34 @@
       "en_grupo": false
     },
     {
-      "nombre": "Crema Lactovit Reparadora X 1 Litro",
-      "marca": "INDUSTRIAS BISONTE",
-      "precio": 53450,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210705/8411135654792.jpg?v=639047695062200000",
-      "url": "https://www.drogueriascolsubsidio.com/crema-lactovit-reparadora-x-1-litro-8411135654792/p",
-      "es_mas_barato": true,
-      "grupo_id": "G002",
-      "en_grupo": true
-    },
-    {
       "nombre": "Avene Crema Reparadora Cutánea Cicalfate Plus x 40Ml",
       "marca": "Avene",
       "precio": 55000,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/160320/5452.jpg?v=638027376320000000",
       "url": "https://www.bellapiel.com.co/cicalfate_plus_crema_x_40ml/p",
+      "es_mas_barato": true,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Crema Lactovit Reparadora X 1 Litro",
+      "marca": "INDUSTRIAS BISONTE",
+      "precio": 55350,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210705/8411135654792.jpg?v=639047695062200000",
+      "url": "https://www.drogueriascolsubsidio.com/crema-lactovit-reparadora-x-1-litro-8411135654792/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Avene Hydrance Aqua Gel x 50 Ml",
+      "marca": "Avene",
+      "precio": 121600,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173704/5268.jpg?v=639086850620500000",
+      "url": "https://www.bellapiel.com.co/hydrance-aqua-gel-cr-hidratante-50ml-1/p",
       "es_mas_barato": false,
       "grupo_id": "G002",
       "en_grupo": true
@@ -741,7 +741,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 169915,
+      "precio": 159920,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173662/2796.jpg?v=639086843978870000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -763,7 +763,7 @@
     {
       "nombre": "Rozelaic Gel",
       "marca": "Medicamentos",
-      "precio": 98820,
+      "precio": 87840,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166101/2308-ROZELAIC-GEL.jpg?v=638357437008700000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
@@ -774,7 +774,7 @@
     {
       "nombre": "Electrolit Solución Oral Maracuya",
       "marca": "PISA FARMACEUTICA",
-      "precio": 8650,
+      "precio": 6920,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211112/ZA_224_Electrolit-Colombia-Hero IMG-08.jpg?v=639083233040370000",
       "url": "https://www.drogueriascolsubsidio.com/electrolit-solucion-oral-maracuya-7501125184864/p",
@@ -785,7 +785,7 @@
     {
       "nombre": "Pedialyte Max 60 Con Zinc Solución Oral Fresa",
       "marca": "ABBOTT",
-      "precio": 10250,
+      "precio": 8200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208256/7501033961557.jpg?v=638929466786230000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-solucion-oral-fresa-7501033961557/p",
@@ -796,7 +796,7 @@
     {
       "nombre": "Pedialyte Max 60 Con Zinc Uva Solución Oral",
       "marca": "ABBOTT",
-      "precio": 10250,
+      "precio": 8200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208263/7501033957376.jpg?v=638929468883600000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-uva-solucion-oral-7501033957376/p",
@@ -807,7 +807,7 @@
     {
       "nombre": "Pedialyte Max 60 Con Zinc Manzana Solución Oral",
       "marca": "ABBOTT",
-      "precio": 10250,
+      "precio": 8200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208264/7501033957369.jpg?v=638929469460170000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-manzana-solucion-oral-7501033957369/p",
@@ -851,7 +851,7 @@
     {
       "nombre": "Mounjaro 2.5Mg/0.5Ml Solucion Inyectable",
       "marca": "ELI LILLY",
-      "precio": 207360,
+      "precio": 208035,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211083/7703991918295.jpg?v=639076268931070000",
       "url": "https://www.drogueriascolsubsidio.com/mounjaro-25mg05ml-solucion-inyectable-7703991918295/p",
@@ -928,7 +928,7 @@
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 53550,
+      "precio": 55000,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
@@ -939,7 +939,7 @@
     {
       "nombre": "Gestavit Dha Multivitaminico Cápsula Blanda Con Cubierta Enterica",
       "marca": "PROCAPS",
-      "precio": 88150,
+      "precio": 90500,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/162589/7703153022693.jpg?v=637212592975370000",
       "url": "https://www.drogueriascolsubsidio.com/gestavit-dha-multivitaminico-capsula-blanda-con-cubierta-enterica-7703153022693/p",
@@ -961,7 +961,7 @@
     {
       "nombre": "Anemidox Cápsula",
       "marca": "MERCK",
-      "precio": 120400,
+      "precio": 96320,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/209567/7702418006430.jpg?v=638966586906430000",
       "url": "https://www.drogueriascolsubsidio.com/anemidox-capsula-7500435248730/p",
@@ -981,20 +981,9 @@
       "en_grupo": true
     },
     {
-      "nombre": "Pañal Winny Pants Etapa 6 Bolsa X30",
-      "marca": "TECNOQUIMICAS",
-      "precio": 48150,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/173655/7701021118868.jpg?v=637584480329700000",
-      "url": "https://www.drogueriascolsubsidio.com/panal-winny-pants-etapa-6-bolsa-x30-7701021118868/p",
-      "es_mas_barato": false,
-      "grupo_id": "G010",
-      "en_grupo": true
-    },
-    {
       "nombre": "Pañal Content Medical L Bol x 21und",
       "marca": "TECNOQUIMICAS",
-      "precio": 61000,
+      "precio": 48800,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200806/7701021120663_Hero_Image_1_Alta_0.jpg?v=638665932356230000",
       "url": "https://www.drogueriascolsubsidio.com/panal-content-medical-l-bol-x-21und-7701021120663/p",
@@ -1003,9 +992,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Pañal Winny Pants Etapa 6 Bolsa X30",
+      "marca": "TECNOQUIMICAS",
+      "precio": 53500,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/173655/7701021118868.jpg?v=637584480329700000",
+      "url": "https://www.drogueriascolsubsidio.com/panal-winny-pants-etapa-6-bolsa-x30-7701021118868/p",
+      "es_mas_barato": false,
+      "grupo_id": "G010",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pañal Winny Sec Etapa 4",
       "marca": "TECNOQUIMICAS",
-      "precio": 65700,
+      "precio": 73000,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/178380/7701021147585.jpg?v=637828992209730000",
       "url": "https://www.drogueriascolsubsidio.com/panal-winny-sec-etapa-4-7701021147585/p",
@@ -1071,7 +1071,7 @@
     {
       "nombre": "JERINGA INSULINA RYMCO 1ML 27GX1/2",
       "marca": "RYMCO",
-      "precio": 350,
+      "precio": 280,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208376/7706634040032.jpg?v=638933003736300000",
       "url": "https://www.drogueriascolsubsidio.com/jeringa-insulina-rymco-1ml-27gx12-7706634040032/p",
@@ -1082,7 +1082,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2450,
+      "precio": 2800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1115,7 +1115,7 @@
     {
       "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
       "marca": "FRESCAMPO",
-      "precio": 2996,
+      "precio": 3424,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
       "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
@@ -1214,7 +1214,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 2352,
+      "precio": 2688,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1225,7 +1225,7 @@
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 4074,
+      "precio": 4608,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
@@ -1256,6 +1256,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Queso mozzarella EXITO MARCA PROPIA tajado (800  gr)",
+      "marca": "EXITO MARCA PROPIA",
+      "precio": 19980,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30780900/Queso-Mozzarella-Exito-EXITO-MARCA-PROPIA-800-gr-3479458_a.jpg?v=638931943027430000",
+      "url": "https://tienda.exito.com/queso-mozzarella-exito-exito-marca-propia-800-gr-3147133/p",
+      "es_mas_barato": false,
+      "grupo_id": "G022",
+      "en_grupo": true
+    },
+    {
       "nombre": "Cerveza AGUILA 12 latas (3630  ml)",
       "marca": "AGUILA",
       "precio": 35500,
@@ -1280,7 +1291,7 @@
     {
       "nombre": "Chocolate CORONA tradicional pastillado (450  gr)",
       "marca": "CORONA",
-      "precio": 15600,
+      "precio": 13260,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29100776/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=638881035752400000",
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
@@ -1291,7 +1302,7 @@
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 3640,
+      "precio": 4160,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
@@ -1302,7 +1313,7 @@
     {
       "nombre": "Ajo Malla Importado x3   1  und",
       "marca": "SM",
-      "precio": 1680,
+      "precio": 1920,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29335732/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=638890559301500000",
       "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
@@ -1322,23 +1333,23 @@
       "en_grupo": false
     },
     {
-      "nombre": "Costilla de cerdo  fresca",
+      "nombre": "Molida de res  fresca",
       "marca": "SM",
-      "precio": 23880,
+      "precio": 26384,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31447423/COSTILLA-CERDO-875493_a.jpg?v=638968315599170000",
-      "url": "https://tienda.exito.com/costilla-cerdo-487824/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31455979/MOLIDA-ESPECIAL-937-SI-804733_a.jpg?v=638968421939430000",
+      "url": "https://tienda.exito.com/molida-especial-937-si-506771/p",
       "es_mas_barato": true,
       "grupo_id": "G029",
       "en_grupo": true
     },
     {
-      "nombre": "Molida de res  fresca",
+      "nombre": "Milanesa de res  fresca",
       "marca": "SM",
-      "precio": 32980,
+      "precio": 27184,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31455979/MOLIDA-ESPECIAL-937-SI-804733_a.jpg?v=638968421939430000",
-      "url": "https://tienda.exito.com/molida-especial-937-si-506771/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31456002/MILANESA-RES-616300_a.jpg?v=638968422165900000",
+      "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
       "grupo_id": "G029",
       "en_grupo": true
@@ -1350,17 +1361,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31527727/CARNES-ASAR-FREIR-SI-237700_a.jpg?v=638979691367170000",
       "url": "https://tienda.exito.com/carnes-asar-freir-si-498107/p",
-      "es_mas_barato": false,
-      "grupo_id": "G029",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Milanesa de res  fresca",
-      "marca": "SM",
-      "precio": 33980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31456002/MILANESA-RES-616300_a.jpg?v=638968422165900000",
-      "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
       "grupo_id": "G029",
       "en_grupo": true
