@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-04-07T13:24:16.098Z",
+  "ultima_actualizacion": "2026-04-08T02:40:30.311Z",
   "productos": [
     {
       "nombre": "Blanqueador EKONO pureza cítrica (2000  ml)",
@@ -239,17 +239,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166440/1419-Eucerin-Protector-Solar-Facial-Toque-Seco--Fps-50-_1.jpg?v=639041059168430000",
       "url": "https://www.bellapiel.com.co/eucerin-oil-control-50-ml-1419/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Dercos DS Shampoo Anticaspa Cabello Graso Refill - Vichy",
-      "marca": "Vichy",
-      "precio": 129000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182576/Dercos-DS-Shampoo-Anticaspa-Cabello-Graso-Refill---Vichy--1-.jpg?v=639051338541000000",
-      "url": "https://www.medipiel.com.co/dercos-ds-shampoo-anticaspa-cabello-graso-refill-vichy/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -695,6 +684,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Kit Luminosidad Sesvitamin C- 5 Serum 30 ml + Gratis Sesvitamin C- Crema 50 ml - Sesderma",
+      "marca": "Sesderma",
+      "precio": 289500,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2173094/Kit-Luminosidad-Sesvitamin-C--5-Serum---Gratis-Sesvitamin-C--Crema---Sesderma.jpg?v=639005522616800000",
+      "url": "https://www.medipiel.com.co/kit-luminosidad-sesvitamin-c-5-serum-gratis-sesvitamin-c-crema-sesderma/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Cicaplast Baume B5+ - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 58950,
@@ -1082,7 +1082,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2310,
+      "precio": 2450,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1093,7 +1093,7 @@
     {
       "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
       "marca": "FRESCAMPO",
-      "precio": 1990,
+      "precio": 2490,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/28958849/Lenteja-1121547_a.jpg?v=638864600885130000",
       "url": "https://tienda.exito.com/lenteja-837337/p",
@@ -1179,17 +1179,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Leche deslactosada COLANTA x6und (6000  ml)",
-      "marca": "COLANTA",
-      "precio": 33200,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32829866/Leche-Uht-Deslactosada-COLANTA-6000-ml-3202770_a.jpg?v=639095354285470000",
-      "url": "https://tienda.exito.com/leche-uht-deslactosada-colanta-6000-ml-3069108/p",
-      "es_mas_barato": false,
-      "grupo_id": "G018",
-      "en_grupo": true
-    },
-    {
       "nombre": "Huevos A SMN rojo (30  und)",
       "marca": "SMN",
       "precio": 11990,
@@ -1225,7 +1214,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 1792,
+      "precio": 2352,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1247,7 +1236,7 @@
     {
       "nombre": "Pan tajado BIMBO blanco suave esponjoso (730  gr)",
       "marca": "BIMBO",
-      "precio": 8860,
+      "precio": 8910,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27642997/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=638835282107130000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
@@ -1262,17 +1251,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/28955906/Arroz-Diana-5000-gr-814670_a.jpg?v=638864002330800000",
       "url": "https://tienda.exito.com/arroz-diana-5000-gr-498671/p",
-      "es_mas_barato": false,
-      "grupo_id": "G022",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Queso mozzarella EXITO MARCA PROPIA tajado (800  gr)",
-      "marca": "EXITO MARCA PROPIA",
-      "precio": 19980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30780900/Queso-Mozzarella-Exito-EXITO-MARCA-PROPIA-800-gr-3479458_a.jpg?v=638931943027430000",
-      "url": "https://tienda.exito.com/queso-mozzarella-exito-exito-marca-propia-800-gr-3147133/p",
       "es_mas_barato": false,
       "grupo_id": "G022",
       "en_grupo": true
@@ -1313,7 +1291,7 @@
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 1722,
+      "precio": 3640,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
@@ -1324,7 +1302,7 @@
     {
       "nombre": "Ajo Malla Importado x3   1  und",
       "marca": "SM",
-      "precio": 756,
+      "precio": 1680,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29335732/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=638890559301500000",
       "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
@@ -1344,13 +1322,35 @@
       "en_grupo": false
     },
     {
+      "nombre": "Costilla de cerdo  fresca",
+      "marca": "SM",
+      "precio": 23880,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31447423/COSTILLA-CERDO-875493_a.jpg?v=638968315599170000",
+      "url": "https://tienda.exito.com/costilla-cerdo-487824/p",
+      "es_mas_barato": true,
+      "grupo_id": "G029",
+      "en_grupo": true
+    },
+    {
       "nombre": "Molida de res  fresca",
       "marca": "SM",
-      "precio": 30980,
+      "precio": 32980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31455979/MOLIDA-ESPECIAL-937-SI-804733_a.jpg?v=638968421939430000",
       "url": "https://tienda.exito.com/molida-especial-937-si-506771/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
+      "grupo_id": "G029",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Carne de res asar freír  fresca",
+      "marca": "SM",
+      "precio": 32980,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31527727/CARNES-ASAR-FREIR-SI-237700_a.jpg?v=638979691367170000",
+      "url": "https://tienda.exito.com/carnes-asar-freir-si-498107/p",
+      "es_mas_barato": false,
       "grupo_id": "G029",
       "en_grupo": true
     },
