@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-10T13:23:57.082Z",
+  "ultima_actualizacion": "2026-05-11T03:46:40.755Z",
   "productos": [
     {
       "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
@@ -9,17 +9,6 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/28958849/Lenteja-1121547_a.jpg?v=638864600885130000",
       "url": "https://tienda.exito.com/lenteja-837337/p",
       "es_mas_barato": true,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 2736,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
-      "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
     },
@@ -35,34 +24,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 2840,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Sal REFISAL alta pureza  (1000  gr)",
       "marca": "REFISAL",
       "precio": 2910,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32006772/Sal-Refinada-1000-gr-125407_a.jpg?v=639010821199030000",
       "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Toallitas húmedas PERSONAL CHOICE MARCA EXCLUSIV aloe vera (72  und)",
-      "marca": "PERSONAL CHOICE MARCA EXCLUSIV",
-      "precio": 3840,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33292796/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639136102342930000",
-      "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Atún EXITO MARCA PROPIA lomitos en agua (110.5  gr)",
-      "marca": "EXITO MARCA PROPIA",
-      "precio": 4440,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31882401/Atun-Lomo-Agua-EXITO-MARCA-PROPIA-170-gr-3259113_a.jpg?v=638995998005130000",
-      "url": "https://tienda.exito.com/atun-lomo-agua-exito-marca-propia-170-gr-3083226/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -332,17 +310,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Limpiador Líquido Piel Grasa - Cetaphil",
-      "marca": "Cetaphil",
-      "precio": 78925,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172946/3499320015530_1.jpg?v=639005367792900000",
-      "url": "https://www.medipiel.com.co/limpiador-piel-grasa-x-237ml-cetaphil/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Limpiador Líquido Para Piel Grasa 473Ml",
       "marca": "Cetaphil",
       "precio": 78925,
@@ -475,17 +442,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Dercos Shampoo Anticaspa Normal A Grasa",
-      "marca": "LOREAL",
-      "precio": 104850,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/196870/3337871330286_2.jpg?v=638513970870530000",
-      "url": "https://www.drogueriascolsubsidio.com/dercos-shampoo-anticaspa-normal-a-grasa-3337871330286/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Cetaphil Limpiador Facial Piel Grasa",
       "marca": "PHARMADERM",
       "precio": 106050,
@@ -585,6 +541,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Limpiador Líquido Piel Grasa - Cetaphil",
+      "marca": "Cetaphil",
+      "precio": 112750,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172946/3499320015530_1.jpg?v=639005367792900000",
+      "url": "https://www.medipiel.com.co/limpiador-piel-grasa-x-237ml-cetaphil/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Fotoprotector Fusion Water Magic Repair - Isdin",
       "marca": "Isdin",
       "precio": 121760,
@@ -662,23 +629,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Shampoo Genesis Hydra-Fortifiant Anticaída Cabello Graso - Kérastase",
+      "marca": "Kérastase",
+      "precio": 140000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225181/shampoo-genesis-hydra-fortifiant-kerastase.jpg.jpg?v=638751495208170000",
+      "url": "https://www.medipiel.com.co/shampoo-genesis-hydra-fortifiant-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Isdin Fotoprotector Fusion Water Magic SPF50",
       "marca": "ISDIN COLOMBIA",
       "precio": 142050,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/193696/8429420248977-1.jpg?v=638336775494170000",
       "url": "https://www.drogueriascolsubsidio.com/isdin-fotoprotector-fusion-water-magic-spf50-8429420248977/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Protector Solar Anthelios Age Correct Spf 50 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 143900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187052/anthelios-age-sin-color.jpg?v=639104837591870000",
-      "url": "https://www.medipiel.com.co/anthelios-age-correct-spf-50--la-roche-posay-1/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -734,17 +701,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2185803/kit-fusion-water-magic-oil-control-50ml-fotoprotector-invisible-stick-spf50-10g-isdin.jpg?v=639086810938970000",
       "url": "https://www.medipiel.com.co/kit-fusion-water-magic-oil-control-50ml-fotoprotector-invisible-stick-spf50-10g-isdin/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Kit Effaclar Serum + Effaclar DUO M + Effaclar Agua Micelar Ultra - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 174900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184879/kit-effaclar-serum-effaclar-duo-m-effaclar-agua-micelar-ultra-la-roche-posay--8-.jpg?v=639071035427170000",
-      "url": "https://www.medipiel.com.co/kit-effaclar-serum-effaclar-duo-m-effaclar-agua-micelar-ultra-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -816,6 +772,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Sérum Nutritive 8H Magic Night Nutrición Nocturna Para Cabello Seco - Kérastase",
+      "marca": "Kérastase",
+      "precio": 259000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225269/serum-nutritive-8h-magic-night-kerastase.jpg.jpg?v=638751504546900000",
+      "url": "https://www.medipiel.com.co/serum-nutritive-8h-magic-night-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Retinal Intense ISDIN Sérum Bifásico de Noche 50 Ml",
       "marca": "Isdin",
       "precio": 274200,
@@ -860,17 +827,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Shampoo Genesis Hydra-Fortifiant Anticaída Cabello Graso - Kérastase",
-      "marca": "Kérastase",
-      "precio": 140000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225181/shampoo-genesis-hydra-fortifiant-kerastase.jpg.jpg?v=638751495208170000",
-      "url": "https://www.medipiel.com.co/shampoo-genesis-hydra-fortifiant-kerastase/p",
-      "es_mas_barato": false,
-      "grupo_id": "G002",
-      "en_grupo": true
-    },
-    {
       "nombre": "Mascarilla Absolut Repair Reparación Cabello Dañado - Loreal Professionnel",
       "marca": "L'Oréal Professionnel",
       "precio": 143000,
@@ -899,9 +855,20 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2165455/p-tiox-suero-antienvejecimiento-skinceuticals.jpg?v=638925903424670000",
       "url": "https://www.medipiel.com.co/p-tiox-suero-antienvejecimiento-skinceuticals/p",
+      "es_mas_barato": true,
+      "grupo_id": "G003",
+      "en_grupo": true
+    },
+    {
+      "nombre": "C E Ferulic - Skinceuticals",
+      "marca": "Skinceuticals",
+      "precio": 521925,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2165494/ce-ferulic-x-30ml-skinceuticals.jpg?v=638925919186700000",
+      "url": "https://www.medipiel.com.co/ce-ferulic-x-30ml-skinceuticals/p",
       "es_mas_barato": false,
       "grupo_id": "G003",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "Crema Reparadora Para El Contorno De Los Ojos - CeraVe",
@@ -1124,6 +1091,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Sobre Panini X 7 Laminas Copa Mundial de la FIFA 2026",
+      "marca": "CONTINENTE",
+      "precio": 5000,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211567/7897653549146.jpg?v=639130017290900000",
+      "url": "https://www.drogueriascolsubsidio.com/sobre-x7-laminas-copa-mundi-delafifa2026-7897653549146/p",
+      "es_mas_barato": false,
+      "grupo_id": "G014",
+      "en_grupo": false
+    },
+    {
       "nombre": "Curitas Reductor De Cicatrices Ref: 02728 Beiersdorf S.A",
       "marca": "BEIERSDORF",
       "precio": 151700,
@@ -1131,7 +1109,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208694/4006000058894-1.jpg?v=638941732530800000",
       "url": "https://www.drogueriascolsubsidio.com/curitas-reductor-de-cicatrices-ref-02728-beiersdorf-sa-4006000058894/p",
       "es_mas_barato": false,
-      "grupo_id": "G014",
+      "grupo_id": "G015",
       "en_grupo": false
     },
     {
@@ -1142,7 +1120,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
       "es_mas_barato": false,
-      "grupo_id": "G015",
+      "grupo_id": "G016",
       "en_grupo": false
     },
     {
@@ -1153,7 +1131,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/196841/7701684000135.jpg?v=638509688877800000",
       "url": "https://www.drogueriascolsubsidio.com/almipro-25-ungento-7701684000135/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G017",
       "en_grupo": false
     },
     {
@@ -1164,18 +1142,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198539/7707355055473.jpg?v=638584835401330000",
       "url": "https://www.drogueriascolsubsidio.com/oferta-protector-solar-afelius-oil-free-gel-50dto-segunda-unidad-7707355055473/p",
       "es_mas_barato": false,
-      "grupo_id": "G017",
+      "grupo_id": "G018",
       "en_grupo": false
     },
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2560,
+      "precio": 3200,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
       "es_mas_barato": false,
-      "grupo_id": "G018",
+      "grupo_id": "G019",
       "en_grupo": false
     },
     {
@@ -1186,7 +1164,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32892558/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639100640567770000",
       "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
       "es_mas_barato": true,
-      "grupo_id": "G019",
+      "grupo_id": "G020",
       "en_grupo": true
     },
     {
@@ -1197,7 +1175,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33285898/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639135796352430000",
       "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
       "es_mas_barato": false,
-      "grupo_id": "G019",
+      "grupo_id": "G020",
       "en_grupo": true
     },
     {
@@ -1208,7 +1186,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32900846/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639101333554500000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
       "es_mas_barato": false,
-      "grupo_id": "G019",
+      "grupo_id": "G020",
       "en_grupo": true
     },
     {
@@ -1218,25 +1196,25 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32461291/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639062674944600000",
       "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": false
+      "es_mas_barato": true,
+      "grupo_id": "G021",
+      "en_grupo": true
     },
     {
-      "nombre": "4 x Tomates Chonto",
+      "nombre": "Costilla de cerdo  fresca",
       "marca": "SM",
-      "precio": 3008,
+      "precio": 26100,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
-      "url": "https://tienda.exito.com/4xtomates/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31447423/COSTILLA-CERDO-875493_a.jpg?v=638968315599170000",
+      "url": "https://tienda.exito.com/costilla-cerdo-487824/p",
       "es_mas_barato": false,
       "grupo_id": "G021",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 3392,
+      "precio": 4240,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1247,7 +1225,7 @@
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 4800,
+      "precio": 6000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
@@ -1256,13 +1234,35 @@
       "en_grupo": false
     },
     {
+      "nombre": "Toallitas húmedas PERSONAL CHOICE MARCA EXCLUSIV aloe vera (72  und)",
+      "marca": "PERSONAL CHOICE MARCA EXCLUSIV",
+      "precio": 3840,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33292796/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639136102342930000",
+      "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
+      "es_mas_barato": true,
+      "grupo_id": "G024",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Atún EXITO MARCA PROPIA lomitos en agua (110.5  gr)",
+      "marca": "EXITO MARCA PROPIA",
+      "precio": 4440,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31882401/Atun-Lomo-Agua-EXITO-MARCA-PROPIA-170-gr-3259113_a.jpg?v=638995998005130000",
+      "url": "https://tienda.exito.com/atun-lomo-agua-exito-marca-propia-170-gr-3083226/p",
+      "es_mas_barato": false,
+      "grupo_id": "G024",
+      "en_grupo": true
+    },
+    {
       "nombre": "Galletas SALTIN NOEL mix tradicional y queso mantequilla (510  gr)",
       "marca": "SALTIN NOEL",
       "precio": 8390,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31753714/Galletas-Mix-SALTIN-NOEL-510-gr-3266685_a.jpg?v=638986365908470000",
       "url": "https://tienda.exito.com/galletas-mix-saltin-noel-510-gr-3084896/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G024",
       "en_grupo": true
     },
@@ -1284,17 +1284,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30780900/Queso-Mozzarella-Exito-EXITO-MARCA-PROPIA-800-gr-3479458_a.jpg?v=638931943027430000",
       "url": "https://tienda.exito.com/queso-mozzarella-exito-exito-marca-propia-800-gr-3147133/p",
-      "es_mas_barato": false,
-      "grupo_id": "G024",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Queso Mozarella FINESSE 30 tajadas   (450  gr)",
-      "marca": "FINESSE",
-      "precio": 27100,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30779139/Queso-Fresco-15-Pcto-De-Descuento-Paq-X-30-Tajadas-426036_a.jpg?v=638931929633500000",
-      "url": "https://tienda.exito.com/queso-fresco-15-pcto-de-descuento-paq-x-30-tajadas-559646/p",
       "es_mas_barato": false,
       "grupo_id": "G024",
       "en_grupo": true
@@ -1324,7 +1313,7 @@
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 1600,
+      "precio": 4900,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
@@ -1344,13 +1333,24 @@
       "en_grupo": false
     },
     {
+      "nombre": "Carne de res asar freír  fresca",
+      "marca": "SM",
+      "precio": 28033,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31527727/CARNES-ASAR-FREIR-SI-237700_a.jpg?v=638979691367170000",
+      "url": "https://tienda.exito.com/carnes-asar-freir-si-498107/p",
+      "es_mas_barato": true,
+      "grupo_id": "G029",
+      "en_grupo": true
+    },
+    {
       "nombre": "Molida de res  fresca",
       "marca": "SM",
       "precio": 32980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31455979/MOLIDA-ESPECIAL-937-SI-804733_a.jpg?v=638968421939430000",
       "url": "https://tienda.exito.com/molida-especial-937-si-506771/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G029",
       "en_grupo": true
     },
