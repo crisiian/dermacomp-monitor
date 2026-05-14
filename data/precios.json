@@ -1,6 +1,17 @@
 {
-  "ultima_actualizacion": "2026-05-14T03:38:34.898Z",
+  "ultima_actualizacion": "2026-05-14T14:20:45.545Z",
   "productos": [
+    {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 2304,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": true,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
     {
       "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
       "marca": "FRESCAMPO",
@@ -8,7 +19,7 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/28958849/Lenteja-1121547_a.jpg?v=638864600885130000",
       "url": "https://tienda.exito.com/lenteja-837337/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
     },
@@ -19,17 +30,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32036691/Blanqueador-sin-fragancia-EKONO-SIN-REF-3023705_a.jpg?v=639015964701900000",
       "url": "https://tienda.exito.com/blanqueador-sin-fragancia-ekono-sin-ref-3016130/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 2840,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -46,17 +46,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Vitamina C Tableta Masticable Naranja",
-      "marca": "LA SANTE",
-      "precio": 4603,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203354/7703763750115.jpg.jpg?v=638760247030030000",
-      "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Pastas LA MUNECA spaghetti (1000  gr)",
       "marca": "LA MUNECA",
       "precio": 4712,
@@ -68,9 +57,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Vitamina C Tableta Masticable Naranja",
+      "marca": "LA SANTE",
+      "precio": 5415,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203354/7703763750115.jpg.jpg?v=638760247030030000",
+      "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Platano Insuperable FRESCAMPO 1600  gr",
       "marca": "FRESCAMPO",
-      "precio": 5500,
+      "precio": 7500,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27514349/Platano-Ekono-1-6kg-157710_a.jpg?v=638827677733400000",
       "url": "https://tienda.exito.com/platano-ekono-1-6kg-795763/p",
@@ -81,7 +81,7 @@
     {
       "nombre": "Dolex Avanzado 500 Mg Tableta Recubierta",
       "marca": "HALEON COLOMBIA SAS",
-      "precio": 8015,
+      "precio": 9430,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206573/7707397791490.jpg?v=638853409671670000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
@@ -136,7 +136,7 @@
     {
       "nombre": "Dolex Avanzado 500 Mg Tableta Recubierta",
       "marca": "HALEON COLOMBIA SAS",
-      "precio": 27370,
+      "precio": 27400,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206032/07707397791469_C1C1.jpg?v=638836062329130000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791469/p",
@@ -211,28 +211,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "CICAPLAST BAUME B5",
-      "marca": "LOREAL",
-      "precio": 45305,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210239/3337875816809_1.jpg?v=638997792670670000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Crema Lactovit Reparadora X 1 Litro- INACTIVO X CAMBIO DE EAN",
-      "marca": "INDUSTRIAS BISONTE",
-      "precio": 46155,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210705/8411135654792.jpg?v=639047695062200000",
-      "url": "https://www.drogueriascolsubsidio.com/crema-lactovit-reparadora-x-1-litro-8411135654792/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Cerave Contorno De Ojos Crema Reparadora x 14Ml",
       "marca": "Cerave",
       "precio": 47212,
@@ -250,6 +228,28 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170152/6406-1-CERAVE-GEL-LIMPIADOR-ESPUMOSO-PIEL-NORMAL-A-GRASA-BELLA-PIEL.jpg.jpg?v=638808540754170000",
       "url": "https://www.bellapiel.com.co/gel-limpiador-facial-espumoso-para-piel-normal-a-grasa-cerave-236-ml-6406/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "CICAPLAST BAUME B5",
+      "marca": "LOREAL",
+      "precio": 53300,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210239/3337875816809_1.jpg?v=638997792670670000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Crema Lactovit Reparadora X 1 Litro- INACTIVO X CAMBIO DE EAN",
+      "marca": "INDUSTRIAS BISONTE",
+      "precio": 54300,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210705/8411135654792.jpg?v=639047695062200000",
+      "url": "https://www.drogueriascolsubsidio.com/crema-lactovit-reparadora-x-1-litro-8411135654792/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -288,17 +288,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Neutrogena Hydro Boost Water Gel Hidratante",
-      "marca": "JOHNSON Y JOHNSON",
-      "precio": 62305,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/199003/7891010255725_1.jpg?v=638622034131500000",
-      "url": "https://www.drogueriascolsubsidio.com/neutrogena-hydro-boost-water-gel-hidratante-7891010255725/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Limpiador en Gel Acnestil 100 Ml",
       "marca": "Rilastil",
       "precio": 64600,
@@ -310,12 +299,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Crema Lubriderm Reparación Intensiva",
+      "nombre": "Neutrogena Hydro Boost Water Gel Hidratante",
       "marca": "JOHNSON Y JOHNSON",
-      "precio": 68382,
+      "precio": 73300,
       "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172347/7501007528434.jpg?v=637523927781270000",
-      "url": "https://www.drogueriascolsubsidio.com/crema-lubriderm-reparacion-intensiva-7501007528434/p",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/199003/7891010255725_1.jpg?v=638622034131500000",
+      "url": "https://www.drogueriascolsubsidio.com/neutrogena-hydro-boost-water-gel-hidratante-7891010255725/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -327,17 +316,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170174/6599-1-CERAVE-LIMPIADOR-CONTROL-IMPERFECCIONES-BELLA-PIEL.jpg.jpg?v=638808550610430000",
       "url": "https://www.bellapiel.com.co/cerave-limpiador-control-imperfecciones-x-236ml-6599/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Shampoo Absolut Repair Refill - Loreal Professionnel",
-      "marca": "L'Oréal Professionnel",
-      "precio": 76500,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2186689/7908785404958_7.png?v=639099744408200000",
-      "url": "https://www.medipiel.com.co/shampoo-absolut-repair-loreal-professionnel/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -360,6 +338,17 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172946/3499320015530_1.jpg?v=639005367792900000",
       "url": "https://www.medipiel.com.co/limpiador-piel-grasa-x-237ml-cetaphil/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Crema Lubriderm Reparación Intensiva",
+      "marca": "JOHNSON Y JOHNSON",
+      "precio": 80450,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172347/7501007528434.jpg?v=637523927781270000",
+      "url": "https://www.drogueriascolsubsidio.com/crema-lubriderm-reparacion-intensiva-7501007528434/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -508,17 +497,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "ISDIN Fusion Water Magic Color Medium",
-      "marca": "Isdin",
-      "precio": 106575,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/168394/4117-1.jpg?v=639113376048870000",
-      "url": "https://www.bellapiel.com.co/fotoprotector-isdin-fusion-water-color-medium-4117/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Hidratante Facial Antimanchas Oil Control Cetaphil 89 Ml",
       "marca": "Cetaphil",
       "precio": 106600,
@@ -569,17 +547,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/194946/foto-ultra-active-unify-fusion-fluid-spf-50-isdin-con-color.jpg?v=638627902781700000",
       "url": "https://www.medipiel.com.co/foto-ultra-active-unify-fusion-fluid-spf-50-isdin/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Isdin Fotoprotector Fusion Water Magic SPF50",
-      "marca": "ISDIN COLOMBIA",
-      "precio": 120742,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/193696/8429420248977-1.jpg?v=638336775494170000",
-      "url": "https://www.drogueriascolsubsidio.com/isdin-fotoprotector-fusion-water-magic-spf50-8429420248977/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -646,6 +613,39 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170212/2439-1-LA-ROCHE-POSAY-EFFACLAR-GEL-PURIFICANTE-BELLA-PIEL.jpg.jpg?v=638808593011100000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-gel-400ml-2439/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Shampoo Genesis Hydra-Fortifiant Anticaída Cabello Graso - Kérastase",
+      "marca": "Kérastase",
+      "precio": 140000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225181/shampoo-genesis-hydra-fortifiant-kerastase.jpg.jpg?v=638751495208170000",
+      "url": "https://www.medipiel.com.co/shampoo-genesis-hydra-fortifiant-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Isdin Fotoprotector Fusion Water Magic SPF50",
+      "marca": "ISDIN COLOMBIA",
+      "precio": 142050,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/193696/8429420248977-1.jpg?v=638336775494170000",
+      "url": "https://www.drogueriascolsubsidio.com/isdin-fotoprotector-fusion-water-magic-spf50-8429420248977/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ISDIN Fusion Water Magic Color Medium",
+      "marca": "Isdin",
+      "precio": 142100,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/168394/4117-1.jpg?v=639113376048870000",
+      "url": "https://www.bellapiel.com.co/fotoprotector-isdin-fusion-water-color-medium-4117/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -884,7 +884,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 159920,
+      "precio": 199900,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174888/2796.png?v=639141097223430000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -906,7 +906,7 @@
     {
       "nombre": "Electrolit Solución Oral Maracuya",
       "marca": "PISA FARMACEUTICA",
-      "precio": 6920,
+      "precio": 8650,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211112/ZA_224_Electrolit-Colombia-Hero IMG-08.jpg?v=639083233040370000",
       "url": "https://www.drogueriascolsubsidio.com/electrolit-solucion-oral-maracuya-7501125184864/p",
@@ -917,7 +917,7 @@
     {
       "nombre": "Pedialyte Max 60 Con Zinc Uva Solución Oral",
       "marca": "ABBOTT",
-      "precio": 8560,
+      "precio": 10700,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208263/7501033957376.jpg?v=638929468883600000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-uva-solucion-oral-7501033957376/p",
@@ -926,9 +926,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Dolex 2+Niños 3.2% Solución Jarabe",
+      "marca": "GLAXO CONSUMER HEALTHCARE",
+      "precio": 17450,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/182861/7707172685778_2_1200x1200px.jpg?v=637999095165800000",
+      "url": "https://www.drogueriascolsubsidio.com/dolex-150-mg-ninos-jarabe-7707172685778/p",
+      "es_mas_barato": false,
+      "grupo_id": "G008",
+      "en_grupo": true
+    },
+    {
       "nombre": "Lagricel Ofteno 0.4% Solucion Oftalmica",
       "marca": "SOPHIA",
-      "precio": 62560,
+      "precio": 58880,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198343/736085413694-1.jpg?v=638581382972670000",
       "url": "https://www.drogueriascolsubsidio.com/lagricel-ofteno-04-solucion-oftalmica-736085413694/p",
@@ -939,7 +950,7 @@
     {
       "nombre": "Enterogermina Suspensión Oral",
       "marca": "SANOFI AVENTIS",
-      "precio": 68720,
+      "precio": 85900,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211305/IMAGENES CAFAM ENTEROGERMINA 1000x667px-01.jpg?v=639104736039730000",
       "url": "https://www.drogueriascolsubsidio.com/enterogermina-suspension-oral-3582910009900/p",
@@ -961,7 +972,7 @@
     {
       "nombre": "Mounjaro 2.5Mg/0.5Ml Solucion Inyectable",
       "marca": "ELI LILLY",
-      "precio": 214200,
+      "precio": 226800,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211083/7703991918295.jpg?v=639076268931070000",
       "url": "https://www.drogueriascolsubsidio.com/mounjaro-25mg05ml-solucion-inyectable-7703991918295/p",
@@ -972,7 +983,7 @@
     {
       "nombre": "Mounjaro 5Mg/0.5Ml Solucion Inyectable",
       "marca": "ELI LILLY",
-      "precio": 284750,
+      "precio": 301500,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211081/7703991306382.jpg?v=639075649802470000",
       "url": "https://www.drogueriascolsubsidio.com/mounjaro-5mg05ml-solucion-inyectable-7703991306382/p",
@@ -983,7 +994,7 @@
     {
       "nombre": "Acetaminofen 500 Mg Tableta Genfar",
       "marca": "GENFAR",
-      "precio": 1823,
+      "precio": 2145,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/161219/7702605100019.jpg?v=637115844571530000",
       "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-genfar-7702605100019/p",
@@ -1005,23 +1016,12 @@
     {
       "nombre": "Engystol Tableta",
       "marca": "HEEL COLOMBIA",
-      "precio": 76075,
+      "precio": 89500,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
       "es_mas_barato": false,
       "grupo_id": "G009",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Gestavit Dha Multivitaminico Cápsula Blanda Con Cubierta Enterica",
-      "marca": "PROCAPS",
-      "precio": 76925,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/162589/7703153022693.jpg?v=637212592975370000",
-      "url": "https://www.drogueriascolsubsidio.com/gestavit-dha-multivitaminico-capsula-blanda-con-cubierta-enterica-7703153022693/p",
-      "es_mas_barato": true,
-      "grupo_id": "G010",
       "en_grupo": true
     },
     {
@@ -1031,6 +1031,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/160082/7707350411052.jpg?v=637109860234030000",
       "url": "https://www.drogueriascolsubsidio.com/vagilac-lactobacilos--prebioticos-1350mg-capsula-7707350411052/p",
+      "es_mas_barato": true,
+      "grupo_id": "G010",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Gestavit Dha Multivitaminico Cápsula Blanda Con Cubierta Enterica",
+      "marca": "PROCAPS",
+      "precio": 90500,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/162589/7703153022693.jpg?v=637212592975370000",
+      "url": "https://www.drogueriascolsubsidio.com/gestavit-dha-multivitaminico-capsula-blanda-con-cubierta-enterica-7703153022693/p",
       "es_mas_barato": false,
       "grupo_id": "G010",
       "en_grupo": true
@@ -1038,7 +1049,7 @@
     {
       "nombre": "Anemidox Cápsula",
       "marca": "MERCK",
-      "precio": 102510,
+      "precio": 120600,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/209567/7702418006430.jpg?v=638966586906430000",
       "url": "https://www.drogueriascolsubsidio.com/anemidox-capsula-7500435248730/p",
@@ -1049,7 +1060,7 @@
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 49300,
+      "precio": 52200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
@@ -1069,17 +1080,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Pañal Content Medical M Bol X 21und",
-      "marca": "TECNOQUIMICAS",
-      "precio": 48195,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200803/7701021120649_Hero_Image_1_Alta_0.jpg?v=638665931352170000",
-      "url": "https://www.drogueriascolsubsidio.com/panal-content-medical-m-bol-x-21und-7701021120649/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
       "nombre": "Pañal Winny Pants Etapa 6 Bolsa X30",
       "marca": "TECNOQUIMICAS",
       "precio": 53500,
@@ -1091,25 +1091,25 @@
       "en_grupo": true
     },
     {
+      "nombre": "Pañal Content Medical M Bol X 21und",
+      "marca": "TECNOQUIMICAS",
+      "precio": 53550,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200803/7701021120649_Hero_Image_1_Alta_0.jpg?v=638665931352170000",
+      "url": "https://www.drogueriascolsubsidio.com/panal-content-medical-m-bol-x-21und-7701021120649/p",
+      "es_mas_barato": false,
+      "grupo_id": "G012",
+      "en_grupo": true
+    },
+    {
       "nombre": "Av Cicalfate Plus Crema",
       "marca": "PERCOS",
-      "precio": 45262,
+      "precio": 53250,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/175429/3282770204667.jpg?v=637647368133230000",
       "url": "https://www.drogueriascolsubsidio.com/cicalfate-crema-3282770204667/p",
       "es_mas_barato": false,
       "grupo_id": "G013",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Abrilar Ea 575 Jarabe",
-      "marca": "SCANDINAVIA",
-      "precio": 35300,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200957/4104480705151.jpg?v=638666750184700000",
-      "url": "https://www.drogueriascolsubsidio.com/abrilar-ea-575-jarabe-4104480705151/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
       "en_grupo": false
     },
     {
@@ -1120,7 +1120,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211567/7897653549146.jpg?v=639130017290900000",
       "url": "https://www.drogueriascolsubsidio.com/sobre-x7-laminas-copa-mundi-delafifa2026-7897653549146/p",
       "es_mas_barato": true,
-      "grupo_id": "G015",
+      "grupo_id": "G014",
       "en_grupo": true
     },
     {
@@ -1128,10 +1128,10 @@
       "marca": "PANINI",
       "precio": 5000,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33347429/Sobre-Copa-Mundial-Fifa-2026-PANINI-SIN-REF-3822187_a.jpg?v=639141376407030000",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33347429/Sobre-Copa-Mundial-Fifa-2026-PANINI-SIN-REF-3822187_a.jpg?v=639143627746230000",
       "url": "https://tienda.exito.com/sobre-copa-mundial-fifa-2026-panini-sin-ref-3245348/p",
       "es_mas_barato": true,
-      "grupo_id": "G015",
+      "grupo_id": "G014",
       "en_grupo": true
     },
     {
@@ -1142,51 +1142,51 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33347428/Display-Sobres-Copa-Mundial-Fifa-2026-PANINI-SIN-REF-3822186_a.jpg?v=639141946750070000",
       "url": "https://tienda.exito.com/display-sobres-copa-mundial-fifa-2026-panini-sin-ref-3245347/p",
       "es_mas_barato": false,
-      "grupo_id": "G015",
+      "grupo_id": "G014",
       "en_grupo": true
     },
     {
       "nombre": "STREPSILS INTENSIV MIEL/LIM PAGUE 18 LLEVE 24",
       "marca": "RB HEALTH COLOMBIA",
-      "precio": 26860,
+      "precio": 31600,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200470/7707733970176.jpg?v=638659859958200000",
       "url": "https://www.drogueriascolsubsidio.com/strepsils-intensiv-miellim-pague-18-lleve-24-7707733970176/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": false
     },
     {
       "nombre": "Pañitos Humedos Pequeñin Manzanilla x 80 Und",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 4760,
+      "precio": 5600,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
       "es_mas_barato": false,
-      "grupo_id": "G017",
+      "grupo_id": "G016",
       "en_grupo": false
     },
     {
       "nombre": "ALMIPRO 25% UNGÜENTO",
       "marca": "SAN JORGE",
-      "precio": 56057,
+      "precio": 65950,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/196841/7701684000135.jpg?v=638509688877800000",
       "url": "https://www.drogueriascolsubsidio.com/almipro-25-ungento-7701684000135/p",
       "es_mas_barato": false,
-      "grupo_id": "G018",
+      "grupo_id": "G017",
       "en_grupo": false
     },
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2900,
+      "precio": 2560,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
       "es_mas_barato": false,
-      "grupo_id": "G019",
+      "grupo_id": "G018",
       "en_grupo": false
     },
     {
@@ -1197,7 +1197,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32892558/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639100640567770000",
       "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
       "es_mas_barato": true,
-      "grupo_id": "G020",
+      "grupo_id": "G019",
       "en_grupo": true
     },
     {
@@ -1208,7 +1208,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33285898/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639135796352430000",
       "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
       "es_mas_barato": false,
-      "grupo_id": "G020",
+      "grupo_id": "G019",
       "en_grupo": true
     },
     {
@@ -1219,51 +1219,51 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32900846/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639101333554500000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
       "es_mas_barato": false,
-      "grupo_id": "G020",
+      "grupo_id": "G019",
       "en_grupo": true
     },
     {
       "nombre": "Chuleta Económica de Cerdo  económica",
       "marca": "SM",
-      "precio": 13424,
+      "precio": 16780,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32461291/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639062674944600000",
       "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
       "es_mas_barato": false,
-      "grupo_id": "G021",
+      "grupo_id": "G020",
       "en_grupo": false
     },
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 4480,
+      "precio": 2112,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G021",
       "en_grupo": false
     },
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 4400,
+      "precio": 3520,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G022",
       "en_grupo": false
     },
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 6000,
+      "precio": 4800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G023",
       "en_grupo": false
     },
     {
@@ -1274,7 +1274,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33292796/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639136102342930000",
       "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
       "es_mas_barato": true,
-      "grupo_id": "G025",
+      "grupo_id": "G024",
       "en_grupo": true
     },
     {
@@ -1285,7 +1285,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31882401/Atun-Lomo-Agua-EXITO-MARCA-PROPIA-170-gr-3259113_a.jpg?v=638995998005130000",
       "url": "https://tienda.exito.com/atun-lomo-agua-exito-marca-propia-170-gr-3083226/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G024",
       "en_grupo": true
     },
     {
@@ -1296,7 +1296,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31753714/Galletas-Mix-SALTIN-NOEL-510-gr-3266685_a.jpg?v=638986365908470000",
       "url": "https://tienda.exito.com/galletas-mix-saltin-noel-510-gr-3084896/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G024",
       "en_grupo": true
     },
     {
@@ -1307,7 +1307,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33238698/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639129242269200000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G024",
       "en_grupo": true
     },
     {
@@ -1318,7 +1318,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30780900/Queso-Mozzarella-Exito-EXITO-MARCA-PROPIA-800-gr-3479458_a.jpg?v=638931943027430000",
       "url": "https://tienda.exito.com/queso-mozzarella-exito-exito-marca-propia-800-gr-3147133/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G024",
       "en_grupo": true
     },
     {
@@ -1329,18 +1329,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33338054/Galleta-Taco-X-3-DUCALES-315-gr-3401545_a.jpg?v=639141262252300000",
       "url": "https://tienda.exito.com/galleta-taco-x-3-ducales-315-gr-3126999/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G025",
       "en_grupo": false
     },
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 2120,
+      "precio": 1696,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G026",
       "en_grupo": false
     },
     {
@@ -1351,18 +1351,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33328465/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639141061381100000",
       "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
       "es_mas_barato": false,
-      "grupo_id": "G028",
+      "grupo_id": "G027",
       "en_grupo": false
     },
     {
       "nombre": "Milanesa de res  fresca",
       "marca": "SM",
-      "precio": 33980,
+      "precio": 36980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31456002/MILANESA-RES-616300_a.jpg?v=638968422165900000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G028",
       "en_grupo": false
     }
   ]
