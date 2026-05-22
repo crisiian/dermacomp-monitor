@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-21T15:33:52.825Z",
+  "ultima_actualizacion": "2026-05-22T03:54:49.817Z",
   "productos": [
     {
       "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
@@ -37,7 +37,7 @@
     {
       "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
       "marca": "FRESCAMPO",
-      "precio": 3280,
+      "precio": 4100,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
       "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
@@ -57,20 +57,9 @@
       "en_grupo": true
     },
     {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 5824,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Platano Insuperable FRESCAMPO 1600  gr",
       "marca": "FRESCAMPO",
-      "precio": 7500,
+      "precio": 6240,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33434809/Platano-Ekono-1-6kg-157710_a.jpg?v=639144751368630000",
       "url": "https://tienda.exito.com/platano-ekono-1-6kg-795763/p",
@@ -151,6 +140,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171529/6810-1-ISDIN-LABIAL-ROSA-BELLA-PIEL.jpg?v=638906926487630000",
       "url": "https://www.bellapiel.com.co/isdin-reparador-labial-stick-rosa-x-4-gr-6810/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Mini Sérum 5x Pure Hyalu - LaCabine",
+      "marca": "LaCabine",
+      "precio": 40000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082251/mini-serum-5x-pure-hyalu-la-cabine.jpg?v=638860482888000000",
+      "url": "https://www.medipiel.com.co/mini-serum-5x-pure-hyalu-la-cabine/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -684,19 +684,8 @@
       "en_grupo": true
     },
     {
-      "nombre": "Kit Luminosidad Sesvitamin C- 5 Serum 30 ml + Gratis Sesvitamin C- Crema 50 ml - Sesderma",
-      "marca": "Sesderma",
-      "precio": 289500,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2173094/Kit-Luminosidad-Sesvitamin-C--5-Serum---Gratis-Sesvitamin-C--Crema---Sesderma.jpg?v=639005522616800000",
-      "url": "https://www.medipiel.com.co/kit-luminosidad-sesvitamin-c-5-serum-gratis-sesvitamin-c-crema-sesderma/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Serum Retinal Intense Serum Noche - Isdinceutics",
-      "marca": "Isdin",
+      "marca": "Isdinceutics",
       "precio": 365600,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/191897/isdinceutics-retinal-intense-serum-noche-isdin.jpg?v=638494161673500000",
@@ -774,7 +763,7 @@
     {
       "nombre": "Dercos DS Shampoo Anticaspa Cabello Graso Refill - Vichy",
       "marca": "Vichy",
-      "precio": 103200,
+      "precio": 109650,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182576/Dercos-DS-Shampoo-Anticaspa-Cabello-Graso-Refill---Vichy--1-.jpg?v=639051338541000000",
       "url": "https://www.medipiel.com.co/dercos-ds-shampoo-anticaspa-cabello-graso-refill-vichy/p",
@@ -796,7 +785,7 @@
     {
       "nombre": "Minéral 89 - Vichy",
       "marca": "Vichy",
-      "precio": 158175,
+      "precio": 168720,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235642/mineral-89-vichy.jpg.jpg?v=638755949631530000",
       "url": "https://www.medipiel.com.co/mineral-89-vichy/p",
@@ -970,17 +959,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Anemidox Cápsula",
-      "marca": "MERCK",
-      "precio": 120600,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/209567/7702418006430.jpg?v=638966586906430000",
-      "url": "https://www.drogueriascolsubsidio.com/anemidox-capsula-7500435248730/p",
-      "es_mas_barato": false,
-      "grupo_id": "G010",
-      "en_grupo": true
-    },
-    {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
       "precio": 58000,
@@ -1102,28 +1080,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Papel higiénico EKONO triple hoja (396  mts)",
-      "marca": "EKONO",
-      "precio": 14800,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32753065/Papel-Higienico-EKONO-Triple-Hoja-396-mts-3756865_a.jpg?v=639089252184930000",
-      "url": "https://tienda.exito.com/papel-higienico-ekono-triple-hoja-396-mts-3226861/p",
-      "es_mas_barato": false,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Salchicha ranchera RANCHERA premium x14und (480  gr)",
-      "marca": "RANCHERA",
-      "precio": 26000,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33328465/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639141061381100000",
-      "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
-      "es_mas_barato": false,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
       "nombre": "Pañal Content Medical M Bol X 21und",
       "marca": "TECNOQUIMICAS",
       "precio": 53400,
@@ -1141,17 +1097,6 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/173655/7701021118868.jpg?v=637584480329700000",
       "url": "https://www.drogueriascolsubsidio.com/panal-winny-pants-etapa-6-bolsa-x30-7701021118868/p",
-      "es_mas_barato": false,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Alimento Lacteo Enfagrow Premium Promental Natural Etapa 3",
-      "marca": "MEAD JOHNSON NUTRITION",
-      "precio": 279100,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211193/7506205810800_1.png?v=639090102822170000",
-      "url": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-promental-etapa-3-7506205810800/p",
       "es_mas_barato": false,
       "grupo_id": "G013",
       "en_grupo": true
@@ -1190,14 +1135,36 @@
       "en_grupo": false
     },
     {
+      "nombre": "ALMIPRO 25% UNGÜENTO",
+      "marca": "SAN JORGE",
+      "precio": 56057,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/196841/7701684000135.jpg?v=638509688877800000",
+      "url": "https://www.drogueriascolsubsidio.com/almipro-25-ungento-7701684000135/p",
+      "es_mas_barato": false,
+      "grupo_id": "G017",
+      "en_grupo": false
+    },
+    {
+      "nombre": "oferta protector solar afelius oil free gel 50%dto segunda unidad",
+      "marca": "SIEGFRIED",
+      "precio": 156975,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198539/7707355055473.jpg?v=638584835401330000",
+      "url": "https://www.drogueriascolsubsidio.com/oferta-protector-solar-afelius-oil-free-gel-50dto-segunda-unidad-7707355055473/p",
+      "es_mas_barato": false,
+      "grupo_id": "G018",
+      "en_grupo": false
+    },
+    {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2560,
+      "precio": 3200,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
       "es_mas_barato": false,
-      "grupo_id": "G017",
+      "grupo_id": "G019",
       "en_grupo": false
     },
     {
@@ -1207,9 +1174,20 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32900846/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639101333554500000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
+      "es_mas_barato": true,
+      "grupo_id": "G020",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Huevos A SMN rojo (30  und)",
+      "marca": "SMN",
+      "precio": 12990,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32892558/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639100640567770000",
+      "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
       "es_mas_barato": false,
-      "grupo_id": "G018",
-      "en_grupo": false
+      "grupo_id": "G020",
+      "en_grupo": true
     },
     {
       "nombre": "Chuleta Económica de Cerdo  económica",
@@ -1219,40 +1197,40 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32461291/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639062674944600000",
       "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
       "es_mas_barato": false,
-      "grupo_id": "G019",
+      "grupo_id": "G021",
       "en_grupo": false
     },
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 3648,
+      "precio": 4480,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
-      "grupo_id": "G020",
+      "grupo_id": "G022",
       "en_grupo": false
     },
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 3392,
+      "precio": 4560,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
       "es_mas_barato": false,
-      "grupo_id": "G021",
+      "grupo_id": "G023",
       "en_grupo": false
     },
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 4800,
+      "precio": 6000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
       "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G024",
       "en_grupo": false
     },
     {
@@ -1263,7 +1241,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33347429/Sobre-Copa-Mundial-Fifa-2026-PANINI-SIN-REF-3822187_a.jpg?v=639143627746230000",
       "url": "https://tienda.exito.com/sobre-copa-mundial-fifa-2026-panini-sin-ref-3245348/p",
       "es_mas_barato": true,
-      "grupo_id": "G023",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1274,7 +1252,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33389684/Album-Pasta-Dura-Copa-Mundial-Fifa-2026-PANINI-3822185_a.jpg?v=639147986902430000",
       "url": "https://tienda.exito.com/album-pasta-dura-copa-mundial-fifa-2026-panini-3245346/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1285,7 +1263,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33347428/Display-Sobres-Copa-Mundial-Fifa-2026-PANINI-SIN-REF-3822186_a.jpg?v=639141946750070000",
       "url": "https://tienda.exito.com/display-sobres-copa-mundial-fifa-2026-panini-sin-ref-3245347/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G025",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Toallitas húmedas PERSONAL CHOICE MARCA EXCLUSIV aloe vera (72  und)",
+      "marca": "PERSONAL CHOICE MARCA EXCLUSIV",
+      "precio": 3840,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33292796/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639136102342930000",
+      "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
+      "es_mas_barato": true,
+      "grupo_id": "G026",
       "en_grupo": true
     },
     {
@@ -1295,8 +1284,8 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31882401/Atun-Lomo-Agua-EXITO-MARCA-PROPIA-170-gr-3259113_a.jpg?v=638995998005130000",
       "url": "https://tienda.exito.com/atun-lomo-agua-exito-marca-propia-170-gr-3083226/p",
-      "es_mas_barato": true,
-      "grupo_id": "G024",
+      "es_mas_barato": false,
+      "grupo_id": "G026",
       "en_grupo": true
     },
     {
@@ -1307,7 +1296,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31753714/Galletas-Mix-SALTIN-NOEL-510-gr-3266685_a.jpg?v=638986365908470000",
       "url": "https://tienda.exito.com/galletas-mix-saltin-noel-510-gr-3084896/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G026",
       "en_grupo": true
     },
     {
@@ -1318,7 +1307,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33238698/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639129242269200000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G026",
       "en_grupo": true
     },
     {
@@ -1329,7 +1318,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30780900/Queso-Mozzarella-Exito-EXITO-MARCA-PROPIA-800-gr-3479458_a.jpg?v=638931943027430000",
       "url": "https://tienda.exito.com/queso-mozzarella-exito-exito-marca-propia-800-gr-3147133/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G026",
       "en_grupo": true
     },
     {
@@ -1340,7 +1329,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33246301/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639129862740100000",
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G027",
       "en_grupo": false
     },
     {
@@ -1351,18 +1340,29 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33338054/Galleta-Taco-X-3-DUCALES-315-gr-3401545_a.jpg?v=639141262252300000",
       "url": "https://tienda.exito.com/galleta-taco-x-3-ducales-315-gr-3126999/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G028",
       "en_grupo": false
     },
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 3120,
+      "precio": 3900,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G029",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Salchicha ranchera RANCHERA premium x14und (480  gr)",
+      "marca": "RANCHERA",
+      "precio": 26000,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33328465/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639141061381100000",
+      "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
+      "es_mas_barato": false,
+      "grupo_id": "G030",
       "en_grupo": false
     }
   ]
