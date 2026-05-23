@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-23T03:31:01.106Z",
+  "ultima_actualizacion": "2026-05-23T13:40:49.813Z",
   "productos": [
     {
       "nombre": "Agua FRESCAMPO potable tratada (5000  ml)",
@@ -222,23 +222,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Eucerin Anti-Pigment Gel Limpiador Facial 200 Ml",
+      "marca": "Eucerin",
+      "precio": 87500,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169940/6665-1-EUCERIN-LIMPIADOR-ANTI-PIGMENT-BELLA-PIEL.jpg.jpg?v=639021182098430000",
+      "url": "https://www.bellapiel.com.co/eucerin-anti-pigment-gel-limpiador-x-200ml-6665/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "CeraVe crema hidratante Pote 453 gr",
       "marca": "Cerave",
       "precio": 88462,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173738/5715.jpg?v=639141905316500000",
       "url": "https://www.bellapiel.com.co/cerave-crema-hidrtante-potex453gr-5715/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Eucerin Anti-Pigment Gel Limpiador Facial 200 Ml",
-      "marca": "Eucerin",
-      "precio": 93750,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169940/6665-1-EUCERIN-LIMPIADOR-ANTI-PIGMENT-BELLA-PIEL.jpg.jpg?v=639021182098430000",
-      "url": "https://www.bellapiel.com.co/eucerin-anti-pigment-gel-limpiador-x-200ml-6665/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -294,6 +294,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170483/6470-1-LA-ROCHE-POSAY-MELA-B3-LIMPIADOR-BELLA-PIEL.jpg.jpg?v=638808704219700000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-mela-b3-limpiador-antimanchas-200-ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Eucerin Oil Control Sun SPF 50+ 50 Ml",
+      "marca": "Eucerin",
+      "precio": 104580,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166440/1419-Eucerin-Protector-Solar-Facial-Toque-Seco--Fps-50-_1.jpg?v=639041059168430000",
+      "url": "https://www.bellapiel.com.co/eucerin-oil-control-50-ml-1419/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -360,17 +371,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
       "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Protector Solar Eucerin Oil Control Sun SPF 50+ 50 Ml",
-      "marca": "Eucerin",
-      "precio": 112050,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166440/1419-Eucerin-Protector-Solar-Facial-Toque-Seco--Fps-50-_1.jpg?v=639041059168430000",
-      "url": "https://www.bellapiel.com.co/eucerin-oil-control-50-ml-1419/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -508,6 +508,28 @@
       "en_grupo": true
     },
     {
+      "nombre": "Hidratante Facial Rilastil Aqua Fluido Normalizante 50 Ml",
+      "marca": "Rilastil",
+      "precio": 169650,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174962/4912-1-RILASTIL-AQUA-NORMALIZANTE-HIDRATANTE-BELLA-PIEL.jpg?v=639143877989770000",
+      "url": "https://www.bellapiel.com.co/rilastil-aqua-fluido-normalizante-50-ml-4912/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Acnestil Gel Limpiador 400 Ml",
+      "marca": "Rilastil",
+      "precio": 180990,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175103/5502-1-RILASTIL-ACNESTIL-LIMPIADOR-FACIAL-BELLA-PIEL.jpg?v=639143897758630000",
+      "url": "https://www.bellapiel.com.co/acnestil-gel-limpiador-400-ml-/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pure Vitamin C12 Serum - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 184425,
@@ -519,34 +541,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Hidratante Facial Rilastil Aqua Fluido Normalizante 50 Ml",
-      "marca": "Rilastil",
-      "precio": 188500,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174962/4912-1-RILASTIL-AQUA-NORMALIZANTE-HIDRATANTE-BELLA-PIEL.jpg?v=639143877989770000",
-      "url": "https://www.bellapiel.com.co/rilastil-aqua-fluido-normalizante-50-ml-4912/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Hyalu B5 La Roche-Posay Serum Hidrante 30 ml",
       "marca": "La Roche Posay",
       "precio": 196800,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
       "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Acnestil Gel Limpiador 400 Ml",
-      "marca": "Rilastil",
-      "precio": 201100,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175103/5502-1-RILASTIL-ACNESTIL-LIMPIADOR-FACIAL-BELLA-PIEL.jpg?v=639143897758630000",
-      "url": "https://www.bellapiel.com.co/acnestil-gel-limpiador-400-ml-/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -730,7 +730,7 @@
     {
       "nombre": "Dolex Avanzado 500 Mg Tableta Recubierta",
       "marca": "HALEON COLOMBIA SAS",
-      "precio": 9495,
+      "precio": 8545,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206573/7707397791490.jpg?v=638853409671670000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
@@ -1093,7 +1093,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 4900,
+      "precio": 2560,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1179,6 +1179,17 @@
       "en_grupo": false
     },
     {
+      "nombre": "Milanesa de res  fresca",
+      "marca": "SM",
+      "precio": 36980,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33475133/MILANESA-RES-616300_a.jpg?v=639149686365270000",
+      "url": "https://tienda.exito.com/milanesa-res-644019/p",
+      "es_mas_barato": false,
+      "grupo_id": "G027",
+      "en_grupo": false
+    },
+    {
       "nombre": "Toallas de cocina EKONO desechables (50  und)",
       "marca": "EKONO",
       "precio": 1750,
@@ -1186,7 +1197,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29462581/Toalla-Cocina-Doble-Hoja-X-50-gr-598300_a.jpg?v=638894878911070000",
       "url": "https://tienda.exito.com/toalla-cocina-doble-hoja-x-50-gr-208591/p",
       "es_mas_barato": true,
-      "grupo_id": "G027",
+      "grupo_id": "G028",
       "en_grupo": true
     },
     {
@@ -1197,7 +1208,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29462682/Servilleta-Partidas-Paq-X-200-Und-Cu-144906_a.jpg?v=638894879648600000",
       "url": "https://tienda.exito.com/servilleta-partidas-paq-x-200-und-cu-431187/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G028",
       "en_grupo": true
     },
     {
@@ -1208,7 +1219,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32031637/Lavaloza-Liquido-Limon-EKONO-Sin-Ref-3046977_a.jpg?v=639015802343270000",
       "url": "https://tienda.exito.com/lavaloza-liquido-limon-ekono-sin-ref-3025485/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G028",
       "en_grupo": true
     },
     {
@@ -1219,40 +1230,51 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33173072/Pan-Tajado-Blanco-EKONO-450-gr-3300670_a.jpg?v=639124906953800000",
       "url": "https://tienda.exito.com/pan-tajado-blanco-ekono-450-gr-3094124/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G028",
       "en_grupo": true
     },
     {
-      "nombre": "Arándanos (blue berrie)  125  gr",
-      "marca": "SM",
-      "precio": 8040,
+      "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
+      "marca": "COLANTA",
+      "precio": 9010,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33376339/Arandanos-blue-Berrie-X-125g-918197_a.jpg?v=639142126318070000",
-      "url": "https://tienda.exito.com/arandanos-blue-berrie-x-125g-81676/p",
-      "es_mas_barato": false,
-      "grupo_id": "G028",
-      "en_grupo": false
-    },
-    {
-      "nombre": "3 x Granadilla",
-      "marca": "SM",
-      "precio": 5340,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30890999/Combos-Fruver.jpg?v=638936814114200000",
-      "url": "https://tienda.exito.com/3-x-granadilla/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32565998/Queso-Crema-X-400g-895557_a.jpg?v=639070245760300000",
+      "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
       "es_mas_barato": false,
       "grupo_id": "G029",
       "en_grupo": false
     },
     {
+      "nombre": "Arándanos (blue berrie)  125  gr",
+      "marca": "SM",
+      "precio": 6432,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33376339/Arandanos-blue-Berrie-X-125g-918197_a.jpg?v=639142126318070000",
+      "url": "https://tienda.exito.com/arandanos-blue-berrie-x-125g-81676/p",
+      "es_mas_barato": false,
+      "grupo_id": "G030",
+      "en_grupo": false
+    },
+    {
+      "nombre": "3 x Granadilla",
+      "marca": "SM",
+      "precio": 5856,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30890999/Combos-Fruver.jpg?v=638936814114200000",
+      "url": "https://tienda.exito.com/3-x-granadilla/p",
+      "es_mas_barato": false,
+      "grupo_id": "G031",
+      "en_grupo": false
+    },
+    {
       "nombre": "3 x Peras",
       "marca": "SM",
-      "precio": 7140,
+      "precio": 5712,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29623996/173801_b.jpg?v=638906970766170000",
       "url": "https://tienda.exito.com/5xperas/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G032",
       "en_grupo": false
     },
     {
@@ -1263,7 +1285,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33110277/Barril-Ahumador-Pequeno-Edicion-Mundial-Acero-Inoxidable-Acero-inoxidable-7709393164742-3810588_a.jpg?v=639120298033870000",
       "url": "https://tienda.exito.com/barril-ahumador-pequeno-edicion-mundial-acero-inoxidable-acero-inoxidable-7709393164742-3242557/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G033",
       "en_grupo": false
     },
     {
@@ -1274,7 +1296,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31955522/Caldo-De-Gallina-Desmenuzado-Especias-MAGGI-Especias-Desmenuzado-90-gr-3669641_a.jpg?v=639002873328100000",
       "url": "https://tienda.exito.com/caldo-de-gallina-desmenuzado-especias-maggi-especias-desmenuzado-90-gr-3204662/p",
       "es_mas_barato": false,
-      "grupo_id": "G032",
+      "grupo_id": "G034",
       "en_grupo": false
     },
     {
@@ -1285,7 +1307,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33456184/Jabon-En-Barra-Granada-X3-PALMOLIVE-330-gr-3375015_a.jpg?v=639148885468400000",
       "url": "https://tienda.exito.com/jabon-en-barra-granada-x3-palmolive-330-gr-3119470/p",
       "es_mas_barato": true,
-      "grupo_id": "G033",
+      "grupo_id": "G035",
       "en_grupo": true
     },
     {
@@ -1296,8 +1318,19 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33456001/Jabon-avena-PROTEX-660-Gramo-1573394_a.jpg?v=639148882423770000",
       "url": "https://tienda.exito.com/jabon-avena-protex-660-gramo-513507/p",
       "es_mas_barato": false,
-      "grupo_id": "G033",
+      "grupo_id": "G035",
       "en_grupo": true
+    },
+    {
+      "nombre": "Plátano Verde  1  und",
+      "marca": "SM",
+      "precio": 1152,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666249/PLATANO-UNIDAD-639142_a.jpg?v=639082476517300000",
+      "url": "https://tienda.exito.com/platano-unidad-937108/p",
+      "es_mas_barato": false,
+      "grupo_id": "G036",
+      "en_grupo": false
     },
     {
       "nombre": "Crema dental COLGATE max white completeclean (300  ml)",
@@ -1306,20 +1339,9 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31504949/Crema-Dental-Max-White-1282860_a.jpg?v=638978744305230000",
       "url": "https://tienda.exito.com/crema-dental-max-white-917557/p",
-      "es_mas_barato": true,
-      "grupo_id": "G034",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Crema dental COLGATE original mint prevención activa (225  ml)",
-      "marca": "COLGATE",
-      "precio": 21701,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33468671/Oferta-Crema-Dental-Total-12-Clean-Mint-3-X-75-ml-87465_a.jpg?v=639149056455000000",
-      "url": "https://tienda.exito.com/oferta-crema-dental-total-12-clean-mint-3-x-75-ml-49698/p",
       "es_mas_barato": false,
-      "grupo_id": "G034",
-      "en_grupo": true
+      "grupo_id": "G037",
+      "en_grupo": false
     },
     {
       "nombre": "Huevos AAA KIKES rojo pet (15  und)",
@@ -1329,7 +1351,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31986847/Huevo-Rojo-Aaa-15und-Pet-1232624_a.jpg?v=639005637481070000",
       "url": "https://tienda.exito.com/huevo-rojo-aaa-15und-pet-895234/p",
       "es_mas_barato": false,
-      "grupo_id": "G035",
+      "grupo_id": "G038",
       "en_grupo": false
     },
     {
@@ -1340,29 +1362,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32296048/Cerveza-x-6-lata-dorada-Club-colombia-102016_a.jpg?v=639046101719800000",
       "url": "https://tienda.exito.com/cerveza-x-6-lata-dorada-club-colombia-446650/p",
       "es_mas_barato": false,
-      "grupo_id": "G036",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Pastas DORIA corriente (500  gr)",
-      "marca": "DORIA",
-      "precio": 3010,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31753517/Pasta-Clasica-Spaghetti-X-500-gr-13653_a.jpg?v=638986364723170000",
-      "url": "https://tienda.exito.com/pasta-clasica-spaghetti-x-500-gr-50578/p",
-      "es_mas_barato": false,
-      "grupo_id": "G037",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Soporte TV Fijo de 32 a 60 SF60 SOPORTV",
-      "marca": "SOPORTV",
-      "precio": 49000,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/18155477/SOPORTE-FIJO-TV-32-A-60-1624452_a.jpg?v=638980707017270000",
-      "url": "https://tienda.exito.com/soporte-fijo-tv-32-a-60-26707/p",
-      "es_mas_barato": false,
-      "grupo_id": "G038",
+      "grupo_id": "G039",
       "en_grupo": false
     }
   ]
