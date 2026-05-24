@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-24T03:52:32.498Z",
+  "ultima_actualizacion": "2026-05-24T13:40:30.501Z",
   "productos": [
     {
       "nombre": "Lavaloza EKONO líquido aroma a limón (500  ml)",
@@ -140,6 +140,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170152/6406-1-CERAVE-GEL-LIMPIADOR-ESPUMOSO-PIEL-NORMAL-A-GRASA-BELLA-PIEL.jpg.jpg?v=638808540754170000",
       "url": "https://www.bellapiel.com.co/gel-limpiador-facial-espumoso-para-piel-normal-a-grasa-cerave-236-ml-6406/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Limpiador en Gel Acnestil 100 Ml",
+      "marca": "Rilastil",
+      "precio": 58140,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175186/6117-1-RILASTIL-ACNESTIL-GE-PURIFICANTE-BELLA-PIEL.jpg?v=639143906009730000",
+      "url": "https://www.bellapiel.com.co/rilastil-acnestil-gel-limpiador-mini-size-100-ml/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -514,17 +525,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235631/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay-400-ml.jpg.jpg?v=638755942151170000",
       "url": "https://www.medipiel.com.co/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Hidratante Facial Rilastil Aqua Fluido Normalizante 50 Ml",
-      "marca": "Rilastil",
-      "precio": 169650,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174962/4912-1-RILASTIL-AQUA-NORMALIZANTE-HIDRATANTE-BELLA-PIEL.jpg?v=639143877989770000",
-      "url": "https://www.bellapiel.com.co/rilastil-aqua-fluido-normalizante-50-ml-4912/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -1115,7 +1115,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3200,
+      "precio": 2560,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1236,7 +1236,7 @@
     {
       "nombre": "Arándanos (blue berrie)  125  gr",
       "marca": "SM",
-      "precio": 9400,
+      "precio": 7520,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33376339/Arandanos-blue-Berrie-X-125g-918197_a.jpg?v=639142126318070000",
       "url": "https://tienda.exito.com/arandanos-blue-berrie-x-125g-81676/p",
@@ -1247,7 +1247,7 @@
     {
       "nombre": "3 x Granadilla",
       "marca": "SM",
-      "precio": 5340,
+      "precio": 4272,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30890999/Combos-Fruver.jpg?v=638936814114200000",
       "url": "https://tienda.exito.com/3-x-granadilla/p",
@@ -1258,7 +1258,7 @@
     {
       "nombre": "3 x Peras",
       "marca": "SM",
-      "precio": 7140,
+      "precio": 5712,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29623996/173801_b.jpg?v=638906970766170000",
       "url": "https://tienda.exito.com/5xperas/p",
@@ -1335,7 +1335,7 @@
     {
       "nombre": "Plátano Verde  1  und",
       "marca": "SM",
-      "precio": 1440,
+      "precio": 1152,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666249/PLATANO-UNIDAD-639142_a.jpg?v=639082476517300000",
       "url": "https://tienda.exito.com/platano-unidad-937108/p",
