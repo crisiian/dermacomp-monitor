@@ -1,14 +1,25 @@
 {
-  "ultima_actualizacion": "2026-05-23T13:40:49.813Z",
+  "ultima_actualizacion": "2026-05-24T03:52:32.498Z",
   "productos": [
     {
-      "nombre": "Agua FRESCAMPO potable tratada (5000  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 3750,
+      "nombre": "Lavaloza EKONO líquido aroma a limón (500  ml)",
+      "marca": "EKONO",
+      "precio": 2590,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/28929766/Agua-Sin-Gas-FRESCAMPO-5000-Mililitro-1512413_a.jpg?v=638859482267330000",
-      "url": "https://tienda.exito.com/agua-sin-gas-frescampo-5000-mililitro-256680/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32031637/Lavaloza-Liquido-Limon-EKONO-Sin-Ref-3046977_a.jpg?v=639015802343270000",
+      "url": "https://tienda.exito.com/lavaloza-liquido-limon-ekono-sin-ref-3025485/p",
       "es_mas_barato": true,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Pan tajado EKONO blanco (450  gr)",
+      "marca": "EKONO",
+      "precio": 2990,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33173072/Pan-Tajado-Blanco-EKONO-450-gr-3300670_a.jpg?v=639124906953800000",
+      "url": "https://tienda.exito.com/pan-tajado-blanco-ekono-450-gr-3094124/p",
+      "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
     },
@@ -19,6 +30,17 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33173635/Aceite-Vegetal-FRESCAMPO-900-ml-3257072_a.jpg?v=639124918493900000",
       "url": "https://tienda.exito.com/aceite-vegetal-frescampo-900-ml-3082930/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Azúcar FRESCAMPO blanco (2500  gr)",
+      "marca": "FRESCAMPO",
+      "precio": 8000,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33173089/Azucar-Blanco-Especial-FRESCAMPO-2500-gr-3310407_a.jpg?v=639124907116000000",
+      "url": "https://tienda.exito.com/azucar-blanco-especial-frescampo-2500-gr-3096347/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -497,17 +519,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Imp Sérum 5x Pure Hyaluronic - La Cabine",
-      "marca": "LaCabine",
-      "precio": 150000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2186067/imp-serum-5x-pure-hyaluronic-la-cabine.png?v=639092652173870000",
-      "url": "https://www.medipiel.com.co/imp-serum-5x-pure-hyaluronic-la-cabine/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Hidratante Facial Rilastil Aqua Fluido Normalizante 50 Ml",
       "marca": "Rilastil",
       "precio": 169650,
@@ -618,17 +629,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Fotoprotector Fusion Water Magic- Isdin",
-      "marca": "Isdin",
-      "precio": 142100,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184628/foto-fusion-water-color-light-50-plus-isdin--1-.webp?v=639090307092700000",
-      "url": "https://www.medipiel.com.co/foto-fusion-water-color-light-50-plus-isdin/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": false
-    },
-    {
       "nombre": "Mini Sérum Flash Effect - LaCabine",
       "marca": "LaCabine",
       "precio": 40000,
@@ -636,7 +636,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189008/Mini Serum Flash Effect - LaCabine -2-.jpg?v=639131595492800000",
       "url": "https://www.medipiel.com.co/mini-serum-flash-effect-la-cabine/p",
       "es_mas_barato": true,
-      "grupo_id": "G002",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -647,7 +647,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2160785/mini-aceite-absolut-repair-10-en-1-cabello-danado-loreal-professionnel--1-.png?v=638907104419400000",
       "url": "https://www.medipiel.com.co/mini-aceite-absolut-repair-10-en-1-cabello-danado-loreal-professionnel/p",
       "es_mas_barato": false,
-      "grupo_id": "G002",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -658,8 +658,30 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172931/Mascarilla-Reparadora-Absolut-Repair-Molecular---Loreal-Professionnel-250-ml.png?v=639050267333170000",
       "url": "https://www.medipiel.com.co/mascarilla-reparadora-absolut-repair-molecular-loreal-professionnel/p",
       "es_mas_barato": false,
-      "grupo_id": "G002",
+      "grupo_id": "G001",
       "en_grupo": true
+    },
+    {
+      "nombre": "Imp Sérum 5x Pure Hyaluronic - La Cabine",
+      "marca": "LaCabine",
+      "precio": 150000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2186067/imp-serum-5x-pure-hyaluronic-la-cabine.png?v=639092652173870000",
+      "url": "https://www.medipiel.com.co/imp-serum-5x-pure-hyaluronic-la-cabine/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Fotoprotector Fusion Water Magic- Isdin",
+      "marca": "Isdin",
+      "precio": 142100,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184628/foto-fusion-water-color-light-50-plus-isdin--1-.webp?v=639090307092700000",
+      "url": "https://www.medipiel.com.co/foto-fusion-water-color-light-50-plus-isdin/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": false
     },
     {
       "nombre": "Gel Limpiador Espumoso - CeraVe",
@@ -1093,7 +1115,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2560,
+      "precio": 3200,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1196,42 +1218,9 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29462581/Toalla-Cocina-Doble-Hoja-X-50-gr-598300_a.jpg?v=638894878911070000",
       "url": "https://tienda.exito.com/toalla-cocina-doble-hoja-x-50-gr-208591/p",
-      "es_mas_barato": true,
-      "grupo_id": "G028",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Servilletas EKONO cortadas (200  und)",
-      "marca": "EKONO",
-      "precio": 2190,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29462682/Servilleta-Partidas-Paq-X-200-Und-Cu-144906_a.jpg?v=638894879648600000",
-      "url": "https://tienda.exito.com/servilleta-partidas-paq-x-200-und-cu-431187/p",
       "es_mas_barato": false,
       "grupo_id": "G028",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Lavaloza EKONO líquido aroma a limón (500  ml)",
-      "marca": "EKONO",
-      "precio": 2590,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32031637/Lavaloza-Liquido-Limon-EKONO-Sin-Ref-3046977_a.jpg?v=639015802343270000",
-      "url": "https://tienda.exito.com/lavaloza-liquido-limon-ekono-sin-ref-3025485/p",
-      "es_mas_barato": false,
-      "grupo_id": "G028",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Pan tajado EKONO blanco (450  gr)",
-      "marca": "EKONO",
-      "precio": 2990,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33173072/Pan-Tajado-Blanco-EKONO-450-gr-3300670_a.jpg?v=639124906953800000",
-      "url": "https://tienda.exito.com/pan-tajado-blanco-ekono-450-gr-3094124/p",
-      "es_mas_barato": false,
-      "grupo_id": "G028",
-      "en_grupo": true
+      "en_grupo": false
     },
     {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
@@ -1247,7 +1236,7 @@
     {
       "nombre": "Arándanos (blue berrie)  125  gr",
       "marca": "SM",
-      "precio": 6432,
+      "precio": 9400,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33376339/Arandanos-blue-Berrie-X-125g-918197_a.jpg?v=639142126318070000",
       "url": "https://tienda.exito.com/arandanos-blue-berrie-x-125g-81676/p",
@@ -1258,7 +1247,7 @@
     {
       "nombre": "3 x Granadilla",
       "marca": "SM",
-      "precio": 5856,
+      "precio": 5340,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/30890999/Combos-Fruver.jpg?v=638936814114200000",
       "url": "https://tienda.exito.com/3-x-granadilla/p",
@@ -1269,7 +1258,7 @@
     {
       "nombre": "3 x Peras",
       "marca": "SM",
-      "precio": 5712,
+      "precio": 7140,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29623996/173801_b.jpg?v=638906970766170000",
       "url": "https://tienda.exito.com/5xperas/p",
@@ -1289,6 +1278,28 @@
       "en_grupo": false
     },
     {
+      "nombre": "Cerveza COSTENA lata six pack (1860  ml)",
+      "marca": "COSTENA",
+      "precio": 9148,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32277878/Cerveza-COSTENA-Lata-Sixpac-1860-ml-3739284_a.jpg?v=639044492925000000",
+      "url": "https://tienda.exito.com/cerveza-costena-lata-sixpac-1860-ml-3222187/p",
+      "es_mas_barato": true,
+      "grupo_id": "G034",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Cerveza CLUB COLOMBIA lata dorada (1980  ml)",
+      "marca": "CLUB COLOMBIA",
+      "precio": 16237,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32296048/Cerveza-x-6-lata-dorada-Club-colombia-102016_a.jpg?v=639046101719800000",
+      "url": "https://tienda.exito.com/cerveza-x-6-lata-dorada-club-colombia-446650/p",
+      "es_mas_barato": false,
+      "grupo_id": "G034",
+      "en_grupo": true
+    },
+    {
       "nombre": "Caldo De Gallina Desmenuzado Especias MAGGI desmenuzado (90  gr)",
       "marca": "MAGGI",
       "precio": 3539,
@@ -1296,7 +1307,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31955522/Caldo-De-Gallina-Desmenuzado-Especias-MAGGI-Especias-Desmenuzado-90-gr-3669641_a.jpg?v=639002873328100000",
       "url": "https://tienda.exito.com/caldo-de-gallina-desmenuzado-especias-maggi-especias-desmenuzado-90-gr-3204662/p",
       "es_mas_barato": false,
-      "grupo_id": "G034",
+      "grupo_id": "G035",
       "en_grupo": false
     },
     {
@@ -1307,7 +1318,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33456184/Jabon-En-Barra-Granada-X3-PALMOLIVE-330-gr-3375015_a.jpg?v=639148885468400000",
       "url": "https://tienda.exito.com/jabon-en-barra-granada-x3-palmolive-330-gr-3119470/p",
       "es_mas_barato": true,
-      "grupo_id": "G035",
+      "grupo_id": "G036",
       "en_grupo": true
     },
     {
@@ -1318,18 +1329,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33456001/Jabon-avena-PROTEX-660-Gramo-1573394_a.jpg?v=639148882423770000",
       "url": "https://tienda.exito.com/jabon-avena-protex-660-gramo-513507/p",
       "es_mas_barato": false,
-      "grupo_id": "G035",
+      "grupo_id": "G036",
       "en_grupo": true
     },
     {
       "nombre": "Plátano Verde  1  und",
       "marca": "SM",
-      "precio": 1152,
+      "precio": 1440,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666249/PLATANO-UNIDAD-639142_a.jpg?v=639082476517300000",
       "url": "https://tienda.exito.com/platano-unidad-937108/p",
       "es_mas_barato": false,
-      "grupo_id": "G036",
+      "grupo_id": "G037",
       "en_grupo": false
     },
     {
@@ -1340,7 +1351,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31504949/Crema-Dental-Max-White-1282860_a.jpg?v=638978744305230000",
       "url": "https://tienda.exito.com/crema-dental-max-white-917557/p",
       "es_mas_barato": false,
-      "grupo_id": "G037",
+      "grupo_id": "G038",
       "en_grupo": false
     },
     {
@@ -1350,17 +1361,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31986847/Huevo-Rojo-Aaa-15und-Pet-1232624_a.jpg?v=639005637481070000",
       "url": "https://tienda.exito.com/huevo-rojo-aaa-15und-pet-895234/p",
-      "es_mas_barato": false,
-      "grupo_id": "G038",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Cerveza CLUB COLOMBIA lata dorada (1980  ml)",
-      "marca": "CLUB COLOMBIA",
-      "precio": 16237,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32296048/Cerveza-x-6-lata-dorada-Club-colombia-102016_a.jpg?v=639046101719800000",
-      "url": "https://tienda.exito.com/cerveza-x-6-lata-dorada-club-colombia-446650/p",
       "es_mas_barato": false,
       "grupo_id": "G039",
       "en_grupo": false
