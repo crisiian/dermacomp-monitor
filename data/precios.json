@@ -1,17 +1,6 @@
 {
-  "ultima_actualizacion": "2026-05-30T03:38:50.196Z",
+  "ultima_actualizacion": "2026-05-30T13:44:16.534Z",
   "productos": [
-    {
-      "nombre": "Ajo Malla Importado x3   1  und",
-      "marca": "SM",
-      "precio": 1900,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29335732/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=638890559301500000",
-      "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
-      "es_mas_barato": true,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
     {
       "nombre": "Pax Caliente Noche Granulado",
       "marca": "EUROFARMA",
@@ -19,6 +8,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/202852/7706263200630.jpg.jpg?v=638748028260800000",
       "url": "https://www.drogueriascolsubsidio.com/pax-caliente-noche-granulado-7706127006378/p",
+      "es_mas_barato": true,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 2720,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -41,17 +41,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32006772/Sal-Refinada-1000-gr-125407_a.jpg?v=639010821199030000",
       "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 3240,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -140,17 +129,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171529/6810-1-ISDIN-LABIAL-ROSA-BELLA-PIEL.jpg?v=638906926487630000",
       "url": "https://www.bellapiel.com.co/isdin-reparador-labial-stick-rosa-x-4-gr-6810/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mini Sérum 5x Pure Hyalu - LaCabine",
-      "marca": "LaCabine",
-      "precio": 40000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082251/mini-serum-5x-pure-hyalu-la-cabine.jpg?v=638860482888000000",
-      "url": "https://www.medipiel.com.co/mini-serum-5x-pure-hyalu-la-cabine/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -277,6 +255,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Atopeel Body Crema Corporal Emoliente Heel",
+      "marca": "HEEL COLOMBIA",
+      "precio": 82670,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/207634/7707336727283_1.jpg?v=638923546629100000",
+      "url": "https://www.drogueriascolsubsidio.com/atopeel-body-crema-corporal-emoliente-heel-7707336727283/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Cerave gel limpiador espumoso",
       "marca": "Cerave",
       "precio": 83212,
@@ -294,17 +283,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170174/6599-1-CERAVE-LIMPIADOR-CONTROL-IMPERFECCIONES-BELLA-PIEL.jpg.jpg?v=638808550610430000",
       "url": "https://www.bellapiel.com.co/cerave-limpiador-control-imperfecciones-x-236ml-6599/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Atopeel Body Crema Corporal Emoliente Heel",
-      "marca": "HEEL COLOMBIA",
-      "precio": 83370,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/207634/7707336727283_1.jpg?v=638923546629100000",
-      "url": "https://www.drogueriascolsubsidio.com/atopeel-body-crema-corporal-emoliente-heel-7707336727283/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -739,6 +717,28 @@
       "en_grupo": true
     },
     {
+      "nombre": "Mini Sérum 5x Pure Hyalu - LaCabine",
+      "marca": "LaCabine",
+      "precio": 40000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082251/mini-serum-5x-pure-hyalu-la-cabine.jpg?v=638860482888000000",
+      "url": "https://www.medipiel.com.co/mini-serum-5x-pure-hyalu-la-cabine/p",
+      "es_mas_barato": true,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Mini Aceite Absolut Repair 10 en 1 Cabello Dañado - Loreal Professionnel",
+      "marca": "L'Oréal Professionnel",
+      "precio": 61100,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2160785/mini-aceite-absolut-repair-10-en-1-cabello-danado-loreal-professionnel--1-.png?v=638907104419400000",
+      "url": "https://www.medipiel.com.co/mini-aceite-absolut-repair-10-en-1-cabello-danado-loreal-professionnel/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
       "nombre": "Imp Sérum 5x Pure Hyaluronic - La Cabine",
       "marca": "LaCabine",
       "precio": 150000,
@@ -747,7 +747,18 @@
       "url": "https://www.medipiel.com.co/imp-serum-5x-pure-hyaluronic-la-cabine/p",
       "es_mas_barato": false,
       "grupo_id": "G001",
-      "en_grupo": false
+      "en_grupo": true
+    },
+    {
+      "nombre": "Mascarilla Reparadora Absolut Repair Molecular - Loreal Professionnel",
+      "marca": "L'Oréal Professionnel",
+      "precio": 156000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172931/Mascarilla-Reparadora-Absolut-Repair-Molecular---Loreal-Professionnel-250-ml.png?v=639050267333170000",
+      "url": "https://www.medipiel.com.co/mascarilla-reparadora-absolut-repair-molecular-loreal-professionnel/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
     },
     {
       "nombre": "Fotoprotector Fusion Water Magic- Isdin",
@@ -772,24 +783,13 @@
       "en_grupo": false
     },
     {
-      "nombre": "Mini Aceite Absolut Repair 10 en 1 Cabello Dañado - Loreal Professionnel",
-      "marca": "L'Oréal Professionnel",
-      "precio": 61100,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2160785/mini-aceite-absolut-repair-10-en-1-cabello-danado-loreal-professionnel--1-.png?v=638907104419400000",
-      "url": "https://www.medipiel.com.co/mini-aceite-absolut-repair-10-en-1-cabello-danado-loreal-professionnel/p",
-      "es_mas_barato": true,
-      "grupo_id": "G004",
-      "en_grupo": true
-    },
-    {
       "nombre": "Dercos Shampoo Anticaspa 200 Ml",
       "marca": "Vichy",
       "precio": 89520,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
       "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G004",
       "en_grupo": true
     },
@@ -811,17 +811,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173135/6404-1-DERCOS-SHAMPOO-ANTICASPA-REFILL-BELLA-PIEL.png?v=639039189257130000",
       "url": "https://www.bellapiel.com.co/shampoo-anticaspa-dercos-technique-refil-500ml-6404/p",
-      "es_mas_barato": false,
-      "grupo_id": "G004",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mascarilla Reparadora Absolut Repair Molecular - Loreal Professionnel",
-      "marca": "L'Oréal Professionnel",
-      "precio": 156000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172931/Mascarilla-Reparadora-Absolut-Repair-Molecular---Loreal-Professionnel-250-ml.png?v=639050267333170000",
-      "url": "https://www.medipiel.com.co/mascarilla-reparadora-absolut-repair-molecular-loreal-professionnel/p",
       "es_mas_barato": false,
       "grupo_id": "G004",
       "en_grupo": true
@@ -1091,6 +1080,28 @@
       "en_grupo": true
     },
     {
+      "nombre": "Papel higiénico EKONO triple hoja (396  mts)",
+      "marca": "EKONO",
+      "precio": 14800,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32753065/Papel-Higienico-EKONO-Triple-Hoja-396-mts-3756865_a.jpg?v=639089252184930000",
+      "url": "https://tienda.exito.com/papel-higienico-ekono-triple-hoja-396-mts-3226861/p",
+      "es_mas_barato": false,
+      "grupo_id": "G013",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Crema dental COLGATE triple acción (375  ml)",
+      "marca": "COLGATE",
+      "precio": 20137,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32829858/CREMA-TRIPLE-ACCION-X3UND-1621155_a.jpg?v=639095354267000000",
+      "url": "https://tienda.exito.com/crema-triple-accion-x3und-981291/p",
+      "es_mas_barato": false,
+      "grupo_id": "G013",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pañal Winny Pants Etapa 6 Bolsa X30",
       "marca": "TECNOQUIMICAS",
       "precio": 53500,
@@ -1159,7 +1170,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3200,
+      "precio": 2560,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1170,7 +1181,7 @@
     {
       "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
       "marca": "KIKES",
-      "precio": 17850,
+      "precio": 12487,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32900846/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639101333554500000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
@@ -1225,7 +1236,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 2080,
+      "precio": 3584,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1236,7 +1247,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 4400,
+      "precio": 3520,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1247,7 +1258,7 @@
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 6000,
+      "precio": 4800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
@@ -1344,25 +1355,14 @@
       "en_grupo": false
     },
     {
-      "nombre": "Crema dental COLGATE triple acción (375  ml)",
-      "marca": "COLGATE",
-      "precio": 20137,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32829858/CREMA-TRIPLE-ACCION-X3UND-1621155_a.jpg?v=639095354267000000",
-      "url": "https://tienda.exito.com/crema-triple-accion-x3und-981291/p",
-      "es_mas_barato": false,
-      "grupo_id": "G032",
-      "en_grupo": false
-    },
-    {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 4600,
+      "precio": 3680,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
       "es_mas_barato": false,
-      "grupo_id": "G033",
+      "grupo_id": "G032",
       "en_grupo": false
     }
   ]
