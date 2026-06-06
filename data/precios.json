@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-05T14:56:05.080Z",
+  "ultima_actualizacion": "2026-06-06T03:42:26.504Z",
   "productos": [
     {
       "nombre": "Ajo Malla Importado x3   1  und",
       "marca": "SM",
-      "precio": 1120,
+      "precio": 1400,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33644306/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=639161989390230000",
       "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
@@ -46,20 +46,9 @@
       "en_grupo": true
     },
     {
-      "nombre": "Pastas LA MUNECA spaghetti (1000  gr)",
-      "marca": "LA MUNECA",
-      "precio": 4712,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32829808/Pasta-Spaguetti-1000-gr-603117_a.jpg?v=639095354058530000",
-      "url": "https://tienda.exito.com/pasta-spaguetti-1000-gr-755424/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
       "marca": "FRESCAMPO",
-      "precio": 5280,
+      "precio": 6600,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
       "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
@@ -70,7 +59,7 @@
     {
       "nombre": "Limón Tahití Malla TAEQ 1000  gr",
       "marca": "TAEQ",
-      "precio": 5824,
+      "precio": 7280,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
       "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
@@ -81,7 +70,7 @@
     {
       "nombre": "Platano Insuperable FRESCAMPO 1600  gr",
       "marca": "FRESCAMPO",
-      "precio": 5860,
+      "precio": 7480,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33434809/Platano-Ekono-1-6kg-157710_a.jpg?v=639144751368630000",
       "url": "https://tienda.exito.com/platano-ekono-1-6kg-795763/p",
@@ -158,7 +147,7 @@
     {
       "nombre": "Leche deslactosada COLANTA x6und (6000  ml)",
       "marca": "COLANTA",
-      "precio": 26095,
+      "precio": 28220,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32829866/Leche-Uht-Deslactosada-COLANTA-6000-ml-3202770_a.jpg?v=639095354285470000",
       "url": "https://tienda.exito.com/leche-uht-deslactosada-colanta-6000-ml-3069108/p",
@@ -816,13 +805,24 @@
       "en_grupo": false
     },
     {
+      "nombre": "Shampoo Absolut Repair Refill - Loreal Professionnel",
+      "marca": "L'Oréal Professionnel",
+      "precio": 76500,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2186689/7908785404958_7.png?v=639099744408200000",
+      "url": "https://www.medipiel.com.co/shampoo-absolut-repair-loreal-professionnel/p",
+      "es_mas_barato": true,
+      "grupo_id": "G004",
+      "en_grupo": true
+    },
+    {
       "nombre": "Dercos Shampoo Anticaspa 200 Ml",
       "marca": "Vichy",
       "precio": 89520,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
       "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G004",
       "en_grupo": true
     },
@@ -833,17 +833,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182576/Dercos-DS-Shampoo-Anticaspa-Cabello-Graso-Refill---Vichy--1-.jpg?v=639051338541000000",
       "url": "https://www.medipiel.com.co/dercos-ds-shampoo-anticaspa-cabello-graso-refill-vichy/p",
-      "es_mas_barato": false,
-      "grupo_id": "G004",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Minéral 89 - Vichy",
-      "marca": "Vichy",
-      "precio": 210900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235642/mineral-89-vichy.jpg.jpg?v=638755949631530000",
-      "url": "https://www.medipiel.com.co/mineral-89-vichy/p",
       "es_mas_barato": false,
       "grupo_id": "G004",
       "en_grupo": true
@@ -882,24 +871,13 @@
       "en_grupo": false
     },
     {
-      "nombre": "Electrolit Solución Oral Maracuya",
-      "marca": "PISA FARMACEUTICA",
-      "precio": 8600,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211112/ZA_224_Electrolit-Colombia-Hero IMG-08.jpg?v=639083233040370000",
-      "url": "https://www.drogueriascolsubsidio.com/electrolit-solucion-oral-maracuya-7501125184864/p",
-      "es_mas_barato": true,
-      "grupo_id": "G008",
-      "en_grupo": true
-    },
-    {
       "nombre": "Pedialyte Max 60 Con Zinc Uva Solución Oral",
       "marca": "ABBOTT",
       "precio": 10700,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208263/7501033957376.jpg?v=638929468883600000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-uva-solucion-oral-7501033957376/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G008",
       "en_grupo": true
     },
@@ -910,6 +888,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198343/736085413694-1.jpg?v=638581382972670000",
       "url": "https://www.drogueriascolsubsidio.com/lagricel-ofteno-04-solucion-oftalmica-736085413694/p",
+      "es_mas_barato": false,
+      "grupo_id": "G008",
+      "en_grupo": true
+    },
+    {
+      "nombre": "DK-MULSION SOLUCIÓN ORAL",
+      "marca": "NUTRABIOTICS S A S",
+      "precio": 97000,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/192360/7708970476599.jpg?v=638311081069170000",
+      "url": "https://www.drogueriascolsubsidio.com/dk-mulsion-solucion-oral-7708970476599/p",
       "es_mas_barato": false,
       "grupo_id": "G008",
       "en_grupo": true
@@ -1196,14 +1185,25 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32015541/BOLSA-PAPEL-EXITO-1921293_a.jpg?v=639011866002770000",
       "url": "https://tienda.exito.com/bolsa-papel-exito-1060765/p",
+      "es_mas_barato": true,
+      "grupo_id": "G017",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Papel higiénico EKONO triple hoja (396  mts)",
+      "marca": "EKONO",
+      "precio": 14800,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32753065/Papel-Higienico-EKONO-Triple-Hoja-396-mts-3756865_a.jpg?v=639089252184930000",
+      "url": "https://tienda.exito.com/papel-higienico-ekono-triple-hoja-396-mts-3226861/p",
       "es_mas_barato": false,
       "grupo_id": "G017",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2800,
+      "precio": 3500,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1236,7 +1236,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 3904,
+      "precio": 2640,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1247,7 +1247,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 3520,
+      "precio": 4400,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1258,7 +1258,7 @@
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 4800,
+      "precio": 6000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
@@ -1291,7 +1291,7 @@
     {
       "nombre": "Pan tajado BIMBO blanco suave esponjoso (730  gr)",
       "marca": "BIMBO",
-      "precio": 8910,
+      "precio": 8860,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33498562/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639153206539670000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
@@ -1313,7 +1313,7 @@
     {
       "nombre": "Chocolate CORONA tradicional pastillado (450  gr)",
       "marca": "CORONA",
-      "precio": 13080,
+      "precio": 12480,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502603/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639153313873930000",
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
@@ -1357,7 +1357,7 @@
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 3424,
+      "precio": 5500,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
