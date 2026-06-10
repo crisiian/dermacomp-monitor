@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-09T14:56:24.221Z",
+  "ultima_actualizacion": "2026-06-10T03:57:50.595Z",
   "productos": [
     {
       "nombre": "Ajo Malla Importado x3   1  und",
@@ -19,17 +19,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/28958849/Lenteja-1121547_a.jpg?v=638864600885130000",
       "url": "https://tienda.exito.com/lenteja-837337/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 2380,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -57,6 +46,28 @@
       "en_grupo": true
     },
     {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 4620,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Pastas LA MUNECA spaghetti (1000  gr)",
+      "marca": "LA MUNECA",
+      "precio": 5080,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32829808/Pasta-Spaguetti-1000-gr-603117_a.jpg?v=639095354058530000",
+      "url": "https://tienda.exito.com/pasta-spaguetti-1000-gr-755424/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Limón Tahití Malla TAEQ 1000  gr",
       "marca": "TAEQ",
       "precio": 5096,
@@ -79,33 +90,11 @@
       "en_grupo": true
     },
     {
-      "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
-      "marca": "TAEQ",
-      "precio": 8320,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27515861/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=638828184815470000",
-      "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Azúcar FRESCAMPO blanco (2500  gr)",
-      "marca": "FRESCAMPO",
-      "precio": 8490,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33546414/Azucar-Blanco-Especial-FRESCAMPO-2500-gr-3310407_a.jpg?v=639154582706400000",
-      "url": "https://tienda.exito.com/azucar-blanco-especial-frescampo-2500-gr-3096347/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Crema de leche ALQUERIA semientera (400  gr)",
       "marca": "ALQUERIA",
       "precio": 11000,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33160824/Crema-Leche-Semi-Entera-ALQUERIA-400-gr-3313023_a.jpg?v=639123990733300000",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33678453/Crema-Leche-Semi-Entera-ALQUERIA-400-gr-3313023_a.jpg?v=639166200361700000",
       "url": "https://tienda.exito.com/crema-leche-semi-entera-alqueria-400-gr-3096922/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
@@ -116,7 +105,7 @@
       "marca": "FRESCAMPO",
       "precio": 18540,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33498693/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639153209880270000",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672550/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639166171308300000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-entera-5400-ml-3225371/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
@@ -127,7 +116,7 @@
       "marca": "FRESCAMPO",
       "precio": 19200,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33498694/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639153209890170000",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672552/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639166171330400000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
@@ -149,7 +138,7 @@
       "marca": "FRESCAMPO",
       "precio": 22620,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33498692/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639153209870200000",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672548/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639166171285800000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
@@ -160,7 +149,7 @@
       "marca": "COLANTA",
       "precio": 26095,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32829866/Leche-Uht-Deslactosada-COLANTA-6000-ml-3202770_a.jpg?v=639095354285470000",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33671546/Leche-Uht-Deslactosada-COLANTA-6000-ml-3202770_a.jpg?v=639166165020330000",
       "url": "https://tienda.exito.com/leche-uht-deslactosada-colanta-6000-ml-3069108/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
@@ -266,12 +255,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Neutrogena Hydro Boost Water Gel Hidratante",
-      "marca": "JOHNSON Y JOHNSON",
-      "precio": 74800,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/199003/7891010255725_1.jpg?v=638622034131500000",
-      "url": "https://www.drogueriascolsubsidio.com/neutrogena-hydro-boost-water-gel-hidratante-7891010255725/p",
+      "nombre": "Cerave gel limpiador espumoso",
+      "marca": "Cerave",
+      "precio": 77665,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170050/5716-1-CERAVE-LIMPIADOR-ESPUMOSO-GEL-BELLA-PIEL.png.png?v=639141119670630000",
+      "url": "https://www.bellapiel.com.co/cerave-gel-limpiador-espumoso-fcox473ml-5716/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -299,34 +288,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Cerave gel limpiador espumoso",
-      "marca": "Cerave",
-      "precio": 83212,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170050/5716-1-CERAVE-LIMPIADOR-ESPUMOSO-GEL-BELLA-PIEL.png.png?v=639141119670630000",
-      "url": "https://www.bellapiel.com.co/cerave-gel-limpiador-espumoso-fcox473ml-5716/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Cetaphil Limpiador Piel Grasa 473 Ml",
       "marca": "Cetaphil",
       "precio": 84562,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/172320/6161-1-CETAPHIL-LIMPIADOR-PIEL-GRASA-BELLA-PIEL.jpg?v=639141109052870000",
       "url": "https://www.bellapiel.com.co/gel-limpiadora-piel-grasa-6161/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Eucerin Anti-Pigment Gel Limpiador Facial 200 Ml",
-      "marca": "Eucerin",
-      "precio": 87500,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169940/6665-1-EUCERIN-LIMPIADOR-ANTI-PIGMENT-BELLA-PIEL.jpg.jpg?v=639021182098430000",
-      "url": "https://www.bellapiel.com.co/eucerin-anti-pigment-gel-limpiador-x-200ml-6665/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -376,6 +343,28 @@
       "en_grupo": true
     },
     {
+      "nombre": "Anthelios UVMune Oil Control con color 50 ml",
+      "marca": "La Roche Posay",
+      "precio": 101212,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173760/6123.jpg?v=639141304261070000",
+      "url": "https://www.bellapiel.com.co/anthelius-uv-mune-6123/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "La Roche-Posay Mela B3 Limpiador Antimanchas x 200 Ml",
+      "marca": "La Roche Posay",
+      "precio": 104212,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170483/6470-1-LA-ROCHE-POSAY-MELA-B3-LIMPIADOR-BELLA-PIEL.jpg.jpg?v=638808704219700000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-mela-b3-limpiador-antimanchas-200-ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Protector Solar Eucerin Oil Control Sun SPF 50+ 50 Ml",
       "marca": "Eucerin",
       "precio": 104580,
@@ -398,23 +387,34 @@
       "en_grupo": true
     },
     {
-      "nombre": "Anthelios UVMune Oil Control con color 50 ml",
-      "marca": "La Roche Posay",
-      "precio": 107960,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173760/6123.jpg?v=639141304261070000",
-      "url": "https://www.bellapiel.com.co/anthelius-uv-mune-6123/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Anthelios UVMune 400 Oil Control gel x 50 ml",
       "marca": "La Roche Posay",
       "precio": 110360,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
       "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Cerave Crema Anti-Rugosidades X340Gr",
+      "marca": "Cerave",
+      "precio": 124950,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170114/6070-1-CERAVE-CREMA-ANTI-RUGOSIDADES-POTE-BELLA-PIEL.jpg.jpg?v=638808526951630000",
+      "url": "https://www.bellapiel.com.co/cerave-crema-anti-rugosidades-340gr/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Kit Anthelios Oil Control Gel Con Color - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 127900,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184452/Kit-Anthelios-Oil-Control-Gel-Con-Color---La-Roche-Posay.jpg?v=639070157793030000",
+      "url": "https://www.medipiel.com.co/kit-anthelios-oil-control-gel-con-color-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -453,12 +453,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "La Roche-Posay Mela B3 Limpiador Antimanchas x 200 Ml",
+      "nombre": "La Roche-Posay Effaclar Limpiador Gel Purificante  x 400 Ml",
       "marca": "La Roche Posay",
-      "precio": 138950,
+      "precio": 139462,
       "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170483/6470-1-LA-ROCHE-POSAY-MELA-B3-LIMPIADOR-BELLA-PIEL.jpg.jpg?v=638808704219700000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-mela-b3-limpiador-antimanchas-200-ml/p",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170212/2439-1-LA-ROCHE-POSAY-EFFACLAR-GEL-PURIFICANTE-BELLA-PIEL.jpg.jpg?v=638808593011100000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-gel-400ml-2439/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -563,17 +563,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Protector Solar Facial Pigment Control Fps 50+ - Eucerin",
-      "marca": "Eucerin",
-      "precio": 157800,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/186544/protector-solar-facial-anti-manchas-tono-claro-eucerin.jpg?v=638370562273130000",
-      "url": "https://www.medipiel.com.co/fotoprotector-sun-fluid-pigment-control-fps-50-50ml-eucerin/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Spray en Aceite Absolut Repair 10 en 1 Cabello Dañado - Loreal Professionnel",
       "marca": "L'Oréal Professionnel",
       "precio": 168000,
@@ -596,6 +585,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "La Roche Posay Effaclar A-Z Gel Crema Anti-Imperfecciones x 40 Ml",
+      "marca": "La Roche Posay",
+      "precio": 180760,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171813/6842-1-LA-ROCHE-POSAY-CREMA-ANTI-IMPERFECCIONES-BELLA-PIEL.jpg?v=638926073615030000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-a-z-gel-crema-anti-imperfecciones-x-40-ml-6842/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pure Vitamin C12 Serum - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 184425,
@@ -613,17 +613,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235631/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay-400-ml.jpg.jpg?v=638755942151170000",
       "url": "https://www.medipiel.com.co/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "La Roche-Posay Effaclar Limpiador Gel Purificante  x 400 Ml",
-      "marca": "La Roche Posay",
-      "precio": 185950,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170212/2439-1-LA-ROCHE-POSAY-EFFACLAR-GEL-PURIFICANTE-BELLA-PIEL.jpg.jpg?v=638808593011100000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-gel-400ml-2439/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -701,17 +690,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/191808/isdinceutics-hyaluronic-concentrate-serum-hidratante-ultraconcentrado-isdin.jpg?v=638493977850230000",
       "url": "https://www.medipiel.com.co/hyaluronic-concentrate-isdin/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "La Roche Posay Effaclar A-Z Gel Crema Anti-Imperfecciones x 40 Ml",
-      "marca": "La Roche Posay",
-      "precio": 225950,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171813/6842-1-LA-ROCHE-POSAY-CREMA-ANTI-IMPERFECCIONES-BELLA-PIEL.jpg?v=638926073615030000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-a-z-gel-crema-anti-imperfecciones-x-40-ml-6842/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -851,7 +829,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 169915,
+      "precio": 159920,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174888/2796.png?v=639141097223430000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -976,6 +954,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208263/7501033957376.jpg?v=638929468883600000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-uva-solucion-oral-7501033957376/p",
+      "es_mas_barato": false,
+      "grupo_id": "G010",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Enterogermina Suspensión Oral",
+      "marca": "SANOFI AVENTIS",
+      "precio": 73525,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211305/IMAGENES CAFAM ENTEROGERMINA 1000x667px-01.jpg?v=639104736039730000",
+      "url": "https://www.drogueriascolsubsidio.com/enterogermina-suspension-oral-3582910009900/p",
       "es_mas_barato": false,
       "grupo_id": "G010",
       "en_grupo": true
@@ -1223,6 +1212,17 @@
       "en_grupo": false
     },
     {
+      "nombre": "Huevos A SMN rojo (30  und)",
+      "marca": "SMN",
+      "precio": 13990,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32892558/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639100640567770000",
+      "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
+      "es_mas_barato": true,
+      "grupo_id": "G022",
+      "en_grupo": true
+    },
+    {
       "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
       "marca": "KIKES",
       "precio": 16650,
@@ -1231,12 +1231,12 @@
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
       "es_mas_barato": false,
       "grupo_id": "G022",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 1848,
+      "precio": 3192,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1304,7 +1304,7 @@
       "marca": "EXITO MARCA PROPIA",
       "precio": 19980,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33546523/Queso-Mozzarella-Exito-EXITO-MARCA-PROPIA-800-gr-3479458_a.jpg?v=639154583710800000",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672053/Queso-Mozzarella-Exito-EXITO-MARCA-PROPIA-800-gr-3479458_a.jpg?v=639166167129600000",
       "url": "https://tienda.exito.com/queso-mozzarella-exito-exito-marca-propia-800-gr-3147133/p",
       "es_mas_barato": false,
       "grupo_id": "G027",
