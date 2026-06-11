@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-11T04:11:41.237Z",
+  "ultima_actualizacion": "2026-06-11T16:06:52.492Z",
   "productos": [
     {
       "nombre": "Ajo Malla Importado x3   1  und",
       "marca": "SM",
-      "precio": 1400,
+      "precio": 1120,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33644306/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=639161989390230000",
       "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
@@ -46,6 +46,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
+      "marca": "TAEQ",
+      "precio": 4144,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
+      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pastas LA MUNECA spaghetti (1000  gr)",
       "marca": "LA MUNECA",
       "precio": 4712,
@@ -57,12 +68,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 5180,
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 5280,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -79,23 +90,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 6600,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Azúcar FRESCAMPO blanco (2500  gr)",
       "marca": "FRESCAMPO",
       "precio": 8490,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33546414/Azucar-Blanco-Especial-FRESCAMPO-2500-gr-3310407_a.jpg?v=639154582706400000",
       "url": "https://tienda.exito.com/azucar-blanco-especial-frescampo-2500-gr-3096347/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
+      "marca": "TAEQ",
+      "precio": 9900,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27515861/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=638828184815470000",
+      "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -829,7 +840,7 @@
     {
       "nombre": "Heliocare 360° Pigment Solution Fluid spf 50  - Cantabria Labs",
       "marca": "Cantabria Labs",
-      "precio": 159035,
+      "precio": 161415,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187255/heliocare-360-pigment-solution-fluid-spf-50-heliocare-1--2-.jpg?v=639153206421230000",
       "url": "https://www.medipiel.com.co/heliocare-360-pigment-solution-fluid-spf-50-heliocare-1/p",
@@ -915,6 +926,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "SERTRALINA 50MG TABLETA RECUBIERTA GENFAR",
+      "marca": "GENFAR",
+      "precio": 88687,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/204957/SERTRALINA 50MG TNR CJX30 EAN 7702605111367.png.png?v=638799819950700000",
+      "url": "https://www.drogueriascolsubsidio.com/sertralina-50mg-tableta-recubierta-genfar-7702605111367/p",
+      "es_mas_barato": false,
+      "grupo_id": "G009",
+      "en_grupo": true
+    },
+    {
       "nombre": "Depiderm Suero Booster Vitamina C 20 30 Ml",
       "marca": "Uriage",
       "precio": 161250,
@@ -939,10 +961,21 @@
     {
       "nombre": "Pedialyte Max 60 Con Zinc Uva Solución Oral",
       "marca": "ABBOTT",
-      "precio": 10700,
+      "precio": 9095,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208263/7501033957376.jpg?v=638929468883600000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-uva-solucion-oral-7501033957376/p",
+      "es_mas_barato": false,
+      "grupo_id": "G010",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Lagricel Ofteno 0.4% Solucion Oftalmica",
+      "marca": "SOPHIA",
+      "precio": 57000,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198343/736085413694-1.jpg?v=638581382972670000",
+      "url": "https://www.drogueriascolsubsidio.com/lagricel-ofteno-04-solucion-oftalmica-736085413694/p",
       "es_mas_barato": false,
       "grupo_id": "G010",
       "en_grupo": true
@@ -954,17 +987,6 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211305/IMAGENES CAFAM ENTEROGERMINA 1000x667px-01.jpg?v=639104736039730000",
       "url": "https://www.drogueriascolsubsidio.com/enterogermina-suspension-oral-3582910009900/p",
-      "es_mas_barato": false,
-      "grupo_id": "G010",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Lagricel Ofteno 0.4% Solucion Oftalmica",
-      "marca": "SOPHIA",
-      "precio": 76000,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198343/736085413694-1.jpg?v=638581382972670000",
-      "url": "https://www.drogueriascolsubsidio.com/lagricel-ofteno-04-solucion-oftalmica-736085413694/p",
       "es_mas_barato": false,
       "grupo_id": "G010",
       "en_grupo": true
@@ -1082,7 +1104,7 @@
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 63000,
+      "precio": 47250,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
@@ -1120,17 +1142,6 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208089/8886451012074.jpg?v=638929384360300000",
       "url": "https://www.drogueriascolsubsidio.com/pediasure-polvo-peptigro-sabor-vainilla-8886451012074/p",
       "es_mas_barato": true,
-      "grupo_id": "G016",
-      "en_grupo": true
-    },
-    {
-      "nombre": "PROWHEY BARIATRIC VAINILLA POLVO",
-      "marca": "BOYDORR",
-      "precio": 138100,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210801/7709526421377 -9-.jpg?v=639057293920200000",
-      "url": "https://www.drogueriascolsubsidio.com/prowhey-bariatric-vainilla-polvo-7709526421377/p",
-      "es_mas_barato": false,
       "grupo_id": "G016",
       "en_grupo": true
     },
@@ -1214,7 +1225,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3500,
+      "precio": 2800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1223,31 +1234,20 @@
       "en_grupo": false
     },
     {
-      "nombre": "Huevos A SMN rojo (30  und)",
-      "marca": "SMN",
-      "precio": 13990,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32892558/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639100640567770000",
-      "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
-      "es_mas_barato": true,
-      "grupo_id": "G023",
-      "en_grupo": true
-    },
-    {
       "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
       "marca": "KIKES",
-      "precio": 16650,
+      "precio": 23800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32900846/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639101333554500000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
       "es_mas_barato": false,
       "grupo_id": "G023",
-      "en_grupo": true
+      "en_grupo": false
     },
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 3120,
+      "precio": 2496,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1258,7 +1258,7 @@
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 6000,
+      "precio": 4800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
@@ -1357,7 +1357,7 @@
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 4600,
+      "precio": 3680,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
