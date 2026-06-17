@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-16T16:58:44.331Z",
+  "ultima_actualizacion": "2026-06-17T04:20:40.149Z",
   "productos": [
     {
       "nombre": "Acetaminofen 500 Mg Tableta Genfar",
@@ -519,17 +519,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Eucerin Anti-Pigment Crema Corporal Body Areas 200 ml",
-      "marca": "Eucerin",
-      "precio": 186900,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170857/6452-1-EUCERIN-BODY-AREAS-DESPIGMENTANTE-BELLA-PIEL.jpg?v=639059414303100000",
-      "url": "https://www.bellapiel.com.co/eucerin--antipigment--body-areas-x-200-ml--6452/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "La Roche-Posay Toleriane Dermallergo Fluido x 40 Ml",
       "marca": "La Roche Posay",
       "precio": 195950,
@@ -547,6 +536,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
       "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Acnestil Gel Limpiador 400 Ml",
+      "marca": "Rilastil",
+      "precio": 201100,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175103/5502-1-RILASTIL-ACNESTIL-LIMPIADOR-FACIAL-BELLA-PIEL.jpg?v=639143897758630000",
+      "url": "https://www.bellapiel.com.co/acnestil-gel-limpiador-400-ml-/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -686,7 +686,7 @@
     {
       "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
       "marca": "FRESCAMPO",
-      "precio": 2338,
+      "precio": 2870,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
       "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
@@ -717,23 +717,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 3780,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
-      "es_mas_barato": false,
-      "grupo_id": "G002",
-      "en_grupo": true
-    },
-    {
       "nombre": "Pastas LA MUNECA spaghetti (1000  gr)",
       "marca": "LA MUNECA",
       "precio": 5080,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32829808/Pasta-Spaguetti-1000-gr-603117_a.jpg?v=639095354058530000",
       "url": "https://tienda.exito.com/pasta-spaguetti-1000-gr-755424/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
+      "marca": "TAEQ",
+      "precio": 5600,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
+      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
       "es_mas_barato": false,
       "grupo_id": "G002",
       "en_grupo": true
@@ -1157,17 +1157,6 @@
       "en_grupo": false
     },
     {
-      "nombre": "Alimento lácteo BON YURT zucaritas x4 und 170 g (680  gr)",
-      "marca": "BON YURT",
-      "precio": 17700,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33670153/Alimento-Lacteo-Con-Cereal-Paq-X-4-Unds-258583_a.jpg?v=639166153693500000",
-      "url": "https://tienda.exito.com/alimento-lacteo-con-cereal-paq-x-4-unds-531236/p",
-      "es_mas_barato": true,
-      "grupo_id": "G018",
-      "en_grupo": true
-    },
-    {
       "nombre": "Alimento Lacteo Enfagrow Premium Promental Natural Etapa 3",
       "marca": "MEAD JOHNSON NUTRITION",
       "precio": 223360,
@@ -1176,7 +1165,7 @@
       "url": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-promental-etapa-3-7506205810800/p",
       "es_mas_barato": false,
       "grupo_id": "G018",
-      "en_grupo": true
+      "en_grupo": false
     },
     {
       "nombre": "oferta protector solar afelius oil free gel 50%dto segunda unidad",
@@ -1214,7 +1203,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2450,
+      "precio": 4130,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1251,6 +1240,17 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33285898/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639135796352430000",
       "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
+      "es_mas_barato": false,
+      "grupo_id": "G023",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Huevos AA NAPOLES rojo (30  und)",
+      "marca": "NAPOLES",
+      "precio": 23000,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32919483/HUEVO-NAPOLES-DE-30U-AA-ROSADO-SUBASTA-30-und-172836_a.jpg?v=639104823133270000",
+      "url": "https://tienda.exito.com/huevo-napoles-de-30u-aa-rosado-subasta-30-und-496267/p",
       "es_mas_barato": false,
       "grupo_id": "G023",
       "en_grupo": true
@@ -1344,23 +1344,23 @@
       "en_grupo": false
     },
     {
-      "nombre": "Avena En Hojuela Extracontenido QUAKER 1100  gr",
-      "marca": "QUAKER",
-      "precio": 9120,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29102290/Avena-En-Hojuela-Extracontenido-QUAKER-Q1292-3423348_a.jpg?v=638881203961770000",
-      "url": "https://tienda.exito.com/avena-en-hojuela-extracontenido-quaker-q1292-3133181/p",
-      "es_mas_barato": false,
-      "grupo_id": "G029",
-      "en_grupo": false
-    },
-    {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
       "precio": 3220,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
+      "es_mas_barato": false,
+      "grupo_id": "G029",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Carne de res asar freír  fresca",
+      "marca": "SM",
+      "precio": 32980,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681774/CARNES-ASAR-FREIR-SI-237700_a.jpg?v=639166318726870000",
+      "url": "https://tienda.exito.com/carnes-asar-freir-si-498107/p",
       "es_mas_barato": false,
       "grupo_id": "G030",
       "en_grupo": false
