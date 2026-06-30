@@ -1,17 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-29T15:51:02.982Z",
+  "ultima_actualizacion": "2026-06-30T03:53:03.242Z",
   "productos": [
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 2432,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
-      "es_mas_barato": true,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
     {
       "nombre": "Sal REFISAL alta pureza  (1000  gr)",
       "marca": "REFISAL",
@@ -19,17 +8,28 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32006772/Sal-Refinada-1000-gr-125407_a.jpg?v=639010821199030000",
       "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
+      "es_mas_barato": true,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 3040,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
     },
     {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 5824,
+      "nombre": "Blanqueador EKONO pureza cítrica (2000  ml)",
+      "marca": "EKONO",
+      "precio": 3100,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32036691/Blanqueador-sin-fragancia-EKONO-SIN-REF-3023705_a.jpg?v=639015964701900000",
+      "url": "https://tienda.exito.com/blanqueador-sin-fragancia-ekono-sin-ref-3016130/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -46,12 +46,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
+      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
       "marca": "TAEQ",
-      "precio": 7680,
+      "precio": 7280,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27515861/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=638828184815470000",
-      "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
+      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -63,6 +63,17 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33546414/Azucar-Blanco-Especial-FRESCAMPO-2500-gr-3310407_a.jpg?v=639154582706400000",
       "url": "https://tienda.exito.com/azucar-blanco-especial-frescampo-2500-gr-3096347/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
+      "marca": "TAEQ",
+      "precio": 9000,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27515861/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=638828184815470000",
+      "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -90,6 +101,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Leche deslactosada FRESCAMPO semidescremada UHT paquete (5400  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 19200,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672552/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639166171330400000",
+      "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Aceite FRESCAMPO vegetal multiusos (3000  ml)",
       "marca": "FRESCAMPO",
       "precio": 20850,
@@ -112,12 +134,34 @@
       "en_grupo": true
     },
     {
+      "nombre": "Leche COLANTA uht entera (6000  ml)",
+      "marca": "COLANTA",
+      "precio": 24450,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33671545/Leche-Uht-Entera-COLANTA-6000-ml-3202769_a.jpg?v=639166164985770000",
+      "url": "https://tienda.exito.com/leche-uht-entera-colanta-6000-ml-3069107/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Detergente en polvo FAB ultra flash (4000  gr)",
       "marca": "FAB",
       "precio": 29950,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33490095/Detergente-Pvo-Ultra-FAB-4000-gr-3430342_a.jpg?v=639150774017800000",
       "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-4000-gr-3134947/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Leche deslactosada COLANTA x6und (6000  ml)",
+      "marca": "COLANTA",
+      "precio": 30700,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33671546/Leche-Uht-Deslactosada-COLANTA-6000-ml-3202770_a.jpg?v=639166165020330000",
+      "url": "https://tienda.exito.com/leche-uht-deslactosada-colanta-6000-ml-3069108/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -195,6 +239,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/199003/7891010255725_1.jpg?v=638622034131500000",
       "url": "https://www.drogueriascolsubsidio.com/neutrogena-hydro-boost-water-gel-hidratante-7891010255725/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Shampoo Absolut Repair Refill - Loreal Professionnel",
+      "marca": "L'Oréal Professionnel",
+      "precio": 76500,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2186689/7908785404958_7.png?v=639099744408200000",
+      "url": "https://www.medipiel.com.co/shampoo-absolut-repair-loreal-professionnel/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -299,17 +354,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Refill Effaclar M+ Gel Limpiador Pieles Mixtas A Grasas - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 101962,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189798/3337875876407_11.jpg?v=639149674831830000",
-      "url": "https://www.medipiel.com.co/refill-effaclar-m-gel-limpiador-pieles-mixtas-a-grasas-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Protector Solar Eucerin Oil Control Sun SPF 50+ 50 Ml",
       "marca": "Eucerin",
       "precio": 104580,
@@ -398,23 +442,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "La Roche-Posay Effaclar Duo Anti-imperfecciones x 40Ml",
-      "marca": "La Roche Posay",
-      "precio": 125212,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170195/2431-1-LA-ROCHE-POSAY-EFFACLAR-DUO-BELLA-PIEL.jpg.jpg?v=638808588616730000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-duo-2431/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Sérum Anti-imperfecciones Effaclar  - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 131175,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/213490/Effaclar-Serum-Ultra-Concentrado-La-Roche-Posay--1-.jpg.jpg?v=638760972064770000",
       "url": "https://www.medipiel.com.co/effaclar-serum-ultra-concentrado-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Avène Cleanance Gel 400 Ml",
+      "marca": "Avene",
+      "precio": 132300,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175775/4942-1-AVENE-CLEANANCE-GEL-LIMPIADOR-FACIAL-BELLA-PIEL.jpg?v=639150686864900000",
+      "url": "https://www.bellapiel.com.co/avene-cleanance-gel-4942/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -453,34 +497,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "La Roche-Posay Effaclar Gel Purificante Micro-Exfoliante x 400 Ml",
-      "marca": "La Roche Posay",
-      "precio": 139462,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170326/5276-1-LA-ROCHE-POSAY-EFFACLAR-GEL-PURIFICANTE-MICRO-EXFOLIANTE-BELLA-PIEL.jpg.jpg?v=638808660410230000",
-      "url": "https://www.bellapiel.com.co/efaclar-gel--purificante--micro-exfo-400ml-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
       "marca": "La Roche Posay",
       "precio": 139960,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Isdin Fotoprotector Fusion Water Magic SPF50",
-      "marca": "ISDIN COLOMBIA",
-      "precio": 142100,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/193696/8429420248977-1.jpg?v=638336775494170000",
-      "url": "https://www.drogueriascolsubsidio.com/isdin-fotoprotector-fusion-water-magic-spf50-8429420248977/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -558,6 +580,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173688/4348.jpg?v=639141189292500000",
       "url": "https://www.bellapiel.com.co/vichy-mineral-8950ml-4348-1/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Hidratante Facial Rilastil Aqua Fluido Normalizante 50 Ml",
+      "marca": "Rilastil",
+      "precio": 169650,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174962/4912-1-RILASTIL-AQUA-NORMALIZANTE-HIDRATANTE-BELLA-PIEL.jpg?v=639143877989770000",
+      "url": "https://www.bellapiel.com.co/rilastil-aqua-fluido-normalizante-50-ml-4912/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -794,13 +827,24 @@
       "en_grupo": false
     },
     {
+      "nombre": "Electrolit Mora Azul Solución Suero Rehidratante",
+      "marca": "PISA FARMACEUTICA",
+      "precio": 7785,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211114/ZA_224_Electrolit-Colombia-Hero IMG-01.jpg?v=639083235327030000",
+      "url": "https://www.drogueriascolsubsidio.com/electrolit-mora-azul-solucion-suero-rehidratante-7501125184277/p",
+      "es_mas_barato": true,
+      "grupo_id": "G006",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pedialyte Max 60 Con Zinc Uva Solución Oral",
       "marca": "ABBOTT",
       "precio": 9095,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208263/7501033957376.jpg?v=638929468883600000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-uva-solucion-oral-7501033957376/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
     },
@@ -833,6 +877,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198343/736085413694-1.jpg?v=638581382972670000",
       "url": "https://www.drogueriascolsubsidio.com/lagricel-ofteno-04-solucion-oftalmica-736085413694/p",
+      "es_mas_barato": false,
+      "grupo_id": "G006",
+      "en_grupo": true
+    },
+    {
+      "nombre": "DK-MULSION SOLUCIÓN ORAL",
+      "marca": "NUTRABIOTICS S A S",
+      "precio": 97000,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/192360/7708970476599.jpg?v=638311081069170000",
+      "url": "https://www.drogueriascolsubsidio.com/dk-mulsion-solucion-oral-7708970476599/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
@@ -910,9 +965,20 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166101/2308-ROZELAIC-GEL.jpg?v=639141198942670000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
+      "es_mas_barato": true,
+      "grupo_id": "G008",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Rozelaic 15% Gel",
+      "marca": "MEGALABS COLOMBIA",
+      "precio": 106200,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/201033/7703281000853.jpg?v=638666750444830000",
+      "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
       "es_mas_barato": false,
       "grupo_id": "G008",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "Tricovit 60 Tabs",
@@ -1003,17 +1069,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Electrolit Mora Azul Solución Suero Rehidratante",
-      "marca": "PISA FARMACEUTICA",
-      "precio": 7785,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211114/ZA_224_Electrolit-Colombia-Hero IMG-01.jpg?v=639083235327030000",
-      "url": "https://www.drogueriascolsubsidio.com/electrolit-mora-azul-solucion-suero-rehidratante-7501125184277/p",
-      "es_mas_barato": true,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
       "nombre": "Mounjaro 5Mg/0.5Ml Solucion Inyectable",
       "marca": "ELI LILLY",
       "precio": 335000,
@@ -1022,7 +1077,7 @@
       "url": "https://www.drogueriascolsubsidio.com/mounjaro-5mg05ml-solucion-inyectable-7703991306382/p",
       "es_mas_barato": false,
       "grupo_id": "G011",
-      "en_grupo": true
+      "en_grupo": false
     },
     {
       "nombre": "Pediasure Polvo Peptigro Sabor: Vainilla",
@@ -1032,17 +1087,6 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208089/8886451012074.jpg?v=638929384360300000",
       "url": "https://www.drogueriascolsubsidio.com/pediasure-polvo-peptigro-sabor-vainilla-8886451012074/p",
       "es_mas_barato": true,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Ensure Advance Vainilla",
-      "marca": "ABBOTT",
-      "precio": 165950,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208199/8427030008608_1.jpg?v=638929413669470000",
-      "url": "https://www.drogueriascolsubsidio.com/ensure-advance-vainilla-8427030008608/p",
-      "es_mas_barato": false,
       "grupo_id": "G012",
       "en_grupo": true
     },
@@ -1168,9 +1212,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Crema dental COLGATE triple acción (375  ml)",
+      "marca": "COLGATE",
+      "precio": 33900,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33639920/CREMA-TRIPLE-ACCION-X3UND-1621155_a.jpg?v=639161798178600000",
+      "url": "https://tienda.exito.com/crema-triple-accion-x3und-981291/p",
+      "es_mas_barato": false,
+      "grupo_id": "G021",
+      "en_grupo": true
+    },
+    {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 1840,
+      "precio": 2300,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1201,72 +1256,6 @@
       "en_grupo": false
     },
     {
-      "nombre": "Leche deslactosada FRESCAMPO semidescremada UHT paquete (5400  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 19200,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672552/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639166171330400000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
-      "es_mas_barato": false,
-      "grupo_id": "G025",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Galletas DUCALES x8 tacos (700  gr)",
-      "marca": "DUCALES",
-      "precio": 14350,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502652/Galletas-DUCALES-DUCALES-TC-X-8-700GR-700-gr-3640324_a.jpg?v=639153314189870000",
-      "url": "https://tienda.exito.com/galletas-ducales-ducales-tc-x-8-700gr-700-gr-3197630/p",
-      "es_mas_barato": false,
-      "grupo_id": "G026",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Huevos AA SMN rojo (30  und)",
-      "marca": "SMN",
-      "precio": 15500,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33285898/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639135796352430000",
-      "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
-      "es_mas_barato": true,
-      "grupo_id": "G027",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
-      "marca": "KIKES",
-      "precio": 23800,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32900846/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639101333554500000",
-      "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
-      "es_mas_barato": false,
-      "grupo_id": "G027",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Toallitas húmedas PERSONAL CHOICE MARCA EXCLUSIV aloe vera (72  und)",
-      "marca": "PERSONAL CHOICE MARCA EXCLUSIV",
-      "precio": 3840,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33292796/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639136102342930000",
-      "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
-      "es_mas_barato": true,
-      "grupo_id": "G028",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Queso mozzarella EXITO MARCA PROPIA tajado (800  gr)",
-      "marca": "EXITO MARCA PROPIA",
-      "precio": 19980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672053/Queso-Mozzarella-Exito-EXITO-MARCA-PROPIA-800-gr-3479458_a.jpg?v=639166167129600000",
-      "url": "https://tienda.exito.com/queso-mozzarella-exito-exito-marca-propia-800-gr-3147133/p",
-      "es_mas_barato": false,
-      "grupo_id": "G028",
-      "en_grupo": true
-    },
-    {
       "nombre": "Chuleta Económica de Cerdo  económica",
       "marca": "SM",
       "precio": 16780,
@@ -1274,7 +1263,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681935/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639166320383770000",
       "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
       "es_mas_barato": true,
-      "grupo_id": "G029",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1285,19 +1274,8 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
       "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G025",
       "en_grupo": true
-    },
-    {
-      "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
-      "marca": "COLANTA",
-      "precio": 8250,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33670293/Queso-Crema-X-400g-895557_a.jpg?v=639166156163830000",
-      "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
-      "es_mas_barato": false,
-      "grupo_id": "G030",
-      "en_grupo": false
     },
     {
       "nombre": "4 x Tomates Chonto",
@@ -1307,18 +1285,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G026",
       "en_grupo": false
     },
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 4800,
+      "precio": 6000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
       "es_mas_barato": false,
-      "grupo_id": "G032",
+      "grupo_id": "G027",
       "en_grupo": false
     },
     {
@@ -1329,7 +1307,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502838/Cerveza-COSTENA-Lata-Sixpac-1860-ml-3739284_a.jpg?v=639153315468500000",
       "url": "https://tienda.exito.com/cerveza-costena-lata-sixpac-1860-ml-3222187/p",
       "es_mas_barato": false,
-      "grupo_id": "G033",
+      "grupo_id": "G028",
       "en_grupo": false
     },
     {
@@ -1340,7 +1318,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33498562/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639153206539670000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
       "es_mas_barato": false,
-      "grupo_id": "G034",
+      "grupo_id": "G029",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Galletas DUCALES x8 tacos (700  gr)",
+      "marca": "DUCALES",
+      "precio": 14350,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502652/Galletas-DUCALES-DUCALES-TC-X-8-700GR-700-gr-3640324_a.jpg?v=639153314189870000",
+      "url": "https://tienda.exito.com/galletas-ducales-ducales-tc-x-8-700gr-700-gr-3197630/p",
+      "es_mas_barato": false,
+      "grupo_id": "G030",
       "en_grupo": false
     },
     {
@@ -1351,7 +1340,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502603/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639153313873930000",
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
       "es_mas_barato": false,
-      "grupo_id": "G035",
+      "grupo_id": "G031",
       "en_grupo": false
     },
     {
@@ -1362,7 +1351,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33267909/Surtido-Mega-Lonchera-FRITO-LAY-586-gr-3285022_a.jpg?v=639131827328070000",
       "url": "https://tienda.exito.com/surtido-mega-lonchera-frito-lay-586-gr-3090203/p",
       "es_mas_barato": false,
-      "grupo_id": "G036",
+      "grupo_id": "G032",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Mango Tommy  1  und",
+      "marca": "SM",
+      "precio": 5660,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32666256/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639082476566700000",
+      "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
+      "es_mas_barato": false,
+      "grupo_id": "G033",
       "en_grupo": false
     }
   ]
