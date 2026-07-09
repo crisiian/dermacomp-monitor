@@ -1,13 +1,13 @@
 {
-  "ultima_actualizacion": "2026-07-09T03:30:57.092Z",
+  "ultima_actualizacion": "2026-07-09T15:14:25.983Z",
   "productos": [
     {
-      "nombre": "Detergente en polvo FAB ultra flash (4000  gr)",
-      "marca": "FAB",
-      "precio": 27950,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33490095/Detergente-Pvo-Ultra-FAB-4000-gr-3430342_a.jpg?v=639150774017800000",
-      "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-4000-gr-3134947/p",
+      "nombre": "Isdin Reparador Labial Stick Color Rosa x 4 Gr",
+      "marca": "Isdin",
+      "precio": 38200,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171529/6810-1-ISDIN-LABIAL-ROSA-BELLA-PIEL.jpg?v=638906926487630000",
+      "url": "https://www.bellapiel.com.co/isdin-reparador-labial-stick-rosa-x-4-gr-6810/p",
       "es_mas_barato": true,
       "grupo_id": "G000",
       "en_grupo": true
@@ -15,7 +15,7 @@
     {
       "nombre": "Detergente en polvo FAB ultra flash (5000  gr)",
       "marca": "FAB",
-      "precio": 33360,
+      "precio": 41700,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33490103/Detergente-Pvo-Ultra-FAB-5000-gr-3430343_a.jpg?v=639150774060270000",
       "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-5000-gr-3134948/p",
@@ -24,12 +24,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Isdin Reparador Labial Stick Color Rosa x 4 Gr",
-      "marca": "Isdin",
-      "precio": 38200,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171529/6810-1-ISDIN-LABIAL-ROSA-BELLA-PIEL.jpg?v=638906926487630000",
-      "url": "https://www.bellapiel.com.co/isdin-reparador-labial-stick-rosa-x-4-gr-6810/p",
+      "nombre": "Detergente en polvo FAB ultra flash (4000  gr)",
+      "marca": "FAB",
+      "precio": 47850,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33490095/Detergente-Pvo-Ultra-FAB-4000-gr-3430342_a.jpg?v=639150774017800000",
+      "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-4000-gr-3134947/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -167,17 +167,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Dercos Shampoo Anticaspa 200 Ml",
-      "marca": "Vichy",
-      "precio": 83925,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
-      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Limpiador Líquido Piel Grasa - Cetaphil",
       "marca": "Cetaphil",
       "precio": 84562,
@@ -222,6 +211,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Dercos Shampoo Anticaspa 200 Ml",
+      "marca": "Vichy",
+      "precio": 89520,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
+      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "CeraVe crema hidratante Pote 453 gr",
       "marca": "Cerave",
       "precio": 94360,
@@ -235,21 +235,10 @@
     {
       "nombre": "Anthelios UVMune Oil Control con color 50 ml",
       "marca": "La Roche Posay",
-      "precio": 101212,
+      "precio": 107960,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173760/6123.jpg?v=639141304261070000",
       "url": "https://www.bellapiel.com.co/anthelius-uv-mune-6123/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Anthelios UVMune 400 Oil Control gel x 50 ml",
-      "marca": "La Roche Posay",
-      "precio": 103462,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
-      "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -261,6 +250,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/156412/2649.jpg?v=639149710900400000",
       "url": "https://www.bellapiel.com.co/ducray-kelual-ds-champu-100-ml-2649/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Anthelios UVMune 400 Oil Control gel x 50 ml",
+      "marca": "La Roche Posay",
+      "precio": 110360,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
+      "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -310,6 +310,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Limpiador Control Imperfecciones - CeraVe",
+      "marca": "CeraVe",
+      "precio": 122950,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182602/Limpiador-Control-Imperfecciones---CeraVe--2-.jpg?v=639053818679070000",
+      "url": "https://www.medipiel.com.co/limpiador-control-imperfecciones-cerave/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Dercos DS Shampoo Anticaspa Cabello Graso Refill - Vichy",
       "marca": "Vichy",
       "precio": 129000,
@@ -327,17 +338,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175772/5268-1-AVENE-HYDRANCE-AQUA-GEL-HIDRATANTE-BELLA-PIEL.png?v=639150686388830000",
       "url": "https://www.bellapiel.com.co/hydrance-aqua-gel-cr-hidratante-50ml-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
-      "marca": "La Roche Posay",
-      "precio": 131212,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -426,6 +426,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170212/2439-1-LA-ROCHE-POSAY-EFFACLAR-GEL-PURIFICANTE-BELLA-PIEL.jpg.jpg?v=638808593011100000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-gel-400ml-2439/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
+      "marca": "La Roche Posay",
+      "precio": 139960,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -552,17 +563,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Hyalu B5 La Roche-Posay Serum Hidrante 30 ml",
-      "marca": "La Roche Posay",
-      "precio": 184500,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
-      "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Gel limpiador Effaclar + M - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 185900,
@@ -574,9 +574,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Hyalu B5 La Roche-Posay Serum Hidrante 30 ml",
+      "marca": "La Roche Posay",
+      "precio": 209100,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
+      "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "La Roche-Posay Mela B3 Serum Antimanchas  30 Ml",
       "marca": "La Roche Posay",
-      "precio": 204712,
+      "precio": 218360,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173820/6417.jpg?v=639141157928500000",
       "url": "https://www.bellapiel.com.co/serum-antimanchas-mela-b3-spf30-con-niacinamida-40-ml-6417/p",
@@ -629,17 +640,6 @@
       "en_grupo": false
     },
     {
-      "nombre": "Dercos Sérum Anticada R.E.G.E.N Booster - Vichy",
-      "marca": "Vichy",
-      "precio": 185900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182571/Dercos-Serum-Anticada-R.E.G.E.N-Booster---Vichy--3-.jpg?v=639042054387670000",
-      "url": "https://www.medipiel.com.co/dercos-serum-anticada-regen-booster-vichy/p",
-      "es_mas_barato": false,
-      "grupo_id": "G002",
-      "en_grupo": false
-    },
-    {
       "nombre": "Fotoprotector Fusion Water Magic- Isdin",
       "marca": "Isdin",
       "precio": 142100,
@@ -647,7 +647,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184628/foto-fusion-water-color-light-50-plus-isdin--1-.webp?v=639090307092700000",
       "url": "https://www.medipiel.com.co/foto-fusion-water-color-light-50-plus-isdin/p",
       "es_mas_barato": false,
-      "grupo_id": "G003",
+      "grupo_id": "G002",
       "en_grupo": false
     },
     {
@@ -658,7 +658,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2206943/Mesa-de-trabajo-1--4-.webp?v=639185217392570000",
       "url": "https://www.medipiel.com.co/imp-dhm-espuma-antipolucion-160ml/p",
       "es_mas_barato": false,
-      "grupo_id": "G004",
+      "grupo_id": "G003",
       "en_grupo": false
     },
     {
@@ -669,7 +669,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187662/8429420313712.jpg?v=639119384307700000",
       "url": "https://www.medipiel.com.co/base-coverage-isdin/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G004",
       "en_grupo": false
     },
     {
@@ -680,7 +680,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211112/ZA_224_Electrolit-Colombia-Hero IMG-08.jpg?v=639083233040370000",
       "url": "https://www.drogueriascolsubsidio.com/electrolit-solucion-oral-maracuya-7501125184864/p",
       "es_mas_barato": true,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -691,7 +691,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208263/7501033957376.jpg?v=638929468883600000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-uva-solucion-oral-7501033957376/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -702,18 +702,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200236/7703038690146-.jpg?v=638659859220400000",
       "url": "https://www.drogueriascolsubsidio.com/minoxidil-5-forte-solucion-topica-laproff-7703038690146/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
       "nombre": "Lagricel Ofteno 0.4% Solucion Oftalmica",
       "marca": "SOPHIA",
-      "precio": 75850,
+      "precio": 56887,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198343/736085413694-1.jpg?v=638581382972670000",
       "url": "https://www.drogueriascolsubsidio.com/lagricel-ofteno-04-solucion-oftalmica-736085413694/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -724,7 +724,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/192360/7708970476599.jpg?v=638311081069170000",
       "url": "https://www.drogueriascolsubsidio.com/dk-mulsion-solucion-oral-7708970476599/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -735,7 +735,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/193105/7703546117241.jpg?v=638319467084600000",
       "url": "https://www.drogueriascolsubsidio.com/myosop-polvo-para-suspension-oral-7703546117241/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -746,7 +746,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173216/2498-1-HELIOCARE-CAPSULAS-BELLA-PIEL.jpg?v=639057471687730000",
       "url": "https://www.bellapiel.com.co/heliocare-oral-60-capsulas-2498/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -757,18 +757,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211459/contenido.jpg?v=639119656256730000",
       "url": "https://www.drogueriascolsubsidio.com/lenzetto-153mgdos-solucion-topica-5997001378304/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Isoface 20mg x 40 Cápsulas",
-      "marca": "Medicamentos",
-      "precio": 159920,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174888/2796.png?v=639141097223430000",
-      "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
-      "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -779,7 +768,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211049/Wegovy-0.25-MG-Frontal-lateral-D-.jpg?v=639074799186130000",
       "url": "https://www.drogueriascolsubsidio.com/wegovy-025mgdosis-068mgml-solucion-inyectable-7709323347528/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Isoface 20mg x 40 Cápsulas",
+      "marca": "Medicamentos",
+      "precio": 179910,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174888/2796.png?v=639141097223430000",
+      "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
+      "es_mas_barato": false,
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -790,7 +790,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211083/7703991918295.jpg?v=639076268931070000",
       "url": "https://www.drogueriascolsubsidio.com/mounjaro-25mg05ml-solucion-inyectable-7703991918295/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -801,18 +801,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211081/7703991306382.jpg?v=639075649802470000",
       "url": "https://www.drogueriascolsubsidio.com/mounjaro-5mg05ml-solucion-inyectable-7703991306382/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
       "nombre": "Rozelaic Gel",
       "marca": "Medicamentos",
-      "precio": 87840,
+      "precio": 98820,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166101/2308-ROZELAIC-GEL.jpg?v=639141198942670000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
       "es_mas_barato": true,
-      "grupo_id": "G007",
+      "grupo_id": "G006",
       "en_grupo": true
     },
     {
@@ -823,18 +823,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/201033/7703281000853.jpg?v=638666750444830000",
       "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G006",
       "en_grupo": true
     },
     {
       "nombre": "Epiduo Gel Crema Peróxido de Benzoilo 30 Gr",
       "marca": "Medicamentos",
-      "precio": 132320,
+      "precio": 140590,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166618/epiduo-galderma-precio.png?v=639141194496500000",
       "url": "https://www.bellapiel.com.co/epiduo-gel-1866/p",
       "es_mas_barato": false,
-      "grupo_id": "G008",
+      "grupo_id": "G007",
       "en_grupo": false
     },
     {
@@ -845,7 +845,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166198/3117-TRICOVIT.jpg?v=639141203392230000",
       "url": "https://www.bellapiel.com.co/tricovit-60-tab-3117/p",
       "es_mas_barato": false,
-      "grupo_id": "G009",
+      "grupo_id": "G008",
       "en_grupo": false
     },
     {
@@ -856,7 +856,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174106/6939-KIT-SESDERMA-THE-POWER-OF-5-LUMINOSIDAD-SESVITAMIN-C5-SESDERMA-SESVITAMIN-C-CREMA-BELLAPIEL.jpg?v=639093522766600000",
       "url": "https://www.bellapiel.com.co/kit-sesderma-antiedad-sesvitamin-c-6939/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
+      "grupo_id": "G009",
       "en_grupo": false
     },
     {
@@ -867,7 +867,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/161219/7702605100019.jpg?v=637115844571530000",
       "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-genfar-7702605100019/p",
       "es_mas_barato": true,
-      "grupo_id": "G011",
+      "grupo_id": "G010",
       "en_grupo": true
     },
     {
@@ -878,7 +878,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203354/7703763750115.jpg.jpg?v=638760247030030000",
       "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
       "es_mas_barato": false,
-      "grupo_id": "G011",
+      "grupo_id": "G010",
       "en_grupo": true
     },
     {
@@ -889,7 +889,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206573/7707397791490.jpg?v=638853409671670000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
       "es_mas_barato": false,
-      "grupo_id": "G011",
+      "grupo_id": "G010",
       "en_grupo": true
     },
     {
@@ -900,7 +900,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206032/07707397791469_C1C1.jpg?v=638836062329130000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791469/p",
       "es_mas_barato": false,
-      "grupo_id": "G011",
+      "grupo_id": "G010",
       "en_grupo": true
     },
     {
@@ -911,7 +911,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
       "es_mas_barato": false,
-      "grupo_id": "G011",
+      "grupo_id": "G010",
       "en_grupo": true
     },
     {
@@ -922,18 +922,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200332/7704039417169.jpg?v=638659859549930000",
       "url": "https://www.drogueriascolsubsidio.com/rosuvina-e-10mg-40mg-tableta-recubierta-7704039417169/p",
       "es_mas_barato": false,
-      "grupo_id": "G011",
+      "grupo_id": "G010",
       "en_grupo": true
     },
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 63750,
+      "precio": 47812,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
       "es_mas_barato": false,
-      "grupo_id": "G012",
+      "grupo_id": "G011",
       "en_grupo": false
     },
     {
@@ -944,7 +944,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32006772/Sal-Refinada-1000-gr-125407_a.jpg?v=639010821199030000",
       "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
       "es_mas_barato": true,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -955,7 +955,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33873607/Blanqueador-sin-fragancia-EKONO-SIN-REF-3023705_a.jpg?v=639185383323700000",
       "url": "https://tienda.exito.com/blanqueador-sin-fragancia-ekono-sin-ref-3016130/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 3424,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": false,
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -966,18 +977,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
       "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 6600,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
-      "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -988,18 +988,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33546414/Azucar-Blanco-Especial-FRESCAMPO-2500-gr-3310407_a.jpg?v=639154582706400000",
       "url": "https://tienda.exito.com/azucar-blanco-especial-frescampo-2500-gr-3096347/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
       "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
       "marca": "TAEQ",
-      "precio": 9700,
+      "precio": 9900,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27515861/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=638828184815470000",
       "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -1010,7 +1010,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672550/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639166171308300000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-entera-5400-ml-3225371/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -1021,7 +1021,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672548/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639166171285800000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -1032,7 +1032,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33671545/Leche-Uht-Entera-COLANTA-6000-ml-3202769_a.jpg?v=639166164985770000",
       "url": "https://tienda.exito.com/leche-uht-entera-colanta-6000-ml-3069107/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -1043,18 +1043,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211278/8411135009684.jpg?v=639095314108870000",
       "url": "https://www.drogueriascolsubsidio.com/crema-lactovit-x-1000-ml-8411135009684/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
       "nombre": "Elar-B 1.5% Sgs Cjxfcox5ml Sop",
       "marca": "SOPHIA",
-      "precio": 73150,
+      "precio": 54862,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211710/PS_ELAR-B INT.png?v=639143030318130000",
       "url": "https://www.drogueriascolsubsidio.com/elar-b-15-sgs-cjxfcox5ml-sop-736085418897/p",
       "es_mas_barato": false,
-      "grupo_id": "G014",
+      "grupo_id": "G013",
       "en_grupo": false
     },
     {
@@ -1065,7 +1065,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208649/7704163003566.jpg?v=638941646119200000",
       "url": "https://www.drogueriascolsubsidio.com/adapgel-01-gel-7704163003566/p",
       "es_mas_barato": false,
-      "grupo_id": "G015",
+      "grupo_id": "G014",
       "en_grupo": false
     },
     {
@@ -1076,7 +1076,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208089/8886451012074.jpg?v=638929384360300000",
       "url": "https://www.drogueriascolsubsidio.com/pediasure-polvo-peptigro-sabor-vainilla-8886451012074/p",
       "es_mas_barato": true,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -1087,7 +1087,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/205889/7707394716458-3.jpg?v=638835188369000000",
       "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716458/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -1098,7 +1098,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/202852/7706263200630.jpg.jpg?v=638748028260800000",
       "url": "https://www.drogueriascolsubsidio.com/pax-caliente-noche-granulado-7706127006378/p",
       "es_mas_barato": false,
-      "grupo_id": "G017",
+      "grupo_id": "G016",
       "en_grupo": false
     },
     {
@@ -1109,7 +1109,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200470/7707733970176.jpg?v=638659859958200000",
       "url": "https://www.drogueriascolsubsidio.com/strepsils-intensiv-miellim-pague-18-lleve-24-7707733970176/p",
       "es_mas_barato": false,
-      "grupo_id": "G018",
+      "grupo_id": "G017",
       "en_grupo": false
     },
     {
@@ -1120,7 +1120,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
       "es_mas_barato": false,
-      "grupo_id": "G019",
+      "grupo_id": "G018",
       "en_grupo": false
     },
     {
@@ -1131,7 +1131,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211193/7506205810800_1.png?v=639090102822170000",
       "url": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-promental-etapa-3-7506205810800/p",
       "es_mas_barato": false,
-      "grupo_id": "G020",
+      "grupo_id": "G019",
       "en_grupo": false
     },
     {
@@ -1142,7 +1142,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198539/7707355055473.jpg?v=638584835401330000",
       "url": "https://www.drogueriascolsubsidio.com/oferta-protector-solar-afelius-oil-free-gel-50dto-segunda-unidad-7707355055473/p",
       "es_mas_barato": false,
-      "grupo_id": "G021",
+      "grupo_id": "G020",
       "en_grupo": false
     },
     {
@@ -1153,7 +1153,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32015541/BOLSA-PAPEL-EXITO-1921293_a.jpg?v=639011866002770000",
       "url": "https://tienda.exito.com/bolsa-papel-exito-1060765/p",
       "es_mas_barato": true,
-      "grupo_id": "G022",
+      "grupo_id": "G021",
       "en_grupo": true
     },
     {
@@ -1164,7 +1164,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32753065/Papel-Higienico-EKONO-Triple-Hoja-396-mts-3756865_a.jpg?v=639089252184930000",
       "url": "https://tienda.exito.com/papel-higienico-ekono-triple-hoja-396-mts-3226861/p",
       "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G021",
       "en_grupo": true
     },
     {
@@ -1175,7 +1175,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32752249/Papel-Higienico-Expert-FAMILIA-300-mts-3153915_a.jpg?v=639089246086400000",
       "url": "https://tienda.exito.com/papel-higienico-expert-familia-300-mts-3053625/p",
       "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G021",
       "en_grupo": true
     },
     {
@@ -1186,18 +1186,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33639920/CREMA-TRIPLE-ACCION-X3UND-1621155_a.jpg?v=639161798178600000",
       "url": "https://tienda.exito.com/crema-triple-accion-x3und-981291/p",
       "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G021",
       "en_grupo": true
     },
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 5300,
+      "precio": 1840,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G022",
       "en_grupo": false
     },
     {
@@ -1208,7 +1208,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672552/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639166171330400000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
       "es_mas_barato": true,
-      "grupo_id": "G024",
+      "grupo_id": "G023",
       "en_grupo": true
     },
     {
@@ -1219,7 +1219,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33173636/Aceite-Vegetal-FRESCAMPO-3000-ml-3257073_a.jpg?v=639124918504470000",
       "url": "https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G023",
       "en_grupo": true
     },
     {
@@ -1230,7 +1230,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502652/Galletas-DUCALES-DUCALES-TC-X-8-700GR-700-gr-3640324_a.jpg?v=639153314189870000",
       "url": "https://tienda.exito.com/galletas-ducales-ducales-tc-x-8-700gr-700-gr-3197630/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G024",
       "en_grupo": false
     },
     {
@@ -1241,7 +1241,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33640364/Suave-Primaveral-Bipack-SUAVITEL-61028800-3287702_a.jpg?v=639161801928230000",
       "url": "https://tienda.exito.com/suave-primaveral-bipack-suavitel-61028800-3090805/p",
       "es_mas_barato": true,
-      "grupo_id": "G026",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1252,7 +1252,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1263,7 +1263,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681935/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639166320383770000",
       "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
       "es_mas_barato": true,
-      "grupo_id": "G027",
+      "grupo_id": "G026",
       "en_grupo": true
     },
     {
@@ -1274,7 +1274,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
       "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G026",
       "en_grupo": true
     },
     {
@@ -1285,29 +1285,29 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33670293/Queso-Crema-X-400g-895557_a.jpg?v=639166156163830000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
       "es_mas_barato": false,
-      "grupo_id": "G028",
+      "grupo_id": "G027",
       "en_grupo": false
     },
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 3840,
+      "precio": 3648,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G028",
       "en_grupo": false
     },
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 6000,
+      "precio": 4800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G029",
       "en_grupo": false
     },
     {
@@ -1318,7 +1318,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33825506/3822186_a.jpg?v=639179889069830000",
       "url": "https://tienda.exito.com/display-sobres-copa-mundial-fifa-2026-panini-sin-ref-3245347/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G030",
       "en_grupo": false
     },
     {
@@ -1329,18 +1329,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502838/Cerveza-COSTENA-Lata-Sixpac-1860-ml-3739284_a.jpg?v=639153315468500000",
       "url": "https://tienda.exito.com/cerveza-costena-lata-sixpac-1860-ml-3222187/p",
       "es_mas_barato": false,
-      "grupo_id": "G032",
+      "grupo_id": "G031",
       "en_grupo": false
     },
     {
       "nombre": "Pan tajado BIMBO blanco suave esponjoso (730  gr)",
       "marca": "BIMBO",
-      "precio": 8860,
+      "precio": 8910,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33877733/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639186166841270000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
       "es_mas_barato": false,
-      "grupo_id": "G033",
+      "grupo_id": "G032",
       "en_grupo": false
     },
     {
@@ -1351,7 +1351,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502603/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639153313873930000",
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
       "es_mas_barato": false,
-      "grupo_id": "G034",
+      "grupo_id": "G033",
       "en_grupo": false
     },
     {
@@ -1362,7 +1362,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33267909/Surtido-Mega-Lonchera-FRITO-LAY-586-gr-3285022_a.jpg?v=639131827328070000",
       "url": "https://tienda.exito.com/surtido-mega-lonchera-frito-lay-586-gr-3090203/p",
       "es_mas_barato": false,
-      "grupo_id": "G035",
+      "grupo_id": "G034",
       "en_grupo": false
     }
   ]
