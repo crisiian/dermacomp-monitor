@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-13T03:15:24.278Z",
+  "ultima_actualizacion": "2026-07-13T14:38:27.691Z",
   "productos": [
     {
       "nombre": "Detergente en polvo FAB ultra flash (4000  gr)",
       "marca": "FAB",
-      "precio": 31102,
+      "precio": 27950,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33490095/Detergente-Pvo-Ultra-FAB-4000-gr-3430342_a.jpg?v=639150774017800000",
       "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-4000-gr-3134947/p",
@@ -15,7 +15,7 @@
     {
       "nombre": "Detergente en polvo FAB ultra flash (5000  gr)",
       "marca": "FAB",
-      "precio": 36140,
+      "precio": 33360,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33490103/Detergente-Pvo-Ultra-FAB-5000-gr-3430343_a.jpg?v=639150774060270000",
       "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-5000-gr-3134948/p",
@@ -30,6 +30,39 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171529/6810-1-ISDIN-LABIAL-ROSA-BELLA-PIEL.jpg?v=638906926487630000",
       "url": "https://www.bellapiel.com.co/isdin-reparador-labial-stick-rosa-x-4-gr-6810/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Detergente líquido ARIEL limpieza profunda (3700  ml)",
+      "marca": "ARIEL",
+      "precio": 45350,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33905848/DETERGENTE-NA-ARIEL-80351113-3001782_a.jpg?v=639189507528900000",
+      "url": "https://tienda.exito.com/detergente-na-ariel-80351113-3001158/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Loción Invisible Hidratante Spf50+ - CeraVe",
+      "marca": "CeraVe",
+      "precio": 50107,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187035/3337875945769_1_1000px.jpg?v=639104768465530000",
+      "url": "https://www.medipiel.com.co/protector-solar-locion-invisible-hidratante-spf50-cerave-1/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Crema Reparadora Para El Contorno De Los Ojos - CeraVe",
+      "marca": "CeraVe",
+      "precio": 53465,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235578/crema-reparadora-para-el-contorno-de-los-ojos-cerave.png.png?v=638755934280300000",
+      "url": "https://www.medipiel.com.co/crema-reparadora-para-el-contorno-de-los-ojos-cerave/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -90,28 +123,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Protector Solar Loción Invisible Hidratante Spf50+ - CeraVe",
-      "marca": "CeraVe",
-      "precio": 58950,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187035/3337875945769_1_1000px.jpg?v=639104768465530000",
-      "url": "https://www.medipiel.com.co/protector-solar-locion-invisible-hidratante-spf50-cerave-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Crema Reparadora Para El Contorno De Los Ojos - CeraVe",
-      "marca": "CeraVe",
-      "precio": 62900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235578/crema-reparadora-para-el-contorno-de-los-ojos-cerave.png.png?v=638755934280300000",
-      "url": "https://www.medipiel.com.co/crema-reparadora-para-el-contorno-de-los-ojos-cerave/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "CeraVe Gel Crema Hidratante Oil Control x 52Ml",
       "marca": "Cerave",
       "precio": 63960,
@@ -129,6 +140,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172347/7501007528434.jpg?v=637523927781270000",
       "url": "https://www.drogueriascolsubsidio.com/crema-lubriderm-reparacion-intensiva-7501007528434/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Gel Crema Oil Control - Cerave",
+      "marca": "CeraVe",
+      "precio": 67915,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/196468/gel-crema-oil-control-cerave.jpg?v=638671097024470000",
+      "url": "https://www.medipiel.com.co/gel-crema-oil-control-cerave/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -156,34 +178,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Refill Gel Limpiador Espumoso Para Piel Normal A Grasa - CeraVe",
+      "marca": "CeraVe",
+      "precio": 74715,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166522/3337875905596-1.jpg?v=638947704654200000",
+      "url": "https://www.medipiel.com.co/refill-gel-limpiador-espumoso-para-piel-normal-a-grasa-cerave/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Shampoo Absolut Repair Refill - Loreal Professionnel",
       "marca": "L'Oréal Professionnel",
       "precio": 76500,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2186689/7908785404958_7.png?v=639099744408200000",
       "url": "https://www.medipiel.com.co/shampoo-absolut-repair-loreal-professionnel/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Gel Crema Oil Control - Cerave",
-      "marca": "CeraVe",
-      "precio": 79900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/196468/gel-crema-oil-control-cerave.jpg?v=638671097024470000",
-      "url": "https://www.medipiel.com.co/gel-crema-oil-control-cerave/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Dercos Shampoo Anticaspa 200 Ml",
-      "marca": "Vichy",
-      "precio": 83925,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
-      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -211,23 +222,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Refill Gel Limpiador Espumoso Para Piel Normal A Grasa - CeraVe",
-      "marca": "CeraVe",
-      "precio": 87900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166522/3337875905596-1.jpg?v=638947704654200000",
-      "url": "https://www.medipiel.com.co/refill-gel-limpiador-espumoso-para-piel-normal-a-grasa-cerave/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Cerave gel limpiador espumoso",
       "marca": "Cerave",
       "precio": 88760,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170050/5716-1-CERAVE-LIMPIADOR-ESPUMOSO-GEL-BELLA-PIEL.png.png?v=639141119670630000",
       "url": "https://www.bellapiel.com.co/cerave-gel-limpiador-espumoso-fcox473ml-5716/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Dercos Shampoo Anticaspa 200 Ml",
+      "marca": "Vichy",
+      "precio": 89520,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
+      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -244,12 +255,34 @@
       "en_grupo": true
     },
     {
-      "nombre": "Vichy Dercos Refill DS Shampoo Anticaspa 390 Ml",
+      "nombre": "Dercos Technique Shampoo Energy - Vichy",
       "marca": "Vichy",
-      "precio": 96750,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173135/6404-1-DERCOS-SHAMPOO-ANTICASPA-REFILL-BELLA-PIEL.png?v=639039189257130000",
-      "url": "https://www.bellapiel.com.co/shampoo-anticaspa-dercos-technique-refil-500ml-6404/p",
+      "precio": 95115,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235670/dercos-shampoo-estimulante-vichy.jpg.jpg?v=638755950569230000",
+      "url": "https://www.medipiel.com.co/dercos-shampoo-estimulante-vichy/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Limpiador Control Imperfecciones - CeraVe",
+      "marca": "CeraVe",
+      "precio": 104507,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182602/Limpiador-Control-Imperfecciones---CeraVe--2-.jpg?v=639053818679070000",
+      "url": "https://www.medipiel.com.co/limpiador-control-imperfecciones-cerave/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Fotoprotector Fusion Water Magic Oil Control - Isdin",
+      "marca": "Isdin",
+      "precio": 106575,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/211116/fotoprotector-fusion-water-magic-isdin--1-.jpg.jpg?v=638760229228430000",
+      "url": "https://www.medipiel.com.co/fotoprotector-fusion-water-magic-isdin/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -257,7 +290,7 @@
     {
       "nombre": "Anthelios UVMune Oil Control con color 50 ml",
       "marca": "La Roche Posay",
-      "precio": 101212,
+      "precio": 107960,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173760/6123.jpg?v=639141304261070000",
       "url": "https://www.bellapiel.com.co/anthelius-uv-mune-6123/p",
@@ -266,45 +299,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Anthelios UVMune 400 Oil Control gel x 50 ml",
-      "marca": "La Roche Posay",
-      "precio": 103462,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
-      "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Bloqueador Isdin Fusion Water Magic SPF 50 50 Ml",
-      "marca": "Isdin",
-      "precio": 106575,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169550/8429420248977-1.jpg.jpg?v=638920706146230000",
-      "url": "https://www.bellapiel.com.co/isdin-fusion-water-magic-spf-50-50-ml/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Protector Solar Isdin Fusion Water Magic Color Light SPF 50 50 Ml",
-      "marca": "Isdin",
-      "precio": 106575,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169504/8429420226265-1.jpg.jpg?v=639113380785000000",
-      "url": "https://www.bellapiel.com.co/fusion-water-color-light-spf50-50ml-5849/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ISDIN Fusion Water Magic Color Medium",
-      "marca": "Isdin",
-      "precio": 106575,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/168394/4117-1.jpg?v=639113376048870000",
-      "url": "https://www.bellapiel.com.co/fotoprotector-isdin-fusion-water-color-medium-4117/p",
+      "nombre": "Dercos DS Shampoo Anticaspa Cabello Graso Refill - Vichy",
+      "marca": "Vichy",
+      "precio": 109650,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182576/Dercos-DS-Shampoo-Anticaspa-Cabello-Graso-Refill---Vichy--1-.jpg?v=639051338541000000",
+      "url": "https://www.medipiel.com.co/dercos-ds-shampoo-anticaspa-cabello-graso-refill-vichy/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -321,12 +321,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Dercos Technique Shampoo Energy - Vichy",
-      "marca": "Vichy",
-      "precio": 111900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235670/dercos-shampoo-estimulante-vichy.jpg.jpg?v=638755950569230000",
-      "url": "https://www.medipiel.com.co/dercos-shampoo-estimulante-vichy/p",
+      "nombre": "Anthelios UVMune 400 Oil Control gel x 50 ml",
+      "marca": "La Roche Posay",
+      "precio": 110360,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
+      "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -365,6 +365,50 @@
       "en_grupo": true
     },
     {
+      "nombre": "Protector Solar Anti Brillo Anthelios Gel toque seco FPS 50+ 50 ml - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 114665,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235596/anthelios-xl-toque-seco-spf50-color-la-roche-posay.jpg.jpg?v=638755938223500000",
+      "url": "https://www.medipiel.com.co/anthelios-toque-seco-spf50-color-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Refill Effaclar M+ Gel Limpiador Pieles Mixtas A Grasas - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 115557,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189798/3337875876407_11.jpg?v=639149674831830000",
+      "url": "https://www.medipiel.com.co/refill-effaclar-m-gel-limpiador-pieles-mixtas-a-grasas-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Anthelios UVMune 400 Oil Control Fluido 50 ml - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 117215,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235613/anthelios-uvmune-400-oil-control-fluido-la-roche-posay-con-color.jpg.jpg?v=638755940466500000",
+      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-oil-control-fluido-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Facial Anthelios UVMune 400 FPS 50+ - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 117215,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/176131/anthelios-UV-mune-sin-color.jpg?v=637928089628100000",
+      "url": "https://www.medipiel.com.co/anthelios-uv-mune-50ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Acondicionador Absolut Repair Reparación Cabello Dañado - Loreal Professionnel",
       "marca": "L'Oréal Professionnel",
       "precio": 119500,
@@ -376,23 +420,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Limpiador Control Imperfecciones - CeraVe",
-      "marca": "CeraVe",
-      "precio": 122950,
+      "nombre": "Anthelios UVMune 400 Anti Manchas - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 122315,
       "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182602/Limpiador-Control-Imperfecciones---CeraVe--2-.jpg?v=639053818679070000",
-      "url": "https://www.medipiel.com.co/limpiador-control-imperfecciones-cerave/p",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166512/3337875917407_1.jpg?v=638947680313700000",
+      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-anti-manchas-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
     },
     {
-      "nombre": "Dercos DS Shampoo Anticaspa Cabello Graso Refill - Vichy",
+      "nombre": "Vichy Dercos Refill DS Shampoo Anticaspa 390 Ml",
       "marca": "Vichy",
       "precio": 129000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182576/Dercos-DS-Shampoo-Anticaspa-Cabello-Graso-Refill---Vichy--1-.jpg?v=639051338541000000",
-      "url": "https://www.medipiel.com.co/dercos-ds-shampoo-anticaspa-cabello-graso-refill-vichy/p",
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173135/6404-1-DERCOS-SHAMPOO-ANTICASPA-REFILL-BELLA-PIEL.png?v=639039189257130000",
+      "url": "https://www.bellapiel.com.co/shampoo-anticaspa-dercos-technique-refil-500ml-6404/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -404,17 +448,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175772/5268-1-AVENE-HYDRANCE-AQUA-GEL-HIDRATANTE-BELLA-PIEL.png?v=639150686388830000",
       "url": "https://www.bellapiel.com.co/hydrance-aqua-gel-cr-hidratante-50ml-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
-      "marca": "La Roche Posay",
-      "precio": 131212,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -442,56 +475,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Protector Solar Anti Brillo Anthelios Gel toque seco FPS 50+ 50 ml - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 134900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235596/anthelios-xl-toque-seco-spf50-color-la-roche-posay.jpg.jpg?v=638755938223500000",
-      "url": "https://www.medipiel.com.co/anthelios-toque-seco-spf50-color-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Refill Effaclar M+ Gel Limpiador Pieles Mixtas A Grasas - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 135950,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189798/3337875876407_11.jpg?v=639149674831830000",
-      "url": "https://www.medipiel.com.co/refill-effaclar-m-gel-limpiador-pieles-mixtas-a-grasas-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Shampoo Absolut Repair Reparación Cabello Dañado - Loreal Professionnel",
       "marca": "L'Oréal Professionnel",
       "precio": 136500,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2190453/se-shampoo-absolut-repair-loreal-profesional--4-.jpg.jpg?v=639156586905500000",
       "url": "https://www.medipiel.com.co/se-shampoo-absolut-repair-loreal-profesional/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Anthelios UVMune 400 Oil Control Fluido 50 ml - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 137900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235613/anthelios-uvmune-400-oil-control-fluido-la-roche-posay-con-color.jpg.jpg?v=638755940466500000",
-      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-oil-control-fluido-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Protector Solar Facial Anthelios UVMune 400 FPS 50+ - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 137900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/176131/anthelios-UV-mune-sin-color.jpg?v=637928089628100000",
-      "url": "https://www.medipiel.com.co/anthelios-uv-mune-50ml/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -508,23 +497,67 @@
       "en_grupo": true
     },
     {
-      "nombre": "Fotoprotector Fusion Water Magic Oil Control - Isdin",
-      "marca": "Isdin",
-      "precio": 142100,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/211116/fotoprotector-fusion-water-magic-isdin--1-.jpg.jpg?v=638760229228430000",
-      "url": "https://www.medipiel.com.co/fotoprotector-fusion-water-magic-isdin/p",
+      "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
+      "marca": "La Roche Posay",
+      "precio": 139960,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
     },
     {
-      "nombre": "Anthelios UVMune 400 Anti Manchas - La Roche Posay",
+      "nombre": "Bloqueador Isdin Fusion Water Magic SPF 50 50 Ml",
+      "marca": "Isdin",
+      "precio": 142100,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169550/8429420248977-1.jpg.jpg?v=638920706146230000",
+      "url": "https://www.bellapiel.com.co/isdin-fusion-water-magic-spf-50-50-ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Isdin Fusion Water Magic Color Light SPF 50 50 Ml",
+      "marca": "Isdin",
+      "precio": 142100,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169504/8429420226265-1.jpg.jpg?v=639113380785000000",
+      "url": "https://www.bellapiel.com.co/fusion-water-color-light-spf50-50ml-5849/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ISDIN Fusion Water Magic Color Medium",
+      "marca": "Isdin",
+      "precio": 142100,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/168394/4117-1.jpg?v=639113376048870000",
+      "url": "https://www.bellapiel.com.co/fotoprotector-isdin-fusion-water-color-medium-4117/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Sérum Anti-imperfecciones Effaclar  - La Roche Posay",
       "marca": "La Roche Posay",
-      "precio": 143900,
+      "precio": 148665,
       "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166512/3337875917407_1.jpg?v=638947680313700000",
-      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-anti-manchas-la-roche-posay/p",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/213490/Effaclar-Serum-Ultra-Concentrado-La-Roche-Posay--1-.jpg.jpg?v=638760972064770000",
+      "url": "https://www.medipiel.com.co/effaclar-serum-ultra-concentrado-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Gel limpiador Effaclar + M - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 158015,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235631/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay-400-ml.jpg.jpg?v=638755942151170000",
+      "url": "https://www.medipiel.com.co/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -552,17 +585,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Sérum Anti-imperfecciones Effaclar  - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 174900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/213490/Effaclar-Serum-Ultra-Concentrado-La-Roche-Posay--1-.jpg.jpg?v=638760972064770000",
-      "url": "https://www.medipiel.com.co/effaclar-serum-ultra-concentrado-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "La Roche Posay Effaclar A-Z Gel Crema Anti-Imperfecciones x 40 Ml",
       "marca": "La Roche Posay",
       "precio": 180760,
@@ -576,7 +598,7 @@
     {
       "nombre": "Hyalu B5 La Roche-Posay Serum Hidrante 30 ml",
       "marca": "La Roche Posay",
-      "precio": 184500,
+      "precio": 209100,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
       "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
@@ -585,20 +607,9 @@
       "en_grupo": true
     },
     {
-      "nombre": "Gel limpiador Effaclar + M - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 185900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235631/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay-400-ml.jpg.jpg?v=638755942151170000",
-      "url": "https://www.medipiel.com.co/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "La Roche-Posay Mela B3 Serum Antimanchas  30 Ml",
       "marca": "La Roche Posay",
-      "precio": 204712,
+      "precio": 218360,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173820/6417.jpg?v=639141157928500000",
       "url": "https://www.bellapiel.com.co/serum-antimanchas-mela-b3-spf30-con-niacinamida-40-ml-6417/p",
@@ -618,23 +629,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Mela B3 Serum Antimanchas - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 231965,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
+      "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Kit de Verano Edición Limitada MDP By Medipiel - Protección Solar Completa para Piel y Cabello",
       "marca": "Medipiel",
       "precio": 249900,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2191308/157D654B27112F8580E6707ED324AF7C_e31fba16-0103-4021-b234-0935d3b528b2_27fe493e-8ce3-41b9-aaab-da14b1672bd5.jpg?v=639161966441230000",
       "url": "https://www.medipiel.com.co/kit-verano-2026-mdp-by-medipiel/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mela B3 Serum Antimanchas - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 272900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
-      "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -653,7 +664,7 @@
     {
       "nombre": "Fotoprotector Fusion Water Magic- Isdin",
       "marca": "Isdin",
-      "precio": 142100,
+      "precio": 106575,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184628/foto-fusion-water-color-light-50-plus-isdin--1-.webp?v=639090307092700000",
       "url": "https://www.medipiel.com.co/foto-fusion-water-color-light-50-plus-isdin/p",
@@ -664,7 +675,7 @@
     {
       "nombre": "Gel Limpiador Espumoso - CeraVe",
       "marca": "CeraVe",
-      "precio": 110900,
+      "precio": 94265,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/175978/gel-limpiador-espumoso-cerave.jpg?v=637928088636500000",
       "url": "https://www.medipiel.com.co/gel-limpiador-espumoso-cerave/p",
@@ -917,7 +928,7 @@
     {
       "nombre": "MINOXIDIL 5% FORTE SOLUCIÓN TOPICA LAPROFF",
       "marca": "LAPROFF",
-      "precio": 30750,
+      "precio": 24600,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200236/7703038690146-.jpg?v=638659859220400000",
       "url": "https://www.drogueriascolsubsidio.com/minoxidil-5-forte-solucion-topica-laproff-7703038690146/p",
@@ -981,23 +992,34 @@
       "en_grupo": true
     },
     {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 2352,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": true,
+      "grupo_id": "G015",
+      "en_grupo": true
+    },
+    {
       "nombre": "Sal REFISAL alta pureza  (1000  gr)",
       "marca": "REFISAL",
       "precio": 2910,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32006772/Sal-Refinada-1000-gr-125407_a.jpg?v=639010821199030000",
       "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G015",
       "en_grupo": true
     },
     {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 2940,
+      "nombre": "Blanqueador EKONO pureza cítrica (2000  ml)",
+      "marca": "EKONO",
+      "precio": 3100,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33873607/Blanqueador-sin-fragancia-EKONO-SIN-REF-3023705_a.jpg?v=639185383323700000",
+      "url": "https://tienda.exito.com/blanqueador-sin-fragancia-ekono-sin-ref-3016130/p",
       "es_mas_barato": false,
       "grupo_id": "G015",
       "en_grupo": true
@@ -1126,7 +1148,7 @@
     {
       "nombre": "Pañitos Húmedos Pequeñín Almendra (3x100un)",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 40700,
+      "precio": 36630,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203807/7702026148683_1.jpg.jpg?v=638779309917030000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-almendra-3x100un-7702026148683/p",
@@ -1192,7 +1214,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3000,
+      "precio": 2400,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1247,7 +1269,7 @@
     {
       "nombre": "Suavizante SUAVITEL cuidado superior fresca primavera (5600  ml)",
       "marca": "SUAVITEL",
-      "precio": 31102,
+      "precio": 35887,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33640364/Suave-Primaveral-Bipack-SUAVITEL-61028800-3287702_a.jpg?v=639161801928230000",
       "url": "https://tienda.exito.com/suave-primaveral-bipack-suavitel-61028800-3090805/p",
@@ -1267,17 +1289,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Lomo de cerdo o cañón  congelado porcionado",
-      "marca": "SM",
-      "precio": 23980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
-      "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
-      "es_mas_barato": false,
-      "grupo_id": "G027",
-      "en_grupo": false
-    },
-    {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
       "marca": "COLANTA",
       "precio": 7950,
@@ -1285,40 +1296,29 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33670293/Queso-Crema-X-400g-895557_a.jpg?v=639166156163830000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
       "es_mas_barato": false,
-      "grupo_id": "G028",
+      "grupo_id": "G027",
       "en_grupo": false
     },
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 4000,
+      "precio": 3200,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
-      "en_grupo": false
-    },
-    {
-      "nombre": "4 x Cebolla Blanca o Cabezona",
-      "marca": "SM",
-      "precio": 4480,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
-      "url": "https://tienda.exito.com/4xcebollas/p",
-      "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G028",
       "en_grupo": false
     },
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 6000,
+      "precio": 4800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G029",
       "en_grupo": false
     },
     {
@@ -1329,7 +1329,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502838/Cerveza-COSTENA-Lata-Sixpac-1860-ml-3739284_a.jpg?v=639153315468500000",
       "url": "https://tienda.exito.com/cerveza-costena-lata-sixpac-1860-ml-3222187/p",
       "es_mas_barato": false,
-      "grupo_id": "G032",
+      "grupo_id": "G030",
       "en_grupo": false
     },
     {
@@ -1340,7 +1340,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33877733/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639186166841270000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
       "es_mas_barato": false,
-      "grupo_id": "G033",
+      "grupo_id": "G031",
       "en_grupo": false
     },
     {
@@ -1351,18 +1351,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502603/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639153313873930000",
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
       "es_mas_barato": false,
-      "grupo_id": "G034",
+      "grupo_id": "G032",
       "en_grupo": false
     },
     {
       "nombre": "Pasabocas FRITO LAY surtidos (586  gr)",
       "marca": "FRITO LAY",
-      "precio": 21000,
+      "precio": 28000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33267909/Surtido-Mega-Lonchera-FRITO-LAY-586-gr-3285022_a.jpg?v=639131827328070000",
       "url": "https://tienda.exito.com/surtido-mega-lonchera-frito-lay-586-gr-3090203/p",
       "es_mas_barato": false,
-      "grupo_id": "G035",
+      "grupo_id": "G033",
       "en_grupo": false
     }
   ]
