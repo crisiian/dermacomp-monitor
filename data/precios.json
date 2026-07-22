@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-07-22T02:48:30.112Z",
+  "ultima_actualizacion": "2026-07-22T14:00:15.327Z",
   "productos": [
     {
       "nombre": "Detergente en polvo FAB ultra flash (4000  gr)",
@@ -101,34 +101,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Loción Hidratante de Rostro - CeraVe",
-      "marca": "CeraVe",
-      "precio": 79900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235566/locion-hidratante-de-rostro-cerave.png.png?v=638755932224270000",
-      "url": "https://www.medipiel.com.co/locion-hidratante-de-rostro-cerave/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "CeraVe Gel Crema Hidratante Oil Control x 52Ml",
       "marca": "Cerave",
       "precio": 79950,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169146/6570_--1-.jpg?v=638709088970300000",
       "url": "https://www.bellapiel.com.co/cerave-gel-crema-hidratante-oil-control-x-52ml-6570/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Shampoo Estimulante Anticaida Vichy Dercos Technique 200 Ml",
-      "marca": "Vichy",
-      "precio": 83925,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/164683/5755-6.jpg?v=638138919854700000",
-      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-shampoo-estimulante-complemento-anticaida-200-ml-5755/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -178,20 +156,9 @@
       "en_grupo": true
     },
     {
-      "nombre": "Vichy Dercos Refill DS Shampoo Anticaspa 390 Ml",
-      "marca": "Vichy",
-      "precio": 96750,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173135/6404-1-DERCOS-SHAMPOO-ANTICASPA-REFILL-BELLA-PIEL.png?v=639039189257130000",
-      "url": "https://www.bellapiel.com.co/shampoo-anticaspa-dercos-technique-refil-500ml-6404/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Anthelios UVMune Oil Control con color 50 ml",
       "marca": "La Roche Posay",
-      "precio": 101212,
+      "precio": 107960,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173760/6123.jpg?v=639141304261070000",
       "url": "https://www.bellapiel.com.co/anthelius-uv-mune-6123/p",
@@ -202,10 +169,21 @@
     {
       "nombre": "Anthelios UVMune 400 Oil Control gel x 50 ml",
       "marca": "La Roche Posay",
-      "precio": 103462,
+      "precio": 110360,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
       "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Shampoo Estimulante Anticaida Vichy Dercos Technique 200 Ml",
+      "marca": "Vichy",
+      "precio": 111900,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/164683/5755-6.jpg?v=638138919854700000",
+      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-shampoo-estimulante-complemento-anticaida-200-ml-5755/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -244,23 +222,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
-      "marca": "La Roche Posay",
-      "precio": 131212,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Vichy Normaderm Hidratante Doble Corrección x 50Ml",
+      "nombre": "Vichy Dercos Refill DS Shampoo Anticaspa 390 Ml",
       "marca": "Vichy",
-      "precio": 131925,
+      "precio": 129000,
       "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169998/4834-1-VICHY-NORMADERM-CREMA-HIDRATANTE-DOBLE-CORRECCION-BELLA-PIEL.jpg.jpg?v=638808473417530000",
-      "url": "https://www.bellapiel.com.co/vichy-normaderm-phytosolution-4834/p",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173135/6404-1-DERCOS-SHAMPOO-ANTICASPA-REFILL-BELLA-PIEL.png?v=639039189257130000",
+      "url": "https://www.bellapiel.com.co/shampoo-anticaspa-dercos-technique-refil-500ml-6404/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -272,6 +239,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173654/2214.jpg?v=639141916754430000",
       "url": "https://www.bellapiel.com.co/hydraskin-face-2214/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
+      "marca": "La Roche Posay",
+      "precio": 139960,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -367,7 +345,7 @@
     {
       "nombre": "Vichy Minéral 89 Serum 50 Ml",
       "marca": "Vichy",
-      "precio": 158175,
+      "precio": 168720,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173688/4348.jpg?v=639141189292500000",
       "url": "https://www.bellapiel.com.co/vichy-mineral-8950ml-4348-1/p",
@@ -387,12 +365,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Hyalu B5 La Roche-Posay Serum Hidrante 30 ml",
-      "marca": "La Roche Posay",
-      "precio": 184500,
+      "nombre": "Vichy Normaderm Hidratante Doble Corrección x 50Ml",
+      "marca": "Vichy",
+      "precio": 175900,
       "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
-      "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169998/4834-1-VICHY-NORMADERM-CREMA-HIDRATANTE-DOBLE-CORRECCION-BELLA-PIEL.jpg.jpg?v=638808473417530000",
+      "url": "https://www.bellapiel.com.co/vichy-normaderm-phytosolution-4834/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -442,23 +420,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "La Roche-Posay Mela B3 Serum Antimanchas  30 Ml",
+      "nombre": "Hyalu B5 La Roche-Posay Serum Hidrante 30 ml",
       "marca": "La Roche Posay",
-      "precio": 204712,
+      "precio": 209100,
       "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173820/6417.jpg?v=639141157928500000",
-      "url": "https://www.bellapiel.com.co/serum-antimanchas-mela-b3-spf30-con-niacinamida-40-ml-6417/p",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
+      "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
     },
     {
-      "nombre": "Serum Facial Antiarrugas Retinol B3 - La Roche Posay",
+      "nombre": "La Roche-Posay Mela B3 Serum Antimanchas  30 Ml",
       "marca": "La Roche Posay",
-      "precio": 231965,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/174541/suero-anti-edad-retinol-b3-la-roche-posay.jpg?v=637928076793670000",
-      "url": "https://www.medipiel.com.co/serum-facial-antiarrugas-la-roche-posay-retinol-b3/p",
+      "precio": 218360,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173820/6417.jpg?v=639141157928500000",
+      "url": "https://www.bellapiel.com.co/serum-antimanchas-mela-b3-spf30-con-niacinamida-40-ml-6417/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -470,6 +448,17 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225269/serum-nutritive-8h-magic-night-kerastase.jpg.jpg?v=638751504546900000",
       "url": "https://www.medipiel.com.co/serum-nutritive-8h-magic-night-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Serum Facial Antiarrugas Retinol B3 - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 272900,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/174541/suero-anti-edad-retinol-b3-la-roche-posay.jpg?v=637928076793670000",
+      "url": "https://www.medipiel.com.co/serum-facial-antiarrugas-la-roche-posay-retinol-b3/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -497,17 +486,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Dercos Shampoo Anticaspa 200 Ml",
-      "marca": "Vichy",
-      "precio": 83925,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
-      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Refill Gel Limpiador Espumoso Para Piel Normal A Grasa - CeraVe",
       "marca": "CeraVe",
       "precio": 87900,
@@ -519,23 +497,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "La Roche-Posay Lipikar Baume AP+M x 400 Ml",
-      "marca": "La Roche Posay",
-      "precio": 112425,
+      "nombre": "Dercos Shampoo Anticaspa 200 Ml",
+      "marca": "Vichy",
+      "precio": 89520,
       "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170299/4735-1-LA-ROCHE-POSAY-LIPIKAR-BAUME-BELLA-PIEL.jpg.jpg?v=638808651541730000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-lipikar-baume-ap-400ml-4735/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mela B3 Limpiador - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 118065,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/194020/Mela-B3-Limpiador---La-Roche-Posay-2.jpg?v=638592684240530000",
-      "url": "https://www.medipiel.com.co/mela-b3-limpiador-la-roche-posay/p",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
+      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
       "es_mas_barato": false,
       "grupo_id": "G001",
       "en_grupo": true
@@ -585,12 +552,34 @@
       "en_grupo": true
     },
     {
+      "nombre": "Mela B3 Limpiador - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 138900,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/194020/Mela-B3-Limpiador---La-Roche-Posay-2.jpg?v=638592684240530000",
+      "url": "https://www.medipiel.com.co/mela-b3-limpiador-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
       "nombre": "Anthelios UVMune 400 Anti Manchas - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 143900,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166512/3337875917407_1.jpg?v=638947680313700000",
       "url": "https://www.medipiel.com.co/anthelios-uvmune-400-anti-manchas-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "La Roche-Posay Lipikar Baume AP+M x 400 Ml",
+      "marca": "La Roche Posay",
+      "precio": 149900,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170299/4735-1-LA-ROCHE-POSAY-LIPIKAR-BAUME-BELLA-PIEL.jpg.jpg?v=638808651541730000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-lipikar-baume-ap-400ml-4735/p",
       "es_mas_barato": false,
       "grupo_id": "G001",
       "en_grupo": true
@@ -618,9 +607,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Minéral 89 - Vichy",
+      "marca": "Vichy",
+      "precio": 210900,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208825/3337875594516-2.jpg?v=639202373104570000",
+      "url": "https://www.medipiel.com.co/mineral-89-vichy/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
       "nombre": "Mela B3 Serum Antimanchas - La Roche Posay",
       "marca": "La Roche Posay",
-      "precio": 231965,
+      "precio": 272900,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
       "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
@@ -686,7 +686,7 @@
     {
       "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
       "marca": "FRESCAMPO",
-      "precio": 2254,
+      "precio": 2576,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
       "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
@@ -706,23 +706,34 @@
       "en_grupo": true
     },
     {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 5096,
+      "nombre": "4 x Tomates Chonto",
+      "marca": "SM",
+      "precio": 4352,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
+      "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
     },
     {
-      "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
-      "marca": "TAEQ",
-      "precio": 6300,
+      "nombre": "Tomate Chonto Insuperable FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 5580,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27515861/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=638828184815470000",
-      "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32665830/Tomate-Chonto-Frescampo-X-1000-gr-506130_a.jpg?v=639082473178570000",
+      "url": "https://tienda.exito.com/tomate-chonto-frescampo-x-1000-gr-120787/p",
+      "es_mas_barato": false,
+      "grupo_id": "G006",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
+      "marca": "TAEQ",
+      "precio": 5824,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
+      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
@@ -741,7 +752,7 @@
     {
       "nombre": "Crema de leche ALQUERIA semientera (400  gr)",
       "marca": "ALQUERIA",
-      "precio": 9350,
+      "precio": 8800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33678453/Crema-Leche-Semi-Entera-ALQUERIA-400-gr-3313023_a.jpg?v=639166200361700000",
       "url": "https://tienda.exito.com/crema-leche-semi-entera-alqueria-400-gr-3096922/p",
@@ -750,12 +761,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Jamón  COLANTA seleccionado (450  gr)",
-      "marca": "COLANTA",
-      "precio": 17050,
+      "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
+      "marca": "TAEQ",
+      "precio": 9000,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/31963274/Jamon-Seleccionado-COLANTA-450-gr-3165440_a.jpg?v=639003121860230000",
-      "url": "https://tienda.exito.com/jamon-seleccionado-colanta-450-gr-3059799/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27515861/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=638828184815470000",
+      "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
@@ -796,21 +807,10 @@
     {
       "nombre": "Leche ALQUERIA semidescremada deslactosada sixpack (6000  ml)",
       "marca": "ALQUERIA",
-      "precio": 28602,
+      "precio": 26920,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33678845/Leche-ALQUERIA-Semidescremada-Deslactosada-Sixpack-6000-ml-3616196_a.jpg?v=639166202195030000",
       "url": "https://tienda.exito.com/leche-alqueria-semidescremada-deslactosada-sixpack-6000-ml-3188872/p",
-      "es_mas_barato": false,
-      "grupo_id": "G006",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche COLANTA uht entera (6000  ml)",
-      "marca": "COLANTA",
-      "precio": 32600,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33671545/Leche-Uht-Entera-COLANTA-6000-ml-3202769_a.jpg?v=639166164985770000",
-      "url": "https://tienda.exito.com/leche-uht-entera-colanta-6000-ml-3069107/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
@@ -829,7 +829,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 179910,
+      "precio": 159920,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174888/2796.png?v=639141097223430000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -840,7 +840,7 @@
     {
       "nombre": "Rozelaic Gel",
       "marca": "Medicamentos",
-      "precio": 98820,
+      "precio": 87840,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166101/2308-ROZELAIC-GEL.jpg?v=639141198942670000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
@@ -862,7 +862,7 @@
     {
       "nombre": "Epiduo Gel Crema Peróxido de Benzoilo 30 Gr",
       "marca": "Medicamentos",
-      "precio": 140590,
+      "precio": 132320,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166618/epiduo-galderma-precio.png?v=639141194496500000",
       "url": "https://www.bellapiel.com.co/epiduo-gel-1866/p",
@@ -884,7 +884,7 @@
     {
       "nombre": "Acetaminofen 500 Mg Tableta Genfar",
       "marca": "GENFAR",
-      "precio": 2065,
+      "precio": 1965,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/161219/7702605100019.jpg?v=637115844571530000",
       "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-genfar-7702605100019/p",
@@ -961,7 +961,7 @@
     {
       "nombre": "Eutirox 75 Mcg Tableta",
       "marca": "MERCK",
-      "precio": 56655,
+      "precio": 56430,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/169990/7501298224244.jpg?v=637384721608970000",
       "url": "https://www.drogueriascolsubsidio.com/eutirox-75-mcg-tableta-7501298224244/p",
@@ -1148,7 +1148,7 @@
     {
       "nombre": "Alimento Lacteo Enfagrow Premium Promental Natural Etapa 3",
       "marca": "MEAD JOHNSON NUTRITION",
-      "precio": 223280,
+      "precio": 286050,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211193/7506205810800_1.png?v=639090102822170000",
       "url": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-promental-etapa-3-7506205810800/p",
@@ -1159,7 +1159,7 @@
     {
       "nombre": "oferta protector solar afelius oil free gel 50%dto segunda unidad",
       "marca": "SIEGFRIED",
-      "precio": 212850,
+      "precio": 216900,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/198539/7707355055473.jpg?v=638584835401330000",
       "url": "https://www.drogueriascolsubsidio.com/oferta-protector-solar-afelius-oil-free-gel-50dto-segunda-unidad-7707355055473/p",
@@ -1170,7 +1170,7 @@
     {
       "nombre": "Cronoderm Fem Emulsión",
       "marca": "GADOR SAS",
-      "precio": 78200,
+      "precio": 79200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206260/7707279930030 CRONODERM-FEM-FRENTE-CAJA-LAT-1200X1200.jpg?v=638842328894000000",
       "url": "https://www.drogueriascolsubsidio.com/cronoderm-fem-emulsion-7707279930030/p",
@@ -1203,7 +1203,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2100,
+      "precio": 2400,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1267,6 +1267,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "CILANTRO  100  gr",
+      "marca": "SM",
+      "precio": 1248,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32665819/Cilantro-X-100gr-894373_a.jpg?v=639082473098830000",
+      "url": "https://tienda.exito.com/cilantro-x-100gr-311546/p",
+      "es_mas_barato": false,
+      "grupo_id": "G025",
+      "en_grupo": false
+    },
+    {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
       "marca": "COLANTA",
       "precio": 10600,
@@ -1274,27 +1285,16 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33670293/Queso-Crema-X-400g-895557_a.jpg?v=639166156163830000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G026",
       "en_grupo": false
     },
     {
       "nombre": "Arandanos (blue berrie)  125  gr",
       "marca": "SM",
-      "precio": 5950,
+      "precio": 6800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33568587/Arandanos-blue-Berrie-X-125g-918197_a.jpg?v=639156540801500000",
       "url": "https://tienda.exito.com/arandanos-blue-berrie-x-125g-81676/p",
-      "es_mas_barato": false,
-      "grupo_id": "G026",
-      "en_grupo": false
-    },
-    {
-      "nombre": "4 x Tomates Chonto",
-      "marca": "SM",
-      "precio": 3808,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
-      "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
       "grupo_id": "G027",
       "en_grupo": false
@@ -1302,7 +1302,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 5544,
+      "precio": 6336,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1313,7 +1313,7 @@
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 4200,
+      "precio": 4800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
