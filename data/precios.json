@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-07-23T02:54:47.475Z",
+  "ultima_actualizacion": "2026-07-23T14:05:28.010Z",
   "productos": [
     {
       "nombre": "Crema Reparadora Para El Contorno De Los Ojos - CeraVe",
@@ -96,6 +96,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175186/6117-1-RILASTIL-ACNESTIL-GE-PURIFICANTE-BELLA-PIEL.jpg?v=639198146733430000",
       "url": "https://www.bellapiel.com.co/rilastil-acnestil-gel-limpiador-mini-size-100-ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Loción Hidratante de Rostro - CeraVe",
+      "marca": "CeraVe",
+      "precio": 67915,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235566/locion-hidratante-de-rostro-cerave.png.png?v=638755932224270000",
+      "url": "https://www.medipiel.com.co/locion-hidratante-de-rostro-cerave/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -202,7 +213,7 @@
     {
       "nombre": "Anthelios UVMune Oil Control con color 50 ml",
       "marca": "La Roche Posay",
-      "precio": 101212,
+      "precio": 107960,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173760/6123.jpg?v=639141304261070000",
       "url": "https://www.bellapiel.com.co/anthelius-uv-mune-6123/p",
@@ -213,7 +224,7 @@
     {
       "nombre": "Anthelios UVMune 400 Oil Control gel x 50 ml",
       "marca": "La Roche Posay",
-      "precio": 103462,
+      "precio": 110360,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
       "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
@@ -266,17 +277,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
-      "marca": "La Roche Posay",
-      "precio": 131212,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Vichy Normaderm Hidratante Doble Corrección x 50Ml",
       "marca": "Vichy",
       "precio": 131925,
@@ -299,12 +299,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Gel limpiador Effaclar + M - La Roche Posay",
+      "nombre": "La Roche-Posay Effaclar Sérum Ultra Concentrado 30 ml",
       "marca": "La Roche Posay",
-      "precio": 139425,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235631/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay-400-ml.jpg.jpg?v=638755942151170000",
-      "url": "https://www.medipiel.com.co/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay/p",
+      "precio": 139960,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639141909212200000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -409,17 +409,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Hyalu B5 La Roche-Posay Serum Hidrante 30 ml",
-      "marca": "La Roche Posay",
-      "precio": 184500,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
-      "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Rilastil Aqua Fluido Normalizante 50 Ml",
       "marca": "Rilastil",
       "precio": 188500,
@@ -442,9 +431,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Hyalu B5 La Roche-Posay Serum Hidrante 30 ml",
+      "marca": "La Roche Posay",
+      "precio": 209100,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173193/6993-1-SERUM-LA-ROCHE-POSAY-HYALU-B5-BELLA-PIEL.jpg?v=639142127414530000",
+      "url": "https://www.bellapiel.com.co/serum-la-roche-posay-hyalu-b5-30-ml-6993/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "La Roche-Posay Mela B3 Serum Antimanchas  30 Ml",
       "marca": "La Roche Posay",
-      "precio": 204712,
+      "precio": 218360,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173820/6417.jpg?v=639141157928500000",
       "url": "https://www.bellapiel.com.co/serum-antimanchas-mela-b3-spf30-con-niacinamida-40-ml-6417/p",
@@ -499,7 +499,7 @@
     {
       "nombre": "Dercos Shampoo Anticaspa 200 Ml",
       "marca": "Vichy",
-      "precio": 83925,
+      "precio": 89520,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
       "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
@@ -684,12 +684,12 @@
       "en_grupo": false
     },
     {
-      "nombre": "Sal REFISAL alta pureza  (1000  gr)",
-      "marca": "REFISAL",
-      "precio": 2910,
+      "nombre": "4 x Tomates Chonto",
+      "marca": "SM",
+      "precio": 2240,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32006772/Sal-Refinada-1000-gr-125407_a.jpg?v=639010821199030000",
-      "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
+      "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": true,
       "grupo_id": "G006",
       "en_grupo": true
@@ -697,7 +697,7 @@
     {
       "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
       "marca": "FRESCAMPO",
-      "precio": 3220,
+      "precio": 2576,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27275906/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=638803147353700000",
       "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
@@ -706,20 +706,9 @@
       "en_grupo": true
     },
     {
-      "nombre": "4 x Tomates Chonto",
-      "marca": "SM",
-      "precio": 5440,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
-      "url": "https://tienda.exito.com/4xtomates/p",
-      "es_mas_barato": false,
-      "grupo_id": "G006",
-      "en_grupo": true
-    },
-    {
       "nombre": "Limón Tahití Malla TAEQ 1000  gr",
       "marca": "TAEQ",
-      "precio": 7280,
+      "precio": 2800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/24439575/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=638609239734670000",
       "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
@@ -728,9 +717,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Sal REFISAL alta pureza  (1000  gr)",
+      "marca": "REFISAL",
+      "precio": 2910,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32006772/Sal-Refinada-1000-gr-125407_a.jpg?v=639010821199030000",
+      "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
+      "es_mas_barato": false,
+      "grupo_id": "G006",
+      "en_grupo": true
+    },
+    {
       "nombre": "Tomate Chonto Insuperable FRESCAMPO 1000  gr",
       "marca": "FRESCAMPO",
-      "precio": 7960,
+      "precio": 7640,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32665830/Tomate-Chonto-Frescampo-X-1000-gr-506130_a.jpg?v=639082473178570000",
       "url": "https://tienda.exito.com/tomate-chonto-frescampo-x-1000-gr-120787/p",
@@ -752,7 +752,7 @@
     {
       "nombre": "Crema de leche ALQUERIA semientera (400  gr)",
       "marca": "ALQUERIA",
-      "precio": 8800,
+      "precio": 9350,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33678453/Crema-Leche-Semi-Entera-ALQUERIA-400-gr-3313023_a.jpg?v=639166200361700000",
       "url": "https://tienda.exito.com/crema-leche-semi-entera-alqueria-400-gr-3096922/p",
@@ -763,7 +763,7 @@
     {
       "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
       "marca": "TAEQ",
-      "precio": 9000,
+      "precio": 9900,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27515861/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=638828184815470000",
       "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
@@ -807,7 +807,7 @@
     {
       "nombre": "Leche ALQUERIA semidescremada deslactosada sixpack (6000  ml)",
       "marca": "ALQUERIA",
-      "precio": 26920,
+      "precio": 28602,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33678845/Leche-ALQUERIA-Semidescremada-Deslactosada-Sixpack-6000-ml-3616196_a.jpg?v=639166202195030000",
       "url": "https://tienda.exito.com/leche-alqueria-semidescremada-deslactosada-sixpack-6000-ml-3188872/p",
@@ -829,7 +829,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 159920,
+      "precio": 179910,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174888/2796.png?v=639141097223430000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -840,7 +840,7 @@
     {
       "nombre": "Rozelaic Gel",
       "marca": "Medicamentos",
-      "precio": 87840,
+      "precio": 98820,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166101/2308-ROZELAIC-GEL.jpg?v=639141198942670000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
@@ -862,7 +862,7 @@
     {
       "nombre": "Epiduo Gel Crema Peróxido de Benzoilo 30 Gr",
       "marca": "Medicamentos",
-      "precio": 132320,
+      "precio": 140590,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166618/epiduo-galderma-precio.png?v=639141194496500000",
       "url": "https://www.bellapiel.com.co/epiduo-gel-1866/p",
@@ -970,23 +970,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Engystol Tableta",
+      "marca": "HEEL COLOMBIA",
+      "precio": 68850,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
+      "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
+      "es_mas_barato": false,
+      "grupo_id": "G011",
+      "en_grupo": true
+    },
+    {
       "nombre": "Eclamp 150mg Tableta Recubierta",
       "marca": "PRONABELL",
       "precio": 79000,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/188338/7703153036973.jpg?v=638230461216230000",
       "url": "https://www.drogueriascolsubsidio.com/eclamp-150mg-tableta-recubierta-7703153036973/p",
-      "es_mas_barato": false,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Engystol Tableta",
-      "marca": "HEEL COLOMBIA",
-      "precio": 91800,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
-      "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
       "es_mas_barato": false,
       "grupo_id": "G011",
       "en_grupo": true
@@ -1126,7 +1126,7 @@
     {
       "nombre": "STREPSILS INTENSIV MIEL/LIM PAGUE 18 LLEVE 24",
       "marca": "RB HEALTH COLOMBIA",
-      "precio": 32600,
+      "precio": 33000,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200470/7707733970176.jpg?v=638659859958200000",
       "url": "https://www.drogueriascolsubsidio.com/strepsils-intensiv-miellim-pague-18-lleve-24-7707733970176/p",
@@ -1148,7 +1148,7 @@
     {
       "nombre": "Salchicha ranchera RANCHERA premium x14und (480  gr)",
       "marca": "RANCHERA",
-      "precio": 19500,
+      "precio": 26000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33876336/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639186034613470000",
       "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
@@ -1214,7 +1214,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3000,
+      "precio": 2800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1278,6 +1278,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "CILANTRO  100  gr",
+      "marca": "SM",
+      "precio": 1712,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/32665819/Cilantro-X-100gr-894373_a.jpg?v=639082473098830000",
+      "url": "https://tienda.exito.com/cilantro-x-100gr-311546/p",
+      "es_mas_barato": false,
+      "grupo_id": "G026",
+      "en_grupo": false
+    },
+    {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
       "marca": "COLANTA",
       "precio": 10600,
@@ -1285,40 +1296,40 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33670293/Queso-Crema-X-400g-895557_a.jpg?v=639166156163830000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G027",
       "en_grupo": false
     },
     {
       "nombre": "Arandanos (blue berrie)  125  gr",
       "marca": "SM",
-      "precio": 8500,
+      "precio": 6800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33568587/Arandanos-blue-Berrie-X-125g-918197_a.jpg?v=639156540801500000",
       "url": "https://tienda.exito.com/arandanos-blue-berrie-x-125g-81676/p",
-      "es_mas_barato": false,
-      "grupo_id": "G027",
-      "en_grupo": false
-    },
-    {
-      "nombre": "4 x Cebolla Blanca o Cabezona",
-      "marca": "SM",
-      "precio": 7920,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
-      "url": "https://tienda.exito.com/4xcebollas/p",
       "es_mas_barato": false,
       "grupo_id": "G028",
       "en_grupo": false
     },
     {
+      "nombre": "4 x Cebolla Blanca o Cabezona",
+      "marca": "SM",
+      "precio": 8064,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
+      "url": "https://tienda.exito.com/4xcebollas/p",
+      "es_mas_barato": false,
+      "grupo_id": "G029",
+      "en_grupo": false
+    },
+    {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 6000,
+      "precio": 4800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G030",
       "en_grupo": false
     },
     {
@@ -1329,7 +1340,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502838/Cerveza-COSTENA-Lata-Sixpac-1860-ml-3739284_a.jpg?v=639153315468500000",
       "url": "https://tienda.exito.com/cerveza-costena-lata-sixpac-1860-ml-3222187/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G031",
       "en_grupo": false
     },
     {
@@ -1340,7 +1351,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33877733/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639186166841270000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G032",
       "en_grupo": false
     },
     {
@@ -1350,17 +1361,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33502603/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639153313873930000",
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
-      "es_mas_barato": false,
-      "grupo_id": "G032",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Pasabocas FRITO LAY surtidos (586  gr)",
-      "marca": "FRITO LAY",
-      "precio": 28000,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33267909/Surtido-Mega-Lonchera-FRITO-LAY-586-gr-3285022_a.jpg?v=639131827328070000",
-      "url": "https://tienda.exito.com/surtido-mega-lonchera-frito-lay-586-gr-3090203/p",
       "es_mas_barato": false,
       "grupo_id": "G033",
       "en_grupo": false
