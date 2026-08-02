@@ -1,17 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-02T02:56:49.884Z",
+  "ultima_actualizacion": "2026-08-02T13:25:14.409Z",
   "productos": [
-    {
-      "nombre": "Detergente en polvo FAB ultra flash (4000  gr)",
-      "marca": "FAB",
-      "precio": 33495,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34409813/Detergente-Pvo-Ultra-FAB-4000-gr-3430342_a.jpg?v=639211543792870000",
-      "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-4000-gr-3134947/p",
-      "es_mas_barato": true,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
     {
       "nombre": "Detergente en polvo FAB ultra flash (5000  gr)",
       "marca": "FAB",
@@ -19,7 +8,7 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34409821/Detergente-Pvo-Ultra-FAB-5000-gr-3430343_a.jpg?v=639211543823300000",
       "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-5000-gr-3134948/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G000",
       "en_grupo": true
     },
@@ -250,6 +239,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
       "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "La Roche-Posay Lipikar Baume AP+M x 400 Ml",
+      "marca": "La Roche Posay",
+      "precio": 104930,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170299/4735-1-LA-ROCHE-POSAY-LIPIKAR-BAUME-BELLA-PIEL.jpg.jpg?v=638808651541730000",
+      "url": "https://www.bellapiel.com.co/la-roche-posay-lipikar-baume-ap-400ml-4735/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -541,17 +541,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "La Roche-Posay Lipikar Baume AP+M x 400 Ml",
-      "marca": "La Roche Posay",
-      "precio": 104930,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170299/4735-1-LA-ROCHE-POSAY-LIPIKAR-BAUME-BELLA-PIEL.jpg.jpg?v=638808651541730000",
-      "url": "https://www.bellapiel.com.co/la-roche-posay-lipikar-baume-ap-400ml-4735/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Anthelios UVMune 400 Anti Manchas - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 107925,
@@ -653,7 +642,7 @@
     {
       "nombre": "Crema Lubriderm Reparación Intensiva",
       "marca": "JOHNSON Y JOHNSON",
-      "precio": 68550,
+      "precio": 64480,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172347/7501007528434.jpg?v=637523927781270000",
       "url": "https://www.drogueriascolsubsidio.com/crema-lubriderm-reparacion-intensiva-7501007528434/p",
@@ -697,7 +686,7 @@
     {
       "nombre": "Ajo Malla Importado x3   1  und",
       "marca": "SM",
-      "precio": 1040,
+      "precio": 832,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388315/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=639211366971730000",
       "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
@@ -739,6 +728,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 4896,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": false,
+      "grupo_id": "G005",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pastas LA MUNECA spaghetti (1000  gr)",
       "marca": "LA MUNECA",
       "precio": 4900,
@@ -750,34 +750,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
+      "marca": "TAEQ",
+      "precio": 5904,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
+      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
+      "es_mas_barato": false,
+      "grupo_id": "G005",
+      "en_grupo": true
+    },
+    {
       "nombre": "Platano Insuperable FRESCAMPO 1600  gr",
       "marca": "FRESCAMPO",
       "precio": 5940,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388439/Platano-Ekono-1-6kg-157710_a.jpg?v=639211367867830000",
       "url": "https://tienda.exito.com/platano-ekono-1-6kg-795763/p",
-      "es_mas_barato": false,
-      "grupo_id": "G005",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 6120,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
-      "es_mas_barato": false,
-      "grupo_id": "G005",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 7380,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
       "es_mas_barato": false,
       "grupo_id": "G005",
       "en_grupo": true
@@ -800,17 +789,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34409236/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=639211537437200000",
       "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
-      "es_mas_barato": false,
-      "grupo_id": "G005",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Crema de leche ALQUERIA semientera (400  gr)",
-      "marca": "ALQUERIA",
-      "precio": 9350,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34249154/Crema-Leche-Semi-Entera-ALQUERIA-400-gr-3313023_a.jpg?v=639207558230270000",
-      "url": "https://tienda.exito.com/crema-leche-semi-entera-alqueria-400-gr-3096922/p",
       "es_mas_barato": false,
       "grupo_id": "G005",
       "en_grupo": true
@@ -851,7 +829,7 @@
     {
       "nombre": "Leche COLANTA uht entera (6000  ml)",
       "marca": "COLANTA",
-      "precio": 31850,
+      "precio": 32600,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34404204/Leche-Uht-Entera-COLANTA-6000-ml-3202769_a.jpg?v=639211491613400000",
       "url": "https://tienda.exito.com/leche-uht-entera-colanta-6000-ml-3069107/p",
@@ -1192,21 +1170,10 @@
     {
       "nombre": "Crema Dental Colgate Triple Acción",
       "marca": "COLGATE",
-      "precio": 21000,
+      "precio": 18900,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/180650/7753442351034-1.jpg?v=637945504789930000",
       "url": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-triple-accion-7753442351034/p",
-      "es_mas_barato": false,
-      "grupo_id": "G018",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Papel higiénico FAMILIA expert 4 hojas x12und (300  mts)",
-      "marca": "FAMILIA",
-      "precio": 26750,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34403786/Papel-Higienico-Expert-FAMILIA-300-mts-3153915_a.jpg?v=639211486215270000",
-      "url": "https://tienda.exito.com/papel-higienico-expert-familia-300-mts-3053625/p",
       "es_mas_barato": false,
       "grupo_id": "G018",
       "en_grupo": true
@@ -1247,7 +1214,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3500,
+      "precio": 2800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1284,9 +1251,20 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386923/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639211356189800000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
+      "es_mas_barato": true,
+      "grupo_id": "G025",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Huevos A SMN rojo (30  und)",
+      "marca": "SMN",
+      "precio": 11990,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386916/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639211356135330000",
+      "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
       "es_mas_barato": false,
       "grupo_id": "G025",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
@@ -1313,7 +1291,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 4160,
+      "precio": 2752,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1324,7 +1302,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 5200,
+      "precio": 4160,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1363,6 +1341,28 @@
       "url": "https://tienda.exito.com/bretana-15-litros-963452/p",
       "es_mas_barato": false,
       "grupo_id": "G032",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Salchicha ranchera RANCHERA premium x14und (480  gr)",
+      "marca": "RANCHERA",
+      "precio": 26000,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386495/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639211352678270000",
+      "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
+      "es_mas_barato": false,
+      "grupo_id": "G033",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Toallitas húmedas PERSONAL CHOICE MARCA EXCLUSIV aloe vera (72  und)",
+      "marca": "PERSONAL CHOICE MARCA EXCLUSIV",
+      "precio": 3840,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34244416/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639207521536700000",
+      "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
+      "es_mas_barato": false,
+      "grupo_id": "G034",
       "en_grupo": false
     }
   ]
