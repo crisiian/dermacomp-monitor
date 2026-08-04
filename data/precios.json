@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-04T02:42:42.911Z",
+  "ultima_actualizacion": "2026-08-04T14:19:28.498Z",
   "productos": [
     {
       "nombre": "Reparador Labial Fluido Con Ácido Hialurónico 10 Ml",
@@ -149,8 +149,19 @@
       "marca": "Cetaphil",
       "precio": 84562,
       "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/172320/6161-1-CETAPHIL-LIMPIADOR-PIEL-GRASA-BELLA-PIEL.jpg?v=639141109052870000",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177047/6161-1-CETAPHIL-LIMPIADOR-PIEL-GRASA-BELLA-PIEL.jpg?v=639214474635270000",
       "url": "https://www.bellapiel.com.co/gel-limpiadora-piel-grasa-6161/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Limpiador Control Imperfecciones - CeraVe",
+      "marca": "CeraVe",
+      "precio": 86065,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182602/Limpiador-Control-Imperfecciones---CeraVe--2-.jpg?v=639053818679070000",
+      "url": "https://www.medipiel.com.co/limpiador-control-imperfecciones-cerave/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -173,17 +184,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173738/5715.jpg?v=639141905316500000",
       "url": "https://www.bellapiel.com.co/cerave-crema-hidrtante-potex453gr-5715/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Hidratante Facial Hydro Boost Water Gel - Neutrogena",
-      "marca": "Neutrogena",
-      "precio": 88800,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2170813/7891010882983_1.jpg?v=638973630178470000",
-      "url": "https://www.medipiel.com.co/hydroboost-water-gel-neutrogena/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -321,17 +321,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Dercos DS Shampoo Anticaspa Cabello Graso Refill - Vichy",
-      "marca": "Vichy",
-      "precio": 109650,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182576/Dercos-DS-Shampoo-Anticaspa-Cabello-Graso-Refill---Vichy--1-.jpg?v=639051338541000000",
-      "url": "https://www.medipiel.com.co/dercos-ds-shampoo-anticaspa-cabello-graso-refill-vichy/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Shampoo Estimulante Anticaida Vichy Dercos Technique 200 Ml",
       "marca": "Vichy",
       "precio": 111900,
@@ -360,6 +349,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170114/6070-1-CERAVE-CREMA-ANTI-RUGOSIDADES-POTE-BELLA-PIEL.jpg.jpg?v=638808526951630000",
       "url": "https://www.bellapiel.com.co/cerave-crema-anti-rugosidades-340gr/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Dercos DS Shampoo Anticaspa Cabello Graso Refill - Vichy",
+      "marca": "Vichy",
+      "precio": 129000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182576/Dercos-DS-Shampoo-Anticaspa-Cabello-Graso-Refill---Vichy--1-.jpg?v=639051338541000000",
+      "url": "https://www.medipiel.com.co/dercos-ds-shampoo-anticaspa-cabello-graso-refill-vichy/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -552,34 +552,34 @@
       "en_grupo": true
     },
     {
-      "nombre": "Dercos Serum Anticaida R.E.G.E.N - Vichy",
-      "marca": "Vichy",
-      "precio": 148720,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208809/2182571-1200-auto.webp?v=639199800115230000",
-      "url": "https://www.medipiel.com.co/dercos-serum-anticaida-regen-vichy/p",
-      "es_mas_barato": true,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Splendor Serum Iluminador nocturno - Bella Aurora",
       "marca": "Bella Aurora",
-      "precio": 182100,
+      "precio": 145680,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172670/splendor-serum-iluminador-nocturno-bella-aurora.png?v=639003763962330000",
       "url": "https://www.medipiel.com.co/splendor-serum-iluminador-nocturno-bella-aurora/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G001",
       "en_grupo": true
     },
     {
       "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
       "marca": "La Roche Posay",
-      "precio": 245900,
+      "precio": 184425,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
       "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Dercos Serum Anticaida R.E.G.E.N - Vichy",
+      "marca": "Vichy",
+      "precio": 185900,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208809/2182571-1200-auto.webp?v=639199800115230000",
+      "url": "https://www.medipiel.com.co/dercos-serum-anticaida-regen-vichy/p",
       "es_mas_barato": false,
       "grupo_id": "G001",
       "en_grupo": true
@@ -686,7 +686,7 @@
     {
       "nombre": "Acetaminofen 500 Mg Tableta Genfar",
       "marca": "GENFAR",
-      "precio": 1572,
+      "precio": 1965,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/161219/7702605100019.jpg?v=637115844571530000",
       "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-genfar-7702605100019/p",
@@ -706,23 +706,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Vitamina C Tableta Masticable Mandarina",
-      "marca": "LA SANTE",
-      "precio": 5415,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203355/7703763750184.jpg.jpg?v=638760247281070000",
-      "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-mandarina-7703763750184/p",
-      "es_mas_barato": false,
-      "grupo_id": "G008",
-      "en_grupo": true
-    },
-    {
       "nombre": "Dolex Avanzado 500 Mg Tableta Recubierta",
       "marca": "HALEON COLOMBIA SAS",
-      "precio": 9495,
+      "precio": 32100,
       "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212307/7707397791490_1.jpg?v=639198937850500000",
-      "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212308/7707397791469_1.jpg?v=639198943997770000",
+      "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791469/p",
       "es_mas_barato": false,
       "grupo_id": "G008",
       "en_grupo": true
@@ -734,17 +723,6 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212342/7707397793029_1.jpg?v=639199023549770000",
       "url": "https://www.drogueriascolsubsidio.com/oferta-dolex-forte-nf-50065mg-tableta-recubierta-7707397793029/p",
-      "es_mas_barato": false,
-      "grupo_id": "G008",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Dolex Activgel 500mg Cápsula De Gelatina Blanda",
-      "marca": "GLAXOSMITHKLINE",
-      "precio": 39450,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212317/7703363006100_1.jpg?v=639198959314070000",
-      "url": "https://www.drogueriascolsubsidio.com/dolex-activgel-500mg-capsula-de-gelatina-blanda-7703363006100/p",
       "es_mas_barato": false,
       "grupo_id": "G008",
       "en_grupo": true
@@ -785,7 +763,7 @@
     {
       "nombre": "Depiderm Suero Booster Vitamina C 20% - Uriage",
       "marca": "Uriage",
-      "precio": 215000,
+      "precio": 172000,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/186579/depiderm-suero-booster-uriage.jpg?v=638372989996200000",
       "url": "https://www.medipiel.com.co/depiderm-suero-booster-uriage/p",
@@ -849,6 +827,17 @@
       "en_grupo": false
     },
     {
+      "nombre": "Dolex Activgel 500mg Cápsula De Gelatina Blanda",
+      "marca": "GLAXOSMITHKLINE",
+      "precio": 39450,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212317/7703363006100_1.jpg?v=639198959314070000",
+      "url": "https://www.drogueriascolsubsidio.com/dolex-activgel-500mg-capsula-de-gelatina-blanda-7703363006100/p",
+      "es_mas_barato": true,
+      "grupo_id": "G013",
+      "en_grupo": true
+    },
+    {
       "nombre": "Gestavit Dha Multivitaminico Cápsula Blanda Con Cubierta Enterica",
       "marca": "PROCAPS",
       "precio": 90500,
@@ -857,7 +846,7 @@
       "url": "https://www.drogueriascolsubsidio.com/gestavit-dha-multivitaminico-capsula-blanda-con-cubierta-enterica-7703153022693/p",
       "es_mas_barato": false,
       "grupo_id": "G013",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "Pediasure Polvo Peptigro Sabor: Vainilla",
@@ -866,9 +855,20 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208089/8886451012074.jpg?v=638929384360300000",
       "url": "https://www.drogueriascolsubsidio.com/pediasure-polvo-peptigro-sabor-vainilla-8886451012074/p",
+      "es_mas_barato": true,
+      "grupo_id": "G014",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Proteina Bipro Classic Polvo",
+      "marca": "ELITENUT SAS",
+      "precio": 242950,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/205889/7707394716458-3.jpg?v=638835188369000000",
+      "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716458/p",
       "es_mas_barato": false,
       "grupo_id": "G014",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "Pañitos Humedos Pequeñin Manzanilla x 80 Und",
@@ -950,7 +950,7 @@
     {
       "nombre": "Wegovy 0.25Mg/Dosis (0.68Mg/Ml) Solucion inyectable",
       "marca": "NOVO NORDISK",
-      "precio": 167000,
+      "precio": 170250,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211049/Wegovy-0.25-MG-Frontal-lateral-D-.jpg?v=639074799186130000",
       "url": "https://www.drogueriascolsubsidio.com/wegovy-025mgdosis-068mgml-solucion-inyectable-7709323347528/p",
