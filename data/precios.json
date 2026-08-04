@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-03T14:42:30.577Z",
+  "ultima_actualizacion": "2026-08-04T02:42:42.911Z",
   "productos": [
     {
       "nombre": "Reparador Labial Fluido Con Ácido Hialurónico 10 Ml",
@@ -90,17 +90,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Crema Lubriderm Reparación Intensiva",
-      "marca": "JOHNSON Y JOHNSON",
-      "precio": 68550,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172347/7501007528434.jpg?v=637523927781270000",
-      "url": "https://www.drogueriascolsubsidio.com/crema-lubriderm-reparacion-intensiva-7501007528434/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Neutrogena Hydro Boost Water Gel Hidratante",
       "marca": "JOHNSON Y JOHNSON",
       "precio": 72550,
@@ -162,6 +151,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/172320/6161-1-CETAPHIL-LIMPIADOR-PIEL-GRASA-BELLA-PIEL.jpg?v=639141109052870000",
       "url": "https://www.bellapiel.com.co/gel-limpiadora-piel-grasa-6161/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Crema Hidratante - CeraVe",
+      "marca": "CeraVe",
+      "precio": 88425,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172764/crema-hidratante-cerave.png?v=639003874270570000",
+      "url": "https://www.medipiel.com.co/crema-hidratante-cerave/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -354,17 +354,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Acondicionador Absolut Repair Reparación Cabello Dañado - Loreal Professionnel",
-      "marca": "L'Oréal Professionnel",
-      "precio": 119500,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2171569/acondicionador-de-reparacion-absolut-repair-loreal--1-.png?v=638986476945400000",
-      "url": "https://www.medipiel.com.co/acondicionador-de-reparacion-absolut-repair-loreal/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Cerave Crema Anti-Rugosidades X340Gr",
       "marca": "Cerave",
       "precio": 124950,
@@ -519,12 +508,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Serum Facial Antiarrugas Retinol B3 - La Roche Posay",
+      "nombre": "Mela B3 Serum Antimanchas - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 204675,
       "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/174541/suero-anti-edad-retinol-b3-la-roche-posay.jpg?v=637928076793670000",
-      "url": "https://www.medipiel.com.co/serum-facial-antiarrugas-la-roche-posay-retinol-b3/p",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
+      "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -563,34 +552,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Protector Solar Anti Brillo Anthelios Gel toque seco FPS 50+ 50 ml - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 101175,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235596/anthelios-xl-toque-seco-spf50-color-la-roche-posay.jpg.jpg?v=638755938223500000",
-      "url": "https://www.medipiel.com.co/anthelios-toque-seco-spf50-color-la-roche-posay/p",
-      "es_mas_barato": true,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Dercos Serum Anticaida R.E.G.E.N - Vichy",
       "marca": "Vichy",
       "precio": 148720,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208809/2182571-1200-auto.webp?v=639199800115230000",
       "url": "https://www.medipiel.com.co/dercos-serum-anticaida-regen-vichy/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G001",
       "en_grupo": true
     },
     {
-      "nombre": "Mela B3 Serum Antimanchas - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 204675,
+      "nombre": "Splendor Serum Iluminador nocturno - Bella Aurora",
+      "marca": "Bella Aurora",
+      "precio": 182100,
       "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
-      "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172670/splendor-serum-iluminador-nocturno-bella-aurora.png?v=639003763962330000",
+      "url": "https://www.medipiel.com.co/splendor-serum-iluminador-nocturno-bella-aurora/p",
       "es_mas_barato": false,
       "grupo_id": "G001",
       "en_grupo": true
@@ -607,6 +585,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Protector Solar Anti Brillo Anthelios Gel toque seco FPS 50+ 50 ml - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 101175,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235596/anthelios-xl-toque-seco-spf50-color-la-roche-posay.jpg.jpg?v=638755938223500000",
+      "url": "https://www.medipiel.com.co/anthelios-toque-seco-spf50-color-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": false
+    },
+    {
       "nombre": "Gel Limpiador Espumoso - CeraVe",
       "marca": "CeraVe",
       "precio": 83175,
@@ -614,7 +603,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/175978/gel-limpiador-espumoso-cerave.jpg?v=637928088636500000",
       "url": "https://www.medipiel.com.co/gel-limpiador-espumoso-cerave/p",
       "es_mas_barato": true,
-      "grupo_id": "G002",
+      "grupo_id": "G003",
       "en_grupo": true
     },
     {
@@ -625,7 +614,18 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172946/3499320015530_1.jpg?v=639005367792900000",
       "url": "https://www.medipiel.com.co/limpiador-piel-grasa-x-473ml-cetaphil/p",
       "es_mas_barato": false,
-      "grupo_id": "G002",
+      "grupo_id": "G003",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Crema Lubriderm Reparación Intensiva",
+      "marca": "JOHNSON Y JOHNSON",
+      "precio": 68550,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172347/7501007528434.jpg?v=637523927781270000",
+      "url": "https://www.drogueriascolsubsidio.com/crema-lubriderm-reparacion-intensiva-7501007528434/p",
+      "es_mas_barato": true,
+      "grupo_id": "G004",
       "en_grupo": true
     },
     {
@@ -636,8 +636,8 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2171576/mascarilla-reparacion-absolut-repair-loreal--1-.png?v=638986478682500000",
       "url": "https://www.medipiel.com.co/mascarilla-reparacion-absolut-repair-loreal/p",
       "es_mas_barato": false,
-      "grupo_id": "G003",
-      "en_grupo": false
+      "grupo_id": "G004",
+      "en_grupo": true
     },
     {
       "nombre": "Reparador Labial En Stick 4 Gr - Isdin",
@@ -647,7 +647,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2160929/reparador-labial-en-stick-4-gr-isdin.png?v=638887972235300000",
       "url": "https://www.medipiel.com.co/reparador-labial-en-stick-4-gr-isdin/p",
       "es_mas_barato": true,
-      "grupo_id": "G004",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -658,7 +658,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2157917/blush-rubor-korff--1-.jpg?v=638864531824300000",
       "url": "https://www.medipiel.com.co/blush-rubor-korff/p",
       "es_mas_barato": false,
-      "grupo_id": "G004",
+      "grupo_id": "G005",
       "en_grupo": true
     },
     {
@@ -669,7 +669,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225133/aceite-elixir-ultime-original-kerastase.png.png?v=638751492012670000",
       "url": "https://www.medipiel.com.co/aceite-elixir-ultime-original-kerastase/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G006",
       "en_grupo": false
     },
     {
@@ -680,7 +680,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2168018/repuesto-hidratante-facial-hydro-boost-neutrogena--2-.jpg?v=639047821917330000",
       "url": "https://www.medipiel.com.co/repuesto-hidratante-facial-hydro-boost-neutrogena/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
+      "grupo_id": "G007",
       "en_grupo": false
     },
     {
@@ -691,7 +691,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/161219/7702605100019.jpg?v=637115844571530000",
       "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-genfar-7702605100019/p",
       "es_mas_barato": true,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -702,7 +702,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203354/7703763750115.jpg.jpg?v=638760247030030000",
       "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -713,7 +713,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203355/7703763750184.jpg.jpg?v=638760247281070000",
       "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-mandarina-7703763750184/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -724,7 +724,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212307/7707397791490_1.jpg?v=639198937850500000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -735,7 +735,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212342/7707397793029_1.jpg?v=639199023549770000",
       "url": "https://www.drogueriascolsubsidio.com/oferta-dolex-forte-nf-50065mg-tableta-recubierta-7707397793029/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -746,7 +746,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212317/7703363006100_1.jpg?v=639198959314070000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-activgel-500mg-capsula-de-gelatina-blanda-7703363006100/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -757,7 +757,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172361/7501298224374.jpg?v=637526243087300000",
       "url": "https://www.drogueriascolsubsidio.com/eutirox-50-mcg-tableta-7501298224374/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Centrum Women Tableta",
+      "marca": "HALEON COLOMBIA SAS",
+      "precio": 76160,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211135/7702132655464.png?v=639086799228170000",
+      "url": "https://www.drogueriascolsubsidio.com/centrum-women-tableta-7702132655464/p",
+      "es_mas_barato": false,
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -768,7 +779,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206946/7707336722028_1.jpg?v=638882055993800000",
       "url": "https://www.drogueriascolsubsidio.com/neurexan-tableta-7707336722028/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -779,7 +790,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/186579/depiderm-suero-booster-uriage.jpg?v=638372989996200000",
       "url": "https://www.medipiel.com.co/depiderm-suero-booster-uriage/p",
       "es_mas_barato": false,
-      "grupo_id": "G007",
+      "grupo_id": "G008",
       "en_grupo": true
     },
     {
@@ -790,7 +801,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174888/2796.png?v=639141097223430000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
       "es_mas_barato": false,
-      "grupo_id": "G008",
+      "grupo_id": "G009",
       "en_grupo": false
     },
     {
@@ -801,7 +812,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166101/2308-ROZELAIC-GEL.jpg?v=639141198942670000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
       "es_mas_barato": true,
-      "grupo_id": "G009",
+      "grupo_id": "G010",
       "en_grupo": true
     },
     {
@@ -812,7 +823,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/201033/7703281000853.jpg?v=638666750444830000",
       "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
       "es_mas_barato": false,
-      "grupo_id": "G009",
+      "grupo_id": "G010",
       "en_grupo": true
     },
     {
@@ -823,7 +834,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166618/epiduo-galderma-precio.png?v=639141194496500000",
       "url": "https://www.bellapiel.com.co/epiduo-gel-1866/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
+      "grupo_id": "G011",
       "en_grupo": false
     },
     {
@@ -833,17 +844,6 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
-      "es_mas_barato": false,
-      "grupo_id": "G011",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Serenos Lha Comprimido",
-      "marca": "HOMEOPATICO ALEMAN",
-      "precio": 63750,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
-      "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
       "es_mas_barato": false,
       "grupo_id": "G012",
       "en_grupo": false
@@ -1003,23 +1003,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Serenos Lha Comprimido",
+      "marca": "HOMEOPATICO ALEMAN",
+      "precio": 63750,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
+      "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
+      "es_mas_barato": false,
+      "grupo_id": "G019",
+      "en_grupo": false
+    },
+    {
       "nombre": "Omega 3 Fish Oil 1200 Mg Softgels",
       "marca": "HEALTY AMERICA",
       "precio": 63500,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203110/_0008_1315425_OMEGA 3 FISH OIL 1200MG 100S_751273765119.jpg.jpg?v=638750624854700000",
       "url": "https://www.drogueriascolsubsidio.com/omega-3-fish-oil-1200-mg-softgels-751273765119/p",
-      "es_mas_barato": false,
-      "grupo_id": "G019",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Creatina 3000 Monohidrato Micronizada Hac",
-      "marca": "HEALTY AMERICA",
-      "precio": 119950,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/207480/19962797569.jpg?v=638913900634470000",
-      "url": "https://www.drogueriascolsubsidio.com/creatina-3000-monohidrato-micronizada-hac-19962797569/p",
       "es_mas_barato": false,
       "grupo_id": "G020",
       "en_grupo": false
