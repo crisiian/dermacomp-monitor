@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-07T02:45:00.904Z",
+  "ultima_actualizacion": "2026-08-07T13:07:25.780Z",
   "productos": [
     {
       "nombre": "Reparador Labial Fluido Con Ácido Hialurónico 10 Ml",
@@ -24,17 +24,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "CICAPLAST BAUME B5",
-      "marca": "LOREAL",
-      "precio": 43120,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210239/3337875816809_1.jpg?v=638997792670670000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Cerave Contorno De Ojos Crema Reparadora x 14Ml",
       "marca": "Cerave",
       "precio": 47212,
@@ -46,23 +35,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "CICAPLAST BAUME B5",
+      "marca": "LOREAL",
+      "precio": 53900,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/210239/3337875816809_1.jpg?v=638997792670670000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "CeraVe Gel Limpiador Espumoso 236 ml",
       "marca": "Cerave",
       "precio": 55960,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170152/6406-1-CERAVE-GEL-LIMPIADOR-ESPUMOSO-PIEL-NORMAL-A-GRASA-BELLA-PIEL.jpg.jpg?v=638808540754170000",
       "url": "https://www.bellapiel.com.co/gel-limpiador-facial-espumoso-para-piel-normal-a-grasa-cerave-236-ml-6406/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Neutrogena Hydro Boost Water Gel Hidratante",
-      "marca": "JOHNSON Y JOHNSON",
-      "precio": 58040,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/199003/7891010255725_1.jpg?v=638622034131500000",
-      "url": "https://www.drogueriascolsubsidio.com/neutrogena-hydro-boost-water-gel-hidratante-7891010255725/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -118,6 +107,17 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2170813/7891010882983_1.jpg?v=638973630178470000",
       "url": "https://www.medipiel.com.co/hydroboost-water-gel-neutrogena/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Neutrogena Hydro Boost Water Gel Hidratante",
+      "marca": "JOHNSON Y JOHNSON",
+      "precio": 72550,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/199003/7891010255725_1.jpg?v=638622034131500000",
+      "url": "https://www.drogueriascolsubsidio.com/neutrogena-hydro-boost-water-gel-hidratante-7891010255725/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -321,12 +321,34 @@
       "en_grupo": true
     },
     {
-      "nombre": "Isdin Fotoprotector Fusion Water Magic SPF50",
-      "marca": "ISDIN COLOMBIA",
+      "nombre": "Bloqueador Isdin Fusion Water Magic SPF 50 50 Ml",
+      "marca": "Isdin",
       "precio": 106575,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/193696/8429420248977-1.jpg?v=638336775494170000",
-      "url": "https://www.drogueriascolsubsidio.com/isdin-fotoprotector-fusion-water-magic-spf50-8429420248977/p",
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169550/8429420248977-1.jpg.jpg?v=638920706146230000",
+      "url": "https://www.bellapiel.com.co/isdin-fusion-water-magic-spf-50-50-ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Isdin Fusion Water Magic Color Light SPF 50 50 Ml",
+      "marca": "Isdin",
+      "precio": 106575,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169504/8429420226265-1.jpg.jpg?v=639113380785000000",
+      "url": "https://www.bellapiel.com.co/fusion-water-color-light-spf50-50ml-5849/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ISDIN Fusion Water Magic Color Medium",
+      "marca": "Isdin",
+      "precio": 106575,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/168394/4117-1.jpg?v=639113376048870000",
+      "url": "https://www.bellapiel.com.co/fotoprotector-isdin-fusion-water-color-medium-4117/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -475,34 +497,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Bloqueador Isdin Fusion Water Magic SPF 50 50 Ml",
-      "marca": "Isdin",
+      "nombre": "Isdin Fotoprotector Fusion Water Magic SPF50",
+      "marca": "ISDIN COLOMBIA",
       "precio": 142100,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169550/8429420248977-1.jpg.jpg?v=638920706146230000",
-      "url": "https://www.bellapiel.com.co/isdin-fusion-water-magic-spf-50-50-ml/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Protector Solar Isdin Fusion Water Magic Color Light SPF 50 50 Ml",
-      "marca": "Isdin",
-      "precio": 142100,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169504/8429420226265-1.jpg.jpg?v=639113380785000000",
-      "url": "https://www.bellapiel.com.co/fusion-water-color-light-spf50-50ml-5849/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ISDIN Fusion Water Magic Color Medium",
-      "marca": "Isdin",
-      "precio": 142100,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/168394/4117-1.jpg?v=639113376048870000",
-      "url": "https://www.bellapiel.com.co/fotoprotector-isdin-fusion-water-color-medium-4117/p",
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/193696/8429420248977-1.jpg?v=638336775494170000",
+      "url": "https://www.drogueriascolsubsidio.com/isdin-fotoprotector-fusion-water-magic-spf50-8429420248977/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -675,7 +675,7 @@
     {
       "nombre": "Ajo Malla Importado x3   1  und",
       "marca": "SM",
-      "precio": 1120,
+      "precio": 896,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388315/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=639211366971730000",
       "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
@@ -686,10 +686,21 @@
     {
       "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
       "marca": "FRESCAMPO",
-      "precio": 2090,
+      "precio": 1990,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34449964/Lenteja-1121547_a.jpg?v=639213687558930000",
       "url": "https://tienda.exito.com/lenteja-837337/p",
+      "es_mas_barato": false,
+      "grupo_id": "G006",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 2432,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
@@ -701,17 +712,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34387977/Sal-Refinada-1000-gr-125407_a.jpg?v=639211364472830000",
       "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
-      "es_mas_barato": false,
-      "grupo_id": "G006",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 3040,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
@@ -739,23 +739,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
+      "marca": "TAEQ",
+      "precio": 5824,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
+      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
+      "es_mas_barato": false,
+      "grupo_id": "G006",
+      "en_grupo": true
+    },
+    {
       "nombre": "Platano Insuperable FRESCAMPO 1600  gr",
       "marca": "FRESCAMPO",
       "precio": 5900,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388439/Platano-Ekono-1-6kg-157710_a.jpg?v=639211367867830000",
       "url": "https://tienda.exito.com/platano-ekono-1-6kg-795763/p",
-      "es_mas_barato": false,
-      "grupo_id": "G006",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 7280,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": true
@@ -860,23 +860,23 @@
       "en_grupo": false
     },
     {
-      "nombre": "Rozelaic 15% Gel",
-      "marca": "MEGALABS COLOMBIA",
-      "precio": 84960,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/201033/7703281000853.jpg?v=638666750444830000",
-      "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
-      "es_mas_barato": true,
-      "grupo_id": "G009",
-      "en_grupo": true
-    },
-    {
       "nombre": "Rozelaic Gel",
       "marca": "Medicamentos",
       "precio": 98820,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166101/2308-ROZELAIC-GEL.jpg?v=639141198942670000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
+      "es_mas_barato": true,
+      "grupo_id": "G009",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Rozelaic 15% Gel",
+      "marca": "MEGALABS COLOMBIA",
+      "precio": 106200,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/201033/7703281000853.jpg?v=638666750444830000",
+      "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
       "es_mas_barato": false,
       "grupo_id": "G009",
       "en_grupo": true
@@ -917,10 +917,10 @@
     {
       "nombre": "Dolex Avanzado 500 Mg Tableta Recubierta",
       "marca": "HALEON COLOMBIA SAS",
-      "precio": 32100,
+      "precio": 9495,
       "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212308/7707397791469_1.jpg?v=639198943997770000",
-      "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791469/p",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212307/7707397791490_1.jpg?v=639198937850500000",
+      "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
       "es_mas_barato": false,
       "grupo_id": "G011",
       "en_grupo": true
@@ -937,34 +937,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Dolex Activgel 500mg Cápsula De Gelatina Blanda",
+      "marca": "GLAXOSMITHKLINE",
+      "precio": 39450,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212317/7703363006100_1.jpg?v=639198959314070000",
+      "url": "https://www.drogueriascolsubsidio.com/dolex-activgel-500mg-capsula-de-gelatina-blanda-7703363006100/p",
+      "es_mas_barato": false,
+      "grupo_id": "G011",
+      "en_grupo": true
+    },
+    {
       "nombre": "Eutirox 50 mcg Tableta",
       "marca": "MERCK",
-      "precio": 39300,
+      "precio": 47160,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172361/7501298224374.jpg?v=637526243087300000",
       "url": "https://www.drogueriascolsubsidio.com/eutirox-50-mcg-tableta-7501298224374/p",
-      "es_mas_barato": false,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Neurexan Tableta",
-      "marca": "HEEL COLOMBIA",
-      "precio": 65960,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206946/7707336722028_1.jpg?v=638882055993800000",
-      "url": "https://www.drogueriascolsubsidio.com/neurexan-tableta-7707336722028/p",
-      "es_mas_barato": false,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Engystol Tableta",
-      "marca": "HEEL COLOMBIA",
-      "precio": 73440,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
-      "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
       "es_mas_barato": false,
       "grupo_id": "G011",
       "en_grupo": true
@@ -981,14 +970,25 @@
       "en_grupo": true
     },
     {
-      "nombre": "Dolex Activgel 500mg Cápsula De Gelatina Blanda",
-      "marca": "GLAXOSMITHKLINE",
-      "precio": 31560,
+      "nombre": "Neurexan Tableta",
+      "marca": "HEEL COLOMBIA",
+      "precio": 82450,
       "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212317/7703363006100_1.jpg?v=639198959314070000",
-      "url": "https://www.drogueriascolsubsidio.com/dolex-activgel-500mg-capsula-de-gelatina-blanda-7703363006100/p",
-      "es_mas_barato": true,
-      "grupo_id": "G012",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206946/7707336722028_1.jpg?v=638882055993800000",
+      "url": "https://www.drogueriascolsubsidio.com/neurexan-tableta-7707336722028/p",
+      "es_mas_barato": false,
+      "grupo_id": "G011",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Engystol Tableta",
+      "marca": "HEEL COLOMBIA",
+      "precio": 91800,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
+      "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
+      "es_mas_barato": false,
+      "grupo_id": "G011",
       "en_grupo": true
     },
     {
@@ -1000,7 +1000,7 @@
       "url": "https://www.drogueriascolsubsidio.com/gestavit-dha-multivitaminico-capsula-blanda-con-cubierta-enterica-7703153022693/p",
       "es_mas_barato": false,
       "grupo_id": "G012",
-      "en_grupo": true
+      "en_grupo": false
     },
     {
       "nombre": "Pedialyte Max 60 Con Zinc Uva Solución Oral",
@@ -1036,23 +1036,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Gelicart Advance Polvo Para Solución Oral",
-      "marca": "SANOFI AVENTIS",
-      "precio": 129200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/197902/7703202003475_Hero.jpg?v=638562386823100000",
-      "url": "https://www.drogueriascolsubsidio.com/gelicart-advance-polvo-para-solucion-oral-7703202003475/p",
-      "es_mas_barato": false,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
       "nombre": "Lenzetto 1.53Mg/Dos Solucion Topica",
       "marca": "GEDEON RICHTER",
       "precio": 151150,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211459/contenido.jpg?v=639119656256730000",
       "url": "https://www.drogueriascolsubsidio.com/lenzetto-153mgdos-solucion-topica-5997001378304/p",
+      "es_mas_barato": false,
+      "grupo_id": "G013",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Gelicart Advance Polvo Para Solución Oral",
+      "marca": "SANOFI AVENTIS",
+      "precio": 161500,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/197902/7703202003475_Hero.jpg?v=638562386823100000",
+      "url": "https://www.drogueriascolsubsidio.com/gelicart-advance-polvo-para-solucion-oral-7703202003475/p",
       "es_mas_barato": false,
       "grupo_id": "G013",
       "en_grupo": true
@@ -1170,7 +1170,7 @@
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 51000,
+      "precio": 63750,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
@@ -1203,7 +1203,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 4200,
+      "precio": 3360,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1258,7 +1258,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 5520,
+      "precio": 3264,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1269,7 +1269,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 6000,
+      "precio": 4800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1302,7 +1302,7 @@
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 5520,
+      "precio": 4368,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34482874/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639214749150170000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
@@ -1313,7 +1313,7 @@
     {
       "nombre": "Soda BRETANA botella  (1500  ml)",
       "marca": "BRETANA",
-      "precio": 5000,
+      "precio": 4000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34385211/Bretana-15-Litros-839787_a.jpg?v=639211339249830000",
       "url": "https://tienda.exito.com/bretana-15-litros-963452/p",
@@ -1344,23 +1344,23 @@
       "en_grupo": false
     },
     {
+      "nombre": "Milanesa de res  fresca",
+      "marca": "SM",
+      "precio": 31432,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
+      "url": "https://tienda.exito.com/milanesa-res-644019/p",
+      "es_mas_barato": true,
+      "grupo_id": "G032",
+      "en_grupo": true
+    },
+    {
       "nombre": "Carne de res asar freír  fresca",
       "marca": "SM",
       "precio": 35980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681774/CARNES-ASAR-FREIR-SI-237700_a.jpg?v=639166318726870000",
       "url": "https://tienda.exito.com/carnes-asar-freir-si-498107/p",
-      "es_mas_barato": true,
-      "grupo_id": "G032",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Milanesa de res  fresca",
-      "marca": "SM",
-      "precio": 36980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
-      "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
       "grupo_id": "G032",
       "en_grupo": true
