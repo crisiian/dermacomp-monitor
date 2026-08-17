@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-16T12:41:40.147Z",
+  "ultima_actualizacion": "2026-08-17T01:21:23.970Z",
   "productos": [
     {
       "nombre": "Cerave Contorno De Ojos Crema Reparadora x 14Ml",
@@ -46,17 +46,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Acnestil Rilastil Gel Limpiador 100 ml",
-      "marca": "Rilastil",
-      "precio": 58140,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175186/6117-1-RILASTIL-ACNESTIL-GE-PURIFICANTE-BELLA-PIEL.jpg?v=639198146733430000",
-      "url": "https://www.bellapiel.com.co/rilastil-acnestil-gel-limpiador-mini-size-100-ml/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "La Roche-Posay Cicaplast Baume B5+ x 40 Ml",
       "marca": "La Roche Posay",
       "precio": 58900,
@@ -90,6 +79,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Loción Hidratante de Rostro - CeraVe",
+      "marca": "CeraVe",
+      "precio": 63920,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235566/locion-hidratante-de-rostro-cerave.png.png?v=638755932224270000",
+      "url": "https://www.medipiel.com.co/locion-hidratante-de-rostro-cerave/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Cerave Gel Limpiador Espumoso Refill x 473 Ml",
       "marca": "Cerave",
       "precio": 65962,
@@ -107,17 +107,6 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172347/7501007528434.jpg?v=637523927781270000",
       "url": "https://www.drogueriascolsubsidio.com/crema-lubriderm-reparacion-intensiva-7501007528434/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Hidratante Facial Hydro Boost Water Gel - Neutrogena",
-      "marca": "Neutrogena",
-      "precio": 71040,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2170813/7891010882983_1.jpg?v=638973630178470000",
-      "url": "https://www.medipiel.com.co/hydroboost-water-gel-neutrogena/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -530,6 +519,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Rilastil Aqua Fluido Normalizante 50 Ml",
+      "marca": "Rilastil",
+      "precio": 169650,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174962/4912-1-RILASTIL-AQUA-NORMALIZANTE-HIDRATANTE-BELLA-PIEL.jpg?v=639143877989770000",
+      "url": "https://www.bellapiel.com.co/rilastil-aqua-fluido-normalizante-50-ml-4912/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 184462,
@@ -675,7 +675,7 @@
     {
       "nombre": "Ajo Malla Importado x3   1  und",
       "marca": "SM",
-      "precio": 960,
+      "precio": 1200,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388315/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=639211366971730000",
       "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
@@ -690,17 +690,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34449964/Lenteja-1121547_a.jpg?v=639213687558930000",
       "url": "https://tienda.exito.com/lenteja-837337/p",
-      "es_mas_barato": false,
-      "grupo_id": "G007",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 2800,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
       "es_mas_barato": false,
       "grupo_id": "G007",
       "en_grupo": true
@@ -728,23 +717,34 @@
       "en_grupo": true
     },
     {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 3220,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": false,
+      "grupo_id": "G007",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
+      "marca": "TAEQ",
+      "precio": 3500,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
+      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
+      "es_mas_barato": false,
+      "grupo_id": "G007",
+      "en_grupo": true
+    },
+    {
       "nombre": "Lomitos de atún FRESCAMPO en agua (110.5  gr)",
       "marca": "FRESCAMPO",
       "precio": 4440,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34316047/Lomitos-De-Atun-FRESCAMPO-Agua-y-Sal-1105-gr-3804672_a.jpg?v=639210370038230000",
       "url": "https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-1105-gr-3241101/p",
-      "es_mas_barato": false,
-      "grupo_id": "G007",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 4896,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G007",
       "en_grupo": true
@@ -789,6 +789,17 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34409236/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=639211537437200000",
       "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
+      "es_mas_barato": false,
+      "grupo_id": "G007",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Crema de leche ALQUERIA semientera (400  gr)",
+      "marca": "ALQUERIA",
+      "precio": 9350,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34474589/Crema-Leche-Semi-Entera-ALQUERIA-400-gr-3313023_a.jpg?v=639213858606100000",
+      "url": "https://tienda.exito.com/crema-leche-semi-entera-alqueria-400-gr-3096922/p",
       "es_mas_barato": false,
       "grupo_id": "G007",
       "en_grupo": true
@@ -1214,7 +1225,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2800,
+      "precio": 3200,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1225,7 +1236,7 @@
     {
       "nombre": "Leche deslactosada FRESCAMPO semidescremada UHT paquete (5400  ml)",
       "marca": "FRESCAMPO",
-      "precio": 19200,
+      "precio": 18600,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422886/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639211626463200000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
@@ -1280,7 +1291,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 2368,
+      "precio": 4560,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1291,7 +1302,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 5056,
+      "precio": 6000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1306,20 +1317,9 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461883/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639213782805130000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
-      "es_mas_barato": true,
-      "grupo_id": "G026",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Queso mozzarella EXITO MARCA PROPIA tajado (400  gr)",
-      "marca": "EXITO MARCA PROPIA",
-      "precio": 14700,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34457620/Queso-Mozzarella-Tajado-EXITO-MARCA-PROPIA-400-gr-3280456_a.jpg?v=639213746786800000",
-      "url": "https://tienda.exito.com/queso-mozzarella-tajado-exito-marca-propia-400-gr-3088958/p",
       "es_mas_barato": false,
       "grupo_id": "G026",
-      "en_grupo": true
+      "en_grupo": false
     },
     {
       "nombre": "Galletas DUCALES x8 tacos (700  gr)",
@@ -1346,7 +1346,7 @@
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 4368,
+      "precio": 5460,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34482874/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639214749150170000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
