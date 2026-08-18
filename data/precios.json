@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-17T12:47:09.724Z",
+  "ultima_actualizacion": "2026-08-18T01:18:44.451Z",
   "productos": [
     {
       "nombre": "Cerave Contorno De Ojos Crema Reparadora x 14Ml",
@@ -101,17 +101,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Hidratante Facial Hydro Boost Water Gel - Neutrogena",
-      "marca": "Neutrogena",
-      "precio": 71040,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2170813/7891010882983_1.jpg?v=638973630178470000",
-      "url": "https://www.medipiel.com.co/hydroboost-water-gel-neutrogena/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Neutrogena Hydro Boost Water Gel Hidratante",
       "marca": "JOHNSON Y JOHNSON",
       "precio": 72550,
@@ -200,6 +189,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Crema Hidratante - CeraVe",
+      "marca": "CeraVe",
+      "precio": 94320,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172764/crema-hidratante-cerave.png?v=639003874270570000",
+      "url": "https://www.medipiel.com.co/crema-hidratante-cerave/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "CeraVe crema hidratante Pote 453 gr",
       "marca": "Cerave",
       "precio": 94360,
@@ -211,45 +211,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Anthelios UVMune 400 Oil Control Fluido 50 ml - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 96530,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235613/anthelios-uvmune-400-oil-control-fluido-la-roche-posay-con-color.jpg.jpg?v=638755940466500000",
-      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-oil-control-fluido-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Protector Solar Facial Anthelios UVMune 400 FPS 50+ - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 96530,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/176131/anthelios-UV-mune-sin-color.jpg?v=637928089628100000",
-      "url": "https://www.medipiel.com.co/anthelios-uv-mune-50ml/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Vichy Dercos Refill DS Shampoo Anticaspa 390 Ml",
       "marca": "Vichy",
       "precio": 96750,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173135/6404-1-DERCOS-SHAMPOO-ANTICASPA-REFILL-BELLA-PIEL.png?v=639039189257130000",
       "url": "https://www.bellapiel.com.co/shampoo-anticaspa-dercos-technique-refil-500ml-6404/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Anthelios UVMune 400 Anti Manchas - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 100730,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166512/3337875917407_1.jpg?v=638947680313700000",
-      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-anti-manchas-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -310,17 +277,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Refill Effaclar M+ Gel Limpiador Pieles Mixtas A Grasas - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 108760,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189798/3337875876407_11.jpg?v=639149674831830000",
-      "url": "https://www.medipiel.com.co/refill-effaclar-m-gel-limpiador-pieles-mixtas-a-grasas-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Dercos DS Shampoo Anticaspa Cabello Graso Refill - Vichy",
       "marca": "Vichy",
       "precio": 109650,
@@ -338,17 +294,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173792/6196.jpg?v=639141272745570000",
       "url": "https://www.bellapiel.com.co/anthelios-uvmune-400-oil-control-fluido-50ml-6196/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Shampoo Absolut Repair Reparación Cabello Dañado - Loreal Professionnel",
-      "marca": "L'Oréal Professionnel",
-      "precio": 110500,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2190448/shampoo-reparacion-absolut-repair-loreal--2-.png?v=639156584101800000",
-      "url": "https://www.medipiel.com.co/shampoo-reparacion-absolut-repair-loreal/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -519,6 +464,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Protector Solar Isdin Active Unify Color 50 Ml",
+      "marca": "Isdin",
+      "precio": 154800,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177397/3284-3-ISDIN-ACTIVE-UNIFY-COLOR-BELLA-PIEL.jpg?v=639222533698570000",
+      "url": "https://www.bellapiel.com.co/fotoultra-isdin-active-unify-color-fluid-3284/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "La Roche Posay Effaclar A-Z Gel Crema Anti-Imperfecciones x 40 Ml",
       "marca": "La Roche Posay",
       "precio": 169462,
@@ -530,67 +486,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Rilastil Aqua Fluido Normalizante 50 Ml",
-      "marca": "Rilastil",
-      "precio": 169650,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174962/4912-1-RILASTIL-AQUA-NORMALIZANTE-HIDRATANTE-BELLA-PIEL.jpg?v=639143877989770000",
-      "url": "https://www.bellapiel.com.co/rilastil-aqua-fluido-normalizante-50-ml-4912/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 184462,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
-      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mela B3 Serum Antimanchas - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 204675,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
-      "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Serum Facial Antiarrugas Retinol B3 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 204675,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/174541/suero-anti-edad-retinol-b3-la-roche-posay.jpg?v=637928076793670000",
-      "url": "https://www.medipiel.com.co/serum-facial-antiarrugas-la-roche-posay-retinol-b3/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "La Roche-Posay Mela B3 Serum Antimanchas  30 Ml",
       "marca": "La Roche Posay",
       "precio": 218360,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173820/6417.jpg?v=639141157928500000",
       "url": "https://www.bellapiel.com.co/serum-antimanchas-mela-b3-spf30-con-niacinamida-40-ml-6417/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 245900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
-      "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -629,6 +530,270 @@
       "en_grupo": true
     },
     {
+      "nombre": "Anthelios UVMune 400 Oil Control Fluido 50 ml - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 96530,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235613/anthelios-uvmune-400-oil-control-fluido-la-roche-posay-con-color.jpg.jpg?v=638755940466500000",
+      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-oil-control-fluido-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Facial Anthelios UVMune 400 FPS 50+ - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 96530,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/176131/anthelios-UV-mune-sin-color.jpg?v=637928089628100000",
+      "url": "https://www.medipiel.com.co/anthelios-uv-mune-50ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Anthelios UVMune 400 Anti Manchas - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 100730,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166512/3337875917407_1.jpg?v=638947680313700000",
+      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-anti-manchas-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Refill Effaclar M+ Gel Limpiador Pieles Mixtas A Grasas - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 108760,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189798/3337875876407_11.jpg?v=639149674831830000",
+      "url": "https://www.medipiel.com.co/refill-effaclar-m-gel-limpiador-pieles-mixtas-a-grasas-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 184462,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
+      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Mela B3 Serum Antimanchas - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 204675,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
+      "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 245900,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
+      "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Ajo Malla Importado x3   1  und",
+      "marca": "SM",
+      "precio": 1120,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388315/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=639211366971730000",
+      "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
+      "es_mas_barato": true,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
+      "marca": "FRESCAMPO",
+      "precio": 1990,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34449964/Lenteja-1121547_a.jpg?v=639213687558930000",
+      "url": "https://tienda.exito.com/lenteja-837337/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Sal REFISAL alta pureza  (1000  gr)",
+      "marca": "REFISAL",
+      "precio": 2910,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34387977/Sal-Refinada-1000-gr-125407_a.jpg?v=639211364472830000",
+      "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Blanqueador EKONO pureza cítrica (2000  ml)",
+      "marca": "EKONO",
+      "precio": 3100,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34400730/Blanqueador-sin-fragancia-EKONO-SIN-REF-3023705_a.jpg?v=639211467708270000",
+      "url": "https://tienda.exito.com/blanqueador-sin-fragancia-ekono-sin-ref-3016130/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 3220,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Lomitos de atún FRESCAMPO en agua (110.5  gr)",
+      "marca": "FRESCAMPO",
+      "precio": 4440,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34316047/Lomitos-De-Atun-FRESCAMPO-Agua-y-Sal-1105-gr-3804672_a.jpg?v=639210370038230000",
+      "url": "https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-1105-gr-3241101/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Pastas LA MUNECA spaghetti (1000  gr)",
+      "marca": "LA MUNECA",
+      "precio": 4900,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34488039/Pasta-Spaguetti-1000-gr-603117_a.jpg?v=639215346861400000",
+      "url": "https://tienda.exito.com/pasta-spaguetti-1000-gr-755424/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Platano Insuperable FRESCAMPO 1600  gr",
+      "marca": "FRESCAMPO",
+      "precio": 5460,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388439/Platano-Ekono-1-6kg-157710_a.jpg?v=639211367867830000",
+      "url": "https://tienda.exito.com/platano-ekono-1-6kg-795763/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
+      "marca": "TAEQ",
+      "precio": 7280,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
+      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Azúcar FRESCAMPO blanco (2500  gr)",
+      "marca": "FRESCAMPO",
+      "precio": 8470,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34407094/Azucar-Blanco-Especial-FRESCAMPO-2500-gr-3310407_a.jpg?v=639211518414130000",
+      "url": "https://tienda.exito.com/azucar-blanco-especial-frescampo-2500-gr-3096347/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
+      "marca": "TAEQ",
+      "precio": 9300,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34409236/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=639211537437200000",
+      "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Leche FRESCAMPO entera UHT paquete (5400  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 18540,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422885/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639211626450870000",
+      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-5400-ml-3225371/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Leche deslactosada FRESCAMPO semidescremada UHT paquete (5400  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 18600,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422886/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639211626463200000",
+      "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Aceite FRESCAMPO vegetal multiusos (3000  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 20490,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34504753/Aceite-Vegetal-FRESCAMPO-3000-ml-3257073_a.jpg?v=639215568658200000",
+      "url": "https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Leche FRESCAMPO entera UHT maxilitro paquete (6600  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 22620,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422884/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639211626441500000",
+      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Leche deslactosada COLANTA x6und (6000  ml)",
+      "marca": "COLANTA",
+      "precio": 26095,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34404205/Leche-Uht-Deslactosada-COLANTA-6000-ml-3202770_a.jpg?v=639211491624970000",
+      "url": "https://tienda.exito.com/leche-uht-deslactosada-colanta-6000-ml-3069108/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Mini Serum Genesis Anti-Caída - Kérastase",
+      "marca": "Kérastase",
+      "precio": 132000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2209405/3474637319014_EN_01.jpg?v=639210238595730000",
+      "url": "https://www.medipiel.com.co/mini-serum-genesis-anti-caida-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
       "nombre": "Dercos Serum Anticaida R.E.G.E.N - Vichy",
       "marca": "Vichy",
       "precio": 185900,
@@ -637,7 +802,18 @@
       "url": "https://www.medipiel.com.co/dercos-serum-anticaida-regen-vichy/p",
       "es_mas_barato": false,
       "grupo_id": "G002",
-      "en_grupo": false
+      "en_grupo": true
+    },
+    {
+      "nombre": "Aceite Elixir Ultime Original - Kérastase",
+      "marca": "Kérastase",
+      "precio": 248000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225133/aceite-elixir-ultime-original-kerastase.png.png?v=638751492012670000",
+      "url": "https://www.medipiel.com.co/aceite-elixir-ultime-original-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
     },
     {
       "nombre": "Gel Limpiador Espumoso - CeraVe",
@@ -904,6 +1080,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Pedialyte Max 60 Con Zinc Uva Solución Oral",
+      "marca": "ABBOTT",
+      "precio": 9095,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208263/7501033957376.jpg?v=638929468883600000",
+      "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-uva-solucion-oral-7501033957376/p",
+      "es_mas_barato": false,
+      "grupo_id": "G014",
+      "en_grupo": true
+    },
+    {
       "nombre": "Enterogermina Suspensión Oral",
       "marca": "SANOFI AVENTIS",
       "precio": 86500,
@@ -970,17 +1157,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Wegovy 0.5Mg/Dosis (1.34Mg/Ml) Solucion Inyectable",
-      "marca": "NOVO NORDISK",
-      "precio": 332950,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211050/Wegovy-0.5-MG-Frontal-lateral-D.jpg?v=639075643299770000",
-      "url": "https://www.drogueriascolsubsidio.com/wegovy-05mgdosis-134mgml-solucion-inyectable-7709837877900/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
       "precio": 63750,
@@ -1036,39 +1212,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Blanqueador EKONO pureza cítrica (2000  ml)",
-      "marca": "EKONO",
-      "precio": 3100,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34400730/Blanqueador-sin-fragancia-EKONO-SIN-REF-3023705_a.jpg?v=639211467708270000",
-      "url": "https://tienda.exito.com/blanqueador-sin-fragancia-ekono-sin-ref-3016130/p",
-      "es_mas_barato": false,
-      "grupo_id": "G018",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Platano Insuperable FRESCAMPO 1600  gr",
-      "marca": "FRESCAMPO",
-      "precio": 5460,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388439/Platano-Ekono-1-6kg-157710_a.jpg?v=639211367867830000",
-      "url": "https://tienda.exito.com/platano-ekono-1-6kg-795763/p",
-      "es_mas_barato": false,
-      "grupo_id": "G018",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Manzana Bolsa Insuperable TAEQ 800  gr",
-      "marca": "TAEQ",
-      "precio": 6800,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34409236/Manzana-Bolsa-Taeq-TAEQ-800-gr-3400686_a.jpg?v=639211537437200000",
-      "url": "https://tienda.exito.com/manzana-bolsa-taeq-taeq-800-gr-3126845/p",
-      "es_mas_barato": false,
-      "grupo_id": "G018",
-      "en_grupo": true
-    },
-    {
       "nombre": "Papel higiénico EKONO triple hoja (396  mts)",
       "marca": "EKONO",
       "precio": 13900,
@@ -1082,156 +1225,13 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2560,
+      "precio": 3500,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
       "es_mas_barato": false,
       "grupo_id": "G019",
       "en_grupo": false
-    },
-    {
-      "nombre": "Ajo Malla Importado x3   1  und",
-      "marca": "SM",
-      "precio": 960,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388315/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=639211366971730000",
-      "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
-      "es_mas_barato": true,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
-      "marca": "FRESCAMPO",
-      "precio": 1990,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34449964/Lenteja-1121547_a.jpg?v=639213687558930000",
-      "url": "https://tienda.exito.com/lenteja-837337/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 2576,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Sal REFISAL alta pureza  (1000  gr)",
-      "marca": "REFISAL",
-      "precio": 2910,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34387977/Sal-Refinada-1000-gr-125407_a.jpg?v=639211364472830000",
-      "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Lomitos de atún FRESCAMPO en agua (110.5  gr)",
-      "marca": "FRESCAMPO",
-      "precio": 4440,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34316047/Lomitos-De-Atun-FRESCAMPO-Agua-y-Sal-1105-gr-3804672_a.jpg?v=639210370038230000",
-      "url": "https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-1105-gr-3241101/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Pastas LA MUNECA spaghetti (1000  gr)",
-      "marca": "LA MUNECA",
-      "precio": 4900,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34488039/Pasta-Spaguetti-1000-gr-603117_a.jpg?v=639215346861400000",
-      "url": "https://tienda.exito.com/pasta-spaguetti-1000-gr-755424/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Limón Tahití Malla TAEQ 1000  gr",
-      "marca": "TAEQ",
-      "precio": 5824,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
-      "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Azúcar FRESCAMPO blanco (2500  gr)",
-      "marca": "FRESCAMPO",
-      "precio": 8470,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34407094/Azucar-Blanco-Especial-FRESCAMPO-2500-gr-3310407_a.jpg?v=639211518414130000",
-      "url": "https://tienda.exito.com/azucar-blanco-especial-frescampo-2500-gr-3096347/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche FRESCAMPO entera UHT paquete (5400  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 18540,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422885/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639211626450870000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-5400-ml-3225371/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche deslactosada FRESCAMPO semidescremada UHT paquete (5400  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 18600,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422886/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639211626463200000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Aceite FRESCAMPO vegetal multiusos (3000  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 20490,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34504753/Aceite-Vegetal-FRESCAMPO-3000-ml-3257073_a.jpg?v=639215568658200000",
-      "url": "https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche FRESCAMPO entera UHT maxilitro paquete (6600  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 22620,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422884/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639211626441500000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche deslactosada COLANTA x6und (6000  ml)",
-      "marca": "COLANTA",
-      "precio": 26095,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34404205/Leche-Uht-Deslactosada-COLANTA-6000-ml-3202770_a.jpg?v=639211491624970000",
-      "url": "https://tienda.exito.com/leche-uht-deslactosada-colanta-6000-ml-3069108/p",
-      "es_mas_barato": false,
-      "grupo_id": "G020",
-      "en_grupo": true
     },
     {
       "nombre": "Huevos AAA KIKES rojo pet (15  und)",
@@ -1241,7 +1241,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386926/Huevo-Rojo-Aaa-15und-Pet-1232624_a.jpg?v=639211356212200000",
       "url": "https://tienda.exito.com/huevo-rojo-aaa-15und-pet-895234/p",
       "es_mas_barato": true,
-      "grupo_id": "G021",
+      "grupo_id": "G020",
       "en_grupo": true
     },
     {
@@ -1252,7 +1252,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386916/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639211356135330000",
       "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
       "es_mas_barato": false,
-      "grupo_id": "G021",
+      "grupo_id": "G020",
       "en_grupo": true
     },
     {
@@ -1263,7 +1263,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34392579/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639211417577770000",
       "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
       "es_mas_barato": false,
-      "grupo_id": "G021",
+      "grupo_id": "G020",
       "en_grupo": true
     },
     {
@@ -1274,40 +1274,29 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386923/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639211356189800000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
       "es_mas_barato": false,
-      "grupo_id": "G021",
+      "grupo_id": "G020",
       "en_grupo": true
-    },
-    {
-      "nombre": "CILANTRO  100  gr",
-      "marca": "SM",
-      "precio": 1648,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388227/Cilantro-X-100gr-894373_a.jpg?v=639211366197030000",
-      "url": "https://tienda.exito.com/cilantro-x-100gr-311546/p",
-      "es_mas_barato": false,
-      "grupo_id": "G022",
-      "en_grupo": false
     },
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 3648,
+      "precio": 2960,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G021",
       "en_grupo": false
     },
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 7232,
+      "precio": 6320,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G022",
       "en_grupo": false
     },
     {
@@ -1318,7 +1307,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461883/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639213782805130000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G023",
       "en_grupo": false
     },
     {
@@ -1329,7 +1318,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461814/Galletas-DUCALES-DUCALES-TC-X-8-700GR-700-gr-3640324_a.jpg?v=639213782193570000",
       "url": "https://tienda.exito.com/galletas-ducales-ducales-tc-x-8-700gr-700-gr-3197630/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G024",
       "en_grupo": false
     },
     {
@@ -1340,18 +1329,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461754/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639213781790770000",
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G025",
       "en_grupo": false
     },
     {
       "nombre": "Mango Tommy  1  und",
       "marca": "SM",
-      "precio": 4368,
+      "precio": 5460,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34482874/MANGO-TOMMY-UNIDAD-804861_a.jpg?v=639214749150170000",
       "url": "https://tienda.exito.com/mango-tommy-unidad-967198/p",
       "es_mas_barato": false,
-      "grupo_id": "G028",
+      "grupo_id": "G026",
       "en_grupo": false
     },
     {
@@ -1362,7 +1351,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386495/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639211352678270000",
       "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G027",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Toallitas húmedas PERSONAL CHOICE MARCA EXCLUSIV aloe vera (72  und)",
+      "marca": "PERSONAL CHOICE MARCA EXCLUSIV",
+      "precio": 3840,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34463295/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639213805292830000",
+      "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
+      "es_mas_barato": false,
+      "grupo_id": "G028",
       "en_grupo": false
     }
   ]
