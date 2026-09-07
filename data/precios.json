@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-07T03:31:00.937Z",
+  "ultima_actualizacion": "2026-09-07T17:28:56.963Z",
   "productos": [
     {
       "nombre": "Cicaplast Bálsamo para labios - La Roche Posay",
@@ -101,6 +101,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Cerave Limpiador Control Imperfecciones x 236Ml",
+      "marca": "Cerave",
+      "precio": 73462,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170174/6599-1-CERAVE-LIMPIADOR-CONTROL-IMPERFECCIONES-BELLA-PIEL.jpg.jpg?v=638808550610430000",
+      "url": "https://www.bellapiel.com.co/cerave-limpiador-control-imperfecciones-x-236ml-6599/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Shampoo Estimulante Anticaida Vichy Dercos Technique 200 Ml",
       "marca": "Vichy",
       "precio": 78330,
@@ -118,17 +129,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169204/bloqueador-en-barra-Isdin-bella-piel.jpg.jpg?v=638736286486300000",
       "url": "https://www.bellapiel.com.co/isdin--fotoprotector-invisible-stick-spf-50-x-10gr-6627/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Limpiador Líquido Piel Grasa - Cetaphil",
-      "marca": "Cetaphil",
-      "precio": 84562,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172946/3499320015530_1.jpg?v=639005367792900000",
-      "url": "https://www.medipiel.com.co/limpiador-piel-grasa-x-473ml-cetaphil/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -365,12 +365,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Protector Solar Facial Oil Control Toque Seco de Eucerin",
-      "marca": "Eucerin",
-      "precio": 112050,
+      "nombre": "Shampoo Absolut Repair Reparación Cabello Dañado - Loreal Professionnel",
+      "marca": "L'Oréal Professionnel",
+      "precio": 110500,
       "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208770/69762_Face Oil Control 1000px.jpg?v=639199147804400000",
-      "url": "https://www.medipiel.com.co/oil-control-toque-seco-spf50-50ml-eucerin/p",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2190448/shampoo-reparacion-absolut-repair-loreal--2-.png?v=639156584101800000",
+      "url": "https://www.medipiel.com.co/shampoo-reparacion-absolut-repair-loreal/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -552,17 +552,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Rilastil Acnestil Gel Limpiador 400 ml",
-      "marca": "Rilastil",
-      "precio": 180990,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175103/5502-1-RILASTIL-ACNESTIL-LIMPIADOR-FACIAL-BELLA-PIEL.jpg?v=639198134917430000",
-      "url": "https://www.bellapiel.com.co/acnestil-gel-limpiador-400-ml-/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Serum Facial Antiarrugas Retinol B3 - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 191030,
@@ -602,6 +591,17 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225269/serum-nutritive-8h-magic-night-kerastase.jpg.jpg?v=638751504546900000",
       "url": "https://www.medipiel.com.co/serum-nutritive-8h-magic-night-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Serum Retinal Intense Serum Noche - Isdinceutics",
+      "marca": "Isdinceutics",
+      "precio": 274200,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/191897/isdinceutics-retinal-intense-serum-noche-isdin.jpg?v=638494161673500000",
+      "url": "https://www.medipiel.com.co/retinal-intense-isdinceutics/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -651,23 +651,23 @@
       "en_grupo": false
     },
     {
-      "nombre": "Ácido glicólico 7% Exfoliante - The Ordinary",
-      "marca": "The Ordinary",
-      "precio": 52000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210694/the-ordinary-glycolic-acid-7-exfoliating-toner-100ml.jpg?v=639222507948000000",
-      "url": "https://www.medipiel.com.co/solucion-exfoliante-7-the-ordinary/p",
-      "es_mas_barato": false,
-      "grupo_id": "G004",
-      "en_grupo": false
-    },
-    {
       "nombre": "Limpieza Facial Profunda",
       "marca": "Medipiel",
       "precio": 120000,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187138/Limpieza-facial-premium-2.png?v=639111636204730000",
       "url": "https://www.medipiel.com.co/limpieza-facial-profunda/p",
+      "es_mas_barato": false,
+      "grupo_id": "G004",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Ácido glicólico 7% Exfoliante - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 52000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210694/the-ordinary-glycolic-acid-7-exfoliating-toner-100ml.jpg?v=639222507948000000",
+      "url": "https://www.medipiel.com.co/solucion-exfoliante-7-the-ordinary/p",
       "es_mas_barato": false,
       "grupo_id": "G005",
       "en_grupo": false
@@ -708,7 +708,7 @@
     {
       "nombre": "Acetaminofen 500 Mg Tableta Genfar",
       "marca": "GENFAR",
-      "precio": 2165,
+      "precio": 1732,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/161219/7702605100019.jpg?v=637115844571530000",
       "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-genfar-7702605100019/p",
@@ -739,6 +739,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Quetiapina 25mg Tableta Recubierta T.Q",
+      "marca": "TECNOQUIMICAS",
+      "precio": 14950,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/202894/0717070_Cara_Frontal_Dimensionada_Con_Contenido_Expuesto_Alta_0.jpg.jpg?v=638748837910400000",
+      "url": "https://www.drogueriascolsubsidio.com/quetiapina-25mg-tableta-recubierta-tq-7702057717070/p",
+      "es_mas_barato": false,
+      "grupo_id": "G008",
+      "en_grupo": true
+    },
+    {
       "nombre": "Dolex Avanzado 500 Mg Tableta Recubierta",
       "marca": "HALEON COLOMBIA SAS",
       "precio": 25680,
@@ -756,17 +767,6 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/169990/7501298224244.jpg?v=637384721608970000",
       "url": "https://www.drogueriascolsubsidio.com/eutirox-75-mcg-tableta-7501298224244/p",
-      "es_mas_barato": false,
-      "grupo_id": "G008",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Eutirox 100mcg Tableta",
-      "marca": "MERCK",
-      "precio": 65070,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/169991/7501298224251.jpg?v=637384722037570000",
-      "url": "https://www.drogueriascolsubsidio.com/eutirox-100mcg-tableta-7501298224251/p",
       "es_mas_barato": false,
       "grupo_id": "G008",
       "en_grupo": true
@@ -862,7 +862,7 @@
     {
       "nombre": "MINOXIDIL 5% FORTE SOLUCIÓN TOPICA LAPROFF",
       "marca": "LAPROFF",
-      "precio": 32200,
+      "precio": 25760,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200236/7703038690146-.jpg?v=638659859220400000",
       "url": "https://www.drogueriascolsubsidio.com/minoxidil-5-forte-solucion-topica-laproff-7703038690146/p",
@@ -1245,17 +1245,6 @@
       "en_grupo": false
     },
     {
-      "nombre": "Huevos AAA KIKES rojo pet (15  und)",
-      "marca": "KIKES",
-      "precio": 14700,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386926/Huevo-Rojo-Aaa-15und-Pet-1232624_a.jpg?v=639211356212200000",
-      "url": "https://tienda.exito.com/huevo-rojo-aaa-15und-pet-895234/p",
-      "es_mas_barato": true,
-      "grupo_id": "G019",
-      "en_grupo": true
-    },
-    {
       "nombre": "Huevos AA SMN rojo (30  und)",
       "marca": "SMN",
       "precio": 15900,
@@ -1264,7 +1253,7 @@
       "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
       "es_mas_barato": false,
       "grupo_id": "G019",
-      "en_grupo": true
+      "en_grupo": false
     },
     {
       "nombre": "Milanesa de res  fresca",
@@ -1291,7 +1280,7 @@
     {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
       "marca": "COLANTA",
-      "precio": 8480,
+      "precio": 10600,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386676/Queso-Crema-X-400g-895557_a.jpg?v=639211354059900000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
@@ -1335,7 +1324,7 @@
     {
       "nombre": "Pan tajado BIMBO blanco suave esponjoso (730  gr)",
       "marca": "BIMBO",
-      "precio": 8910,
+      "precio": 8860,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461883/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=639213782805130000",
       "url": "https://tienda.exito.com/pan-bimbo-blanco-suave-esponjoso-730-gr-3202794/p",
@@ -1346,7 +1335,7 @@
     {
       "nombre": "Galletas DUCALES x8 tacos (700  gr)",
       "marca": "DUCALES",
-      "precio": 18850,
+      "precio": 18950,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461814/Galletas-DUCALES-DUCALES-TC-X-8-700GR-700-gr-3640324_a.jpg?v=639213782193570000",
       "url": "https://tienda.exito.com/galletas-ducales-ducales-tc-x-8-700gr-700-gr-3197630/p",
@@ -1363,6 +1352,17 @@
       "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
       "es_mas_barato": false,
       "grupo_id": "G028",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Malta PONY MALTA go x6und (1200  ml)",
+      "marca": "PONY MALTA",
+      "precio": 8790,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34475688/Bebida-PONY-MALTA-Malta-1200-ml-3569537_a.jpg?v=639213869108970000",
+      "url": "https://tienda.exito.com/bebida-pony-malta-malta-1200-ml-3176913/p",
+      "es_mas_barato": false,
+      "grupo_id": "G029",
       "en_grupo": false
     }
   ]
