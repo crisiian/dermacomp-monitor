@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-19T03:42:35.015Z",
+  "ultima_actualizacion": "2026-09-19T15:33:36.603Z",
   "productos": [
     {
       "nombre": "Cicaplast Bálsamo para labios - La Roche Posay",
@@ -24,17 +24,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 43120,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Crema Reparadora Para El Contorno De Los Ojos - CeraVe",
       "marca": "CeraVe",
       "precio": 47175,
@@ -52,6 +41,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170131/6225-1-CERAVE-CONTORNO-DE-OJOS-CREMA-REPARADORA-BELLA-PIEL.png.png?v=638808530409070000",
       "url": "https://www.bellapiel.com.co/crema-reparadora-contorno-de-ojos-cerave-14-ml-6225/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
+      "marca": "LOREAL",
+      "precio": 53900,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -686,7 +686,7 @@
     {
       "nombre": "Crema de leche ALQUERIA semientera (400  gr)",
       "marca": "ALQUERIA",
-      "precio": 7700,
+      "precio": 7315,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34474589/Crema-Leche-Semi-Entera-ALQUERIA-400-gr-3313023_a.jpg?v=639213858606100000",
       "url": "https://tienda.exito.com/crema-leche-semi-entera-alqueria-400-gr-3096922/p",
@@ -774,7 +774,7 @@
     {
       "nombre": "Estavit DHA Cápsulas Blandas con Cubierta Entérica",
       "marca": "PROCAPS",
-      "precio": 86160,
+      "precio": 107700,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212404/7703153045678-2.jpg?v=639211049955770000",
       "url": "https://www.drogueriascolsubsidio.com/estavit-dha-capsulas-blandas-con-cubierta-enterica-7703153045678/p",
@@ -794,23 +794,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Rozelaic 15% Gel",
-      "marca": "MEGALABS COLOMBIA",
-      "precio": 84960,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212794/7703281000853.jpg?v=639247547987670000",
-      "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
-      "es_mas_barato": true,
-      "grupo_id": "G008",
-      "en_grupo": true
-    },
-    {
       "nombre": "Rozelaic Gel",
       "marca": "Medicamentos",
       "precio": 98820,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166101/2308-ROZELAIC-GEL.jpg?v=639141198942670000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
+      "es_mas_barato": true,
+      "grupo_id": "G008",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Rozelaic 15% Gel",
+      "marca": "MEGALABS COLOMBIA",
+      "precio": 106200,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212794/7703281000853.jpg?v=639247547987670000",
+      "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
       "es_mas_barato": false,
       "grupo_id": "G008",
       "en_grupo": true
@@ -873,7 +873,7 @@
     {
       "nombre": "Eutirox 50 mcg Tableta",
       "marca": "MERCK",
-      "precio": 42000,
+      "precio": 47250,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/172361/7501298224374.jpg?v=637526243087300000",
       "url": "https://www.drogueriascolsubsidio.com/eutirox-50-mcg-tableta-7501298224374/p",
@@ -884,7 +884,7 @@
     {
       "nombre": "Eutirox 75 Mcg Tableta",
       "marca": "MERCK",
-      "precio": 50600,
+      "precio": 56925,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/169990/7501298224244.jpg?v=637384721608970000",
       "url": "https://www.drogueriascolsubsidio.com/eutirox-75-mcg-tableta-7501298224244/p",
@@ -906,7 +906,7 @@
     {
       "nombre": "Centrum Women Tableta",
       "marca": "HALEON COLOMBIA SAS",
-      "precio": 75480,
+      "precio": 94350,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211135/7702132655464.png?v=639086799228170000",
       "url": "https://www.drogueriascolsubsidio.com/centrum-women-tableta-7702132655464/p",
@@ -994,7 +994,7 @@
     {
       "nombre": "MINOXIDIL 5% FORTE SOLUCIÓN TOPICA LAPROFF",
       "marca": "LAPROFF",
-      "precio": 25760,
+      "precio": 32200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200236/7703038690146-.jpg?v=638659859220400000",
       "url": "https://www.drogueriascolsubsidio.com/minoxidil-5-forte-solucion-topica-laproff-7703038690146/p",
@@ -1027,7 +1027,7 @@
     {
       "nombre": "Lyrica 20 mg / ml Solución Oral",
       "marca": "ASPEN COLOMBIANA",
-      "precio": 83760,
+      "precio": 104700,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211658/6091403223053.jpg?v=639138492562430000",
       "url": "https://www.drogueriascolsubsidio.com/lyrica-20-mg--ml-solucion-oral-6091403223053/p",
@@ -1060,7 +1060,7 @@
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 51000,
+      "precio": 63750,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
@@ -1071,7 +1071,7 @@
     {
       "nombre": "Anemidox Cápsula",
       "marca": "MERCK",
-      "precio": 103280,
+      "precio": 129100,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/209567/7702418006430.jpg?v=638966586906430000",
       "url": "https://www.drogueriascolsubsidio.com/anemidox-capsula-7500435248730/p",
@@ -1082,7 +1082,7 @@
     {
       "nombre": "Elar-B 1.5% Sgs Cjxfcox5ml Sop",
       "marca": "SOPHIA",
-      "precio": 61720,
+      "precio": 77150,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211710/PS_ELAR-B INT.png?v=639143030318130000",
       "url": "https://www.drogueriascolsubsidio.com/elar-b-15-sgs-cjxfcox5ml-sop-736085418897/p",
@@ -1093,7 +1093,7 @@
     {
       "nombre": "Proteina Bipro Classic Polvo",
       "marca": "ELITENUT SAS",
-      "precio": 196960,
+      "precio": 246200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/205889/7707394716458-3.jpg?v=638835188369000000",
       "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716458/p",
@@ -1104,7 +1104,7 @@
     {
       "nombre": "STREPSILS INTENSIV MIEL/LIM PAGUE 18 LLEVE 24",
       "marca": "RB HEALTH COLOMBIA",
-      "precio": 26800,
+      "precio": 33500,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200470/7707733970176.jpg?v=638659859958200000",
       "url": "https://www.drogueriascolsubsidio.com/strepsils-intensiv-miellim-pague-18-lleve-24-7707733970176/p",
@@ -1115,7 +1115,7 @@
     {
       "nombre": "Lidocaina Hidrocortisona Ungüento RPS",
       "marca": "ROPSOHN",
-      "precio": 33840,
+      "precio": 42300,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206552/7704588003011.jpg?v=638853384087770000",
       "url": "https://www.drogueriascolsubsidio.com/lidocaina-hidrocortisona-ungento-rps-7704588003011/p",
@@ -1126,7 +1126,7 @@
     {
       "nombre": "Pañitos Humedos Pequeñin Manzanilla x 80 Und",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 5200,
+      "precio": 4160,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
@@ -1181,7 +1181,7 @@
     {
       "nombre": "Crema dental COLGATE triple acción (375  ml)",
       "marca": "COLGATE",
-      "precio": 27120,
+      "precio": 28476,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34391331/CREMA-TRIPLE-ACCION-X3UND-1621155_a.jpg?v=639211401212000000",
       "url": "https://tienda.exito.com/crema-triple-accion-x3und-981291/p",
@@ -1192,7 +1192,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3465,
+      "precio": 2772,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1203,11 +1203,22 @@
     {
       "nombre": "Ajo Malla Importado x3   1  und",
       "marca": "SM",
-      "precio": 1140,
+      "precio": 912,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35305440/Ajo-Importado-Malla-Paquete-X-3u-1519_a.jpg?v=639251083744400000",
       "url": "https://tienda.exito.com/ajo-importado-malla-paquete-x-3u-847268/p",
       "es_mas_barato": true,
+      "grupo_id": "G021",
+      "en_grupo": true
+    },
+    {
+      "nombre": "4 x Tomates Chonto",
+      "marca": "SM",
+      "precio": 2851,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
+      "url": "https://tienda.exito.com/4xtomates/p",
+      "es_mas_barato": false,
       "grupo_id": "G021",
       "en_grupo": true
     },
@@ -1223,12 +1234,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "4 x Tomates Chonto",
-      "marca": "SM",
-      "precio": 3564,
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 3200,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
-      "url": "https://tienda.exito.com/4xtomates/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G021",
       "en_grupo": true
@@ -1240,17 +1251,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388368/Limon-Tahiti-Malla-1000g-594130_a.jpg?v=639211367360730000",
       "url": "https://tienda.exito.com/limon-tahiti-malla-1000g-43309/p",
-      "es_mas_barato": false,
-      "grupo_id": "G021",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 4000,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G021",
       "en_grupo": true
@@ -1291,7 +1291,7 @@
     {
       "nombre": "Milanesa de res  fresca",
       "marca": "SM",
-      "precio": 28484,
+      "precio": 37980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
@@ -1302,7 +1302,7 @@
     {
       "nombre": "CILANTRO  100  gr",
       "marca": "SM",
-      "precio": 1560,
+      "precio": 1248,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388227/Cilantro-X-100gr-894373_a.jpg?v=639211366197030000",
       "url": "https://tienda.exito.com/cilantro-x-100gr-311546/p",
@@ -1313,7 +1313,7 @@
     {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
       "marca": "COLANTA",
-      "precio": 8800,
+      "precio": 8360,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354827/895557_a.png?v=639252600260070000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
@@ -1324,7 +1324,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 6257,
+      "precio": 5005,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1335,7 +1335,7 @@
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 5821,
+      "precio": 4657,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
