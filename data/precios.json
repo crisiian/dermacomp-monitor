@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-25T03:59:05.581Z",
+  "ultima_actualizacion": "2026-09-25T16:47:54.731Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -15,7 +15,7 @@
     {
       "nombre": "Cerveza Light Sixpack AGUILA LIGHT 1980 ml",
       "marca": "AGUILA LIGHT",
-      "precio": 15520,
+      "precio": 19360,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34384555/Cerveza-Aguila-Light-Lata-Paq-X-6und-330ml-C-u-113968_a.jpg?v=639211334372730000",
       "url": "https://tienda.exito.com/cerveza-aguila-light-lata-paq-x-6und-330ml-c-u-446659/p",
@@ -26,7 +26,7 @@
     {
       "nombre": "Cerveza sixpack lata PILSEN 1980 ml",
       "marca": "PILSEN",
-      "precio": 20050,
+      "precio": 25050,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34928119/Cerveza-sixpack-lata-PILSEN-1980-ml-3042695_a.jpg?v=639232668252030000",
       "url": "https://tienda.exito.com/cerveza-sixpack-lata-pilsen-1980-ml-3024627/p",
@@ -653,7 +653,7 @@
     {
       "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
       "marca": "FRESCAMPO",
-      "precio": 1950,
+      "precio": 1590,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34449964/Lenteja-1121547_a.jpg?v=639213687558930000",
       "url": "https://tienda.exito.com/lenteja-837337/p",
@@ -668,6 +668,17 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34387977/Sal-Refinada-1000-gr-125407_a.jpg?v=639211364472830000",
       "url": "https://tienda.exito.com/sal-refinada-1000-gr-345053/p",
+      "es_mas_barato": false,
+      "grupo_id": "G005",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 3728,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G005",
       "en_grupo": true
@@ -690,17 +701,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34929540/Lomitos-De-Atun-FRESCAMPO-Agua-y-Sal-1105-gr-3804672_a.jpg?v=639232678873900000",
       "url": "https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-1105-gr-3241101/p",
-      "es_mas_barato": false,
-      "grupo_id": "G005",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 4660,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G005",
       "en_grupo": true
@@ -983,7 +983,7 @@
     {
       "nombre": "Proteina Bipro Classic Polvo",
       "marca": "ELITENUT SAS",
-      "precio": 6250,
+      "precio": 5000,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206095/7707394716526.jpg?v=638839528032100000",
       "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716526/p",
@@ -1126,7 +1126,7 @@
     {
       "nombre": "Engystol Tableta",
       "marca": "HEEL COLOMBIA",
-      "precio": 64260,
+      "precio": 91800,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
@@ -1192,7 +1192,7 @@
     {
       "nombre": "Gaseosa COCA COLA original (1500  ml)",
       "marca": "COCA COLA",
-      "precio": 4936,
+      "precio": 4627,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048635/BEBIDA-GASEOSA-ORIGINAL-1554892_a.jpg?v=639239483611900000",
       "url": "https://tienda.exito.com/bebida-gaseosa-original-316451/p",
@@ -1203,7 +1203,7 @@
     {
       "nombre": "Gaseosa COCA COLA familiar (3000  ml)",
       "marca": "COCA COLA",
-      "precio": 8120,
+      "precio": 7612,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048723/GASEOSA-COCACOLA-COCA-COLA-3000-ml-3133440_a.jpg?v=639239484196100000",
       "url": "https://tienda.exito.com/gaseosa-cocacola-coca-cola-3000-ml-3048038/p",
@@ -1247,7 +1247,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3564,
+      "precio": 2851,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
