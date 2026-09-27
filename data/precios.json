@@ -1,13 +1,13 @@
 {
-  "ultima_actualizacion": "2026-09-26T15:59:26.123Z",
+  "ultima_actualizacion": "2026-09-27T04:17:54.726Z",
   "productos": [
     {
-      "nombre": "Tapabocas Color Negro Empaque Individual Begut",
-      "marca": "SEVEN PHARMA",
-      "precio": 350,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/189737/1000002586112.jpg?v=638274924159930000",
-      "url": "https://www.drogueriascolsubsidio.com/tapabocas-color-negro-empaque-individual-begut-1000002586112/p",
+      "nombre": "Refajo COLA Y POLA lata six pack (1980  ml)",
+      "marca": "COLA Y POLA",
+      "precio": 13260,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34384560/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=639211334421630000",
+      "url": "https://tienda.exito.com/cola-y-pola-lata-sixpack-330ml-c-u-880468/p",
       "es_mas_barato": true,
       "grupo_id": "G000",
       "en_grupo": true
@@ -90,17 +90,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 53900,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "CeraVe Gel Limpiador Espumoso 236 ml",
       "marca": "Cerave",
       "precio": 55960,
@@ -162,17 +151,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/172094/6844-1-CERAVE-LIMPIADOR-ESPUMOSO-REFILL-BELLA-PIEL.jpg?v=638937190081130000",
       "url": "https://www.bellapiel.com.co/cerave--gel-limpiador-espumoso-refill-x-473-ml-6844/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Cerave Loción Hidratante Refill x 473 Ml",
-      "marca": "Cerave",
-      "precio": 67462,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/172089/6848-1-CERAVE-REFILL-LOCION-HIDRATANTE-BELLA-PIEL.jpg?v=638937187938930000",
-      "url": "https://www.bellapiel.com.co/cerave-locion-hidratante-refill-x-473-ml-6848/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -486,6 +464,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Vichy Normaderm Hidratante Doble Corrección x 50Ml",
+      "marca": "Vichy",
+      "precio": 131925,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169998/4834-1-VICHY-NORMADERM-CREMA-HIDRATANTE-DOBLE-CORRECCION-BELLA-PIEL.jpg.jpg?v=638808473417530000",
+      "url": "https://www.bellapiel.com.co/vichy-normaderm-phytosolution-4834/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Mini Serum Genesis Anti-Caída - Kérastase",
       "marca": "Kérastase",
       "precio": 132000,
@@ -525,17 +514,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173722/5582.jpg?v=639257952696770000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-serum-ultra-concentrado-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Kit Cetaphil Crema Hidratante x 453 Gr GRATIS Crema Hidratante x 250 Gr",
-      "marca": "Kits",
-      "precio": 140300,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174033/6827-KIT-CETAPHIL-CREMA-HIDRATANTE-BELLAPIEL.jpg?v=639093514846800000",
-      "url": "https://www.bellapiel.com.co/kit-cetaphil-crema-hidratante-x-453-gr-gratis-crema-hidratante-x-250-gr-6827/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -596,72 +574,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Suero Ácido Salicílico 2% - The Ordinary",
-      "marca": "The Ordinary",
-      "precio": 40000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210715/86FD67C6B70BCD2AF4FF3FAAE62D094E_3b3d93dd-f40c-42f0-9c86-9891e49f471e_769915199581_1-removebg-preview.png?v=639222527041730000",
-      "url": "https://www.medipiel.com.co/suero-acido-salicilico-2-the-ordinary/p",
-      "es_mas_barato": true,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Ácido glicólico 7% Exfoliante - The Ordinary",
-      "marca": "The Ordinary",
-      "precio": 52000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210694/the-ordinary-glycolic-acid-7-exfoliating-toner-100ml.jpg?v=639222507948000000",
-      "url": "https://www.medipiel.com.co/solucion-exfoliante-7-the-ordinary/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Suero Niacinamida 10% - The Ordinary",
-      "marca": "The Ordinary",
-      "precio": 65000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210511/769915195958.webp?v=639221472582230000",
-      "url": "https://www.medipiel.com.co/suero-niacinamida-10-the-ordinary/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Fusion Water SPF 50 - Isdin",
-      "marca": "Isdin",
-      "precio": 106575,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184628/foto-fusion-water-color-light-50-plus-isdin--1-.webp?v=639090307092700000",
-      "url": "https://www.medipiel.com.co/foto-fusion-water-color-light-50-plus-isdin/p",
-      "es_mas_barato": false,
-      "grupo_id": "G002",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Mela B3 Sérum Antimanchas - La Roche-Posay",
-      "marca": "La Roche Posay",
-      "precio": 191030,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
-      "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G003",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Gel Limpiador Espumoso - CeraVe",
-      "marca": "CeraVe",
-      "precio": 83175,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/175978/gel-limpiador-espumoso-cerave.jpg?v=637928088636500000",
-      "url": "https://www.medipiel.com.co/gel-limpiador-espumoso-cerave/p",
-      "es_mas_barato": false,
-      "grupo_id": "G004",
-      "en_grupo": false
-    },
-    {
       "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
       "marca": "FRESCAMPO",
       "precio": 1590,
@@ -669,18 +581,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34449964/Lenteja-1121547_a.jpg?v=639213687558930000",
       "url": "https://tienda.exito.com/lenteja-837337/p",
       "es_mas_barato": true,
-      "grupo_id": "G005",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
       "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
       "marca": "FRESCAMPO",
-      "precio": 2544,
+      "precio": 3180,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
       "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -691,7 +603,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34929540/Lomitos-De-Atun-FRESCAMPO-Agua-y-Sal-1105-gr-3804672_a.jpg?v=639232678873900000",
       "url": "https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-1105-gr-3241101/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -702,7 +614,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422885/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639211626450870000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-entera-5400-ml-3225371/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -713,7 +625,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422886/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639211626463200000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -724,7 +636,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34868780/Aceite-Vegetal-FRESCAMPO-3000-ml-3257073_a.jpg?v=639227682942930000",
       "url": "https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -735,7 +647,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422884/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639211626441500000",
       "url": "https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -746,8 +658,74 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210780/IMPERDIBLE-SEPTwebp--1-.webp?v=639238650120630000",
       "url": "https://www.medipiel.com.co/imp-agua-termal-crema-ligera-uriage/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G001",
       "en_grupo": true
+    },
+    {
+      "nombre": "Suero Ácido Salicílico 2% - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 40000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210715/86FD67C6B70BCD2AF4FF3FAAE62D094E_3b3d93dd-f40c-42f0-9c86-9891e49f471e_769915199581_1-removebg-preview.png?v=639222527041730000",
+      "url": "https://www.medipiel.com.co/suero-acido-salicilico-2-the-ordinary/p",
+      "es_mas_barato": true,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Ácido glicólico 7% Exfoliante - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 52000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210694/the-ordinary-glycolic-acid-7-exfoliating-toner-100ml.jpg?v=639222507948000000",
+      "url": "https://www.medipiel.com.co/solucion-exfoliante-7-the-ordinary/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Suero Niacinamida 10% - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 65000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210511/769915195958.webp?v=639221472582230000",
+      "url": "https://www.medipiel.com.co/suero-niacinamida-10-the-ordinary/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Fusion Water SPF 50 - Isdin",
+      "marca": "Isdin",
+      "precio": 106575,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184628/foto-fusion-water-color-light-50-plus-isdin--1-.webp?v=639090307092700000",
+      "url": "https://www.medipiel.com.co/foto-fusion-water-color-light-50-plus-isdin/p",
+      "es_mas_barato": false,
+      "grupo_id": "G003",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Mela B3 Sérum Antimanchas - La Roche-Posay",
+      "marca": "La Roche Posay",
+      "precio": 191030,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/244218/mela-b3-serum-antimanchas-la-roche-posay-1.jpg?v=638760951571200000",
+      "url": "https://www.medipiel.com.co/mela-b3-serum-antimanchas-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G004",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Gel Limpiador Espumoso - CeraVe",
+      "marca": "CeraVe",
+      "precio": 83175,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/175978/gel-limpiador-espumoso-cerave.jpg?v=637928088636500000",
+      "url": "https://www.medipiel.com.co/gel-limpiador-espumoso-cerave/p",
+      "es_mas_barato": false,
+      "grupo_id": "G005",
+      "en_grupo": false
     },
     {
       "nombre": "Reparador Labial En Stick 4 Gr - Isdin",
@@ -772,28 +750,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Enalapril 20mg Tableta T.Q",
-      "marca": "TECNOQUIMICAS",
-      "precio": 15100,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/202893/7702057716578_Cara_Frontal_Dimensionada_Con_Contenido_Expuesto_Alta_0.jpg.jpg?v=638748837167930000",
-      "url": "https://www.drogueriascolsubsidio.com/enalapril-20mg-tableta-tq-7702057716578/p",
-      "es_mas_barato": true,
-      "grupo_id": "G007",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Estavit DHA Cápsulas Blandas con Cubierta Entérica",
-      "marca": "PROCAPS",
-      "precio": 108200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212404/7703153045678-2.jpg?v=639211049955770000",
-      "url": "https://www.drogueriascolsubsidio.com/estavit-dha-capsulas-blandas-con-cubierta-enterica-7703153045678/p",
-      "es_mas_barato": false,
-      "grupo_id": "G007",
-      "en_grupo": true
-    },
-    {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
       "precio": 179910,
@@ -802,7 +758,7 @@
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
       "es_mas_barato": false,
       "grupo_id": "G007",
-      "en_grupo": true
+      "en_grupo": false
     },
     {
       "nombre": "Rozelaic Gel",
@@ -827,6 +783,17 @@
       "en_grupo": false
     },
     {
+      "nombre": "Cronoderm Fem Emulsión x 50 Gr",
+      "marca": "Gador",
+      "precio": 64800,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177706/4214-1-CRONODERM-FEM-EMULSION-BELLA-PIEL.jpg?v=639240673900670000",
+      "url": "https://www.bellapiel.com.co/cyliane-emulsion-tubo-x-50g--4214/p",
+      "es_mas_barato": false,
+      "grupo_id": "G010",
+      "en_grupo": false
+    },
+    {
       "nombre": "Synderm Plus Limpieza facial x 300 Ml",
       "marca": "Pharmaderm",
       "precio": 79050,
@@ -834,304 +801,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174357/6980-1-SYNDERM-PLUS-LIMPIEZA-FACIAL-BELLA-PIEL.png?v=639099629371830000",
       "url": "https://www.bellapiel.com.co/pharmaderm-synderm-plus-limpieza-facial-300-ml-6980/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Aguja Pluma Insulina Desechable 32gx4mm Tipo:810 Alfasafe",
-      "marca": "ALFA TRADING",
-      "precio": 550,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/183208/1000002521601.jpg?v=638015292057370000",
-      "url": "https://www.drogueriascolsubsidio.com/aguja-pluma-insulina-desechable-32gx4mm-tipo810-alfasafe-1000002521601/p",
-      "es_mas_barato": true,
       "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Aguja Pluma Insulina Desechable 31gx5mm Tipo:810 Alfasafe",
-      "marca": "ALFA TRADING",
-      "precio": 550,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/183207/1000002521595.jpg?v=638015292045900000",
-      "url": "https://www.drogueriascolsubsidio.com/aguja-pluma-insulina-desechable-31gx5mm-tipo810-alfasafe-1000002521595/p",
-      "es_mas_barato": true,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Jeringa 10ml Con Aguja 21g x 1 1/2 Pulgadas",
-      "marca": "ALFA TRADING",
-      "precio": 550,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/207899/a-7707228361793.jpg?v=638926159048330000",
-      "url": "https://www.drogueriascolsubsidio.com/jeringa-10ml-con-aguja-21g-x-1-12-pulgadas-7707228361793/p",
-      "es_mas_barato": true,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Sonda Nelaton Plastica No12 Desechable",
-      "marca": "SHERLEG",
-      "precio": 700,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159340/7707178250802.jpg?v=637108483223470000",
-      "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-plastica-no12-desechable-7707178250802/p",
-      "es_mas_barato": false,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Sonda Nelaton Plastica No10 Desechable",
-      "marca": "SHERLEG",
-      "precio": 700,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159339/7707178250796.jpg?v=637108483208170000",
-      "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-plastica-no10-desechable-7707178250796/p",
-      "es_mas_barato": false,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Sonda Nelaton Plastica No8 Desechable",
-      "marca": "SHERLEG",
-      "precio": 700,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159338/7707178250789.jpg?v=637108483181900000",
-      "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-plastica-no8-desechable-7707178250789/p",
-      "es_mas_barato": false,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Sonda Nelaton No14",
-      "marca": "SHERLEG",
-      "precio": 1200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159341/7707178250819.jpg?v=637108483239900000",
-      "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-no14-7707178250819/p",
-      "es_mas_barato": false,
-      "grupo_id": "G011",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Solhidrex Polvo Para Solución Oral Cereza",
-      "marca": "LAB INTERNACIONAL DE COLOMNBIA",
-      "precio": 2500,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208381/7707177978639.jpg?v=638933016967230000",
-      "url": "https://www.drogueriascolsubsidio.com/solhidrex-polvo-para-solucion-oral-cereza-7707177978639/p",
-      "es_mas_barato": true,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "SOLHIDREX 20.7G POLVO PARA SOLUCION ORAL UVA",
-      "marca": "LAB INTERNACIONAL DE COLOMNBIA",
-      "precio": 2500,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/194426/7707177974846-2.jpg?v=638361980546770000",
-      "url": "https://www.drogueriascolsubsidio.com/solhidrex-207g-polvo-para-solucion-oral-uva-7707177974846/p",
-      "es_mas_barato": true,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Solución Salina 0.9 %",
-      "marca": "BAXTER",
-      "precio": 4600,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159277/7707141349298.jpg?v=637108481649100000",
-      "url": "https://www.drogueriascolsubsidio.com/solucion-salina-09--7707141349298/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Proteina Bipro Classic Polvo",
-      "marca": "ELITENUT SAS",
-      "precio": 5000,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206095/7707394716526.jpg?v=638839528032100000",
-      "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716526/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Electrolit Solución Oral Maracuya",
-      "marca": "PISA FARMACEUTICA",
-      "precio": 8650,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211112/ZA_224_Electrolit-Colombia-Hero IMG-08.jpg?v=639083233040370000",
-      "url": "https://www.drogueriascolsubsidio.com/electrolit-solucion-oral-maracuya-7501125184864/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Wegovy 0.25Mg/Dosis (0.68Mg/Ml) Solucion inyectable",
-      "marca": "NOVO NORDISK",
-      "precio": 157200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211049/Wegovy-0.25-MG-Frontal-lateral-D-.jpg?v=639074799186130000",
-      "url": "https://www.drogueriascolsubsidio.com/wegovy-025mgdosis-068mgml-solucion-inyectable-7709323347528/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Wegovy 0.5Mg/Dosis (1.34Mg/Ml) Solucion Inyectable",
-      "marca": "NOVO NORDISK",
-      "precio": 274500,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211050/Wegovy-0.5-MG-Frontal-lateral-D.jpg?v=639075643299770000",
-      "url": "https://www.drogueriascolsubsidio.com/wegovy-05mgdosis-134mgml-solucion-inyectable-7709837877900/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Gasa No Tejida Esteril 7.5cmx7.5cm",
-      "marca": "MEDICAL SUPPLIES CORP SAS",
-      "precio": 450,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/190146/7707364808558.jpg?v=638274933790030000",
-      "url": "https://www.drogueriascolsubsidio.com/gasa-no-tejida-esteril-75cmx75cm-7707364808558/p",
-      "es_mas_barato": true,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Gasa Esteril 7.5cmx7.5cm Tejida",
-      "marca": "MEDICAL SUPPLIES CORP SAS",
-      "precio": 650,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/190140/7707364805175.jpg?v=638274933740270000",
-      "url": "https://www.drogueriascolsubsidio.com/gasa-esteril-75cmx75cm-tejida-7707364805175/p",
-      "es_mas_barato": false,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Gasa Esteril No Tejida 10Cm X 10Cm Medical Supplies",
-      "marca": "MEDICAL SUPPLIES CORP SAS",
-      "precio": 700,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200460/7707364806516.jpg?v=638659859927470000",
-      "url": "https://www.drogueriascolsubsidio.com/gasa-esteril-no-tejida-10cm-x-10cm-medical-supplies-7707364806516/p",
-      "es_mas_barato": false,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Acetaminofen 500 Mg Tableta La Sante",
-      "marca": "LA SANTE",
-      "precio": 1720,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203293/7703763190119.jpg.jpg?v=638760084737600000",
-      "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-la-sante-7703763190119/p",
-      "es_mas_barato": true,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Acetaminofen 500 Mg Tableta Genfar",
-      "marca": "GENFAR",
-      "precio": 2140,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/161219/7702605100019.jpg?v=637115844571530000",
-      "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-genfar-7702605100019/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mieltertos Mentol Tableta Masticable",
-      "marca": "NATURAL FRESHLY",
-      "precio": 2550,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/205776/7707232095752-1.jpg.jpg?v=638830083803830000",
-      "url": "https://www.drogueriascolsubsidio.com/mieltertos-mentol-tableta-masticable-7707232095752/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Vitamina C Tableta Masticable Naranja",
-      "marca": "LA SANTE",
-      "precio": 4756,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214714/7703763750115.jpg?v=639253522859000000",
-      "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Dolex Avanzado 500 Mg Tableta Recubierta",
-      "marca": "HALEON COLOMBIA SAS",
-      "precio": 9495,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212307/7707397791490_1.jpg?v=639198937850500000",
-      "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Diosmina 500 mg Tableta Recubierta Tecnoquímicas",
-      "marca": "TECNOQUIMICAS",
-      "precio": 26750,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/164648/7702057075231.jpg?v=637244714903270000",
-      "url": "https://www.drogueriascolsubsidio.com/diosmina-500mg-tableta-recubierta-tecnoquimicas-7702057075231/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Engystol Tableta",
-      "marca": "HEEL COLOMBIA",
-      "precio": 91800,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
-      "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Jeringa 1ml Medispro",
-      "marca": "PROTEX",
-      "precio": 300,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206561/7707270361208.jpg?v=638853396810470000",
-      "url": "https://www.drogueriascolsubsidio.com/jeringa-1ml-medispro-7707270361208/p",
-      "es_mas_barato": false,
-      "grupo_id": "G015",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Chocolatina Jet Leche X 11 Gramos",
-      "marca": "NUTRESA",
-      "precio": 1000,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/204647/7702007080476---1.jpg.jpg?v=638802609890430000",
-      "url": "https://www.drogueriascolsubsidio.com/chocolatina-jet-leche-x-11-gramos-7702007080476/p",
-      "es_mas_barato": false,
-      "grupo_id": "G016",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Pañitos Humedos Pequeñin Manzanilla x 80 Und",
-      "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 5200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
-      "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
-      "es_mas_barato": false,
-      "grupo_id": "G017",
       "en_grupo": false
     },
     {
@@ -1142,29 +812,29 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34325455/BOLSA-PAPEL-EXITO-1921293_a.jpg?v=639211216155530000",
       "url": "https://tienda.exito.com/bolsa-papel-exito-1060765/p",
       "es_mas_barato": false,
-      "grupo_id": "G018",
+      "grupo_id": "G012",
       "en_grupo": false
     },
     {
       "nombre": "Gaseosa COCA COLA original (1500  ml)",
       "marca": "COCA COLA",
-      "precio": 5025,
+      "precio": 4627,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048635/BEBIDA-GASEOSA-ORIGINAL-1554892_a.jpg?v=639239483611900000",
       "url": "https://tienda.exito.com/bebida-gaseosa-original-316451/p",
       "es_mas_barato": true,
-      "grupo_id": "G019",
+      "grupo_id": "G013",
       "en_grupo": true
     },
     {
       "nombre": "Gaseosa COCA COLA familiar (3000  ml)",
       "marca": "COCA COLA",
-      "precio": 7612,
+      "precio": 7725,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048723/GASEOSA-COCACOLA-COCA-COLA-3000-ml-3133440_a.jpg?v=639239484196100000",
       "url": "https://tienda.exito.com/gaseosa-cocacola-coca-cola-3000-ml-3048038/p",
       "es_mas_barato": false,
-      "grupo_id": "G019",
+      "grupo_id": "G013",
       "en_grupo": true
     },
     {
@@ -1175,7 +845,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35372294/Of-Soda-Pague-9-Lleve-12-1443507_a.jpg?v=639256164154200000",
       "url": "https://tienda.exito.com/of-soda-pague-9-lleve-12-365350/p",
       "es_mas_barato": false,
-      "grupo_id": "G020",
+      "grupo_id": "G014",
       "en_grupo": false
     },
     {
@@ -1186,51 +856,29 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34391009/TOMATE-CHONTO-UNIDAD-639051_a.jpg?v=639213850204630000",
       "url": "https://tienda.exito.com/tomate-chonto-unidad-937107/p",
       "es_mas_barato": false,
-      "grupo_id": "G021",
+      "grupo_id": "G015",
       "en_grupo": false
     },
     {
       "nombre": "Carne de cerdo  económica",
       "marca": "SM",
-      "precio": 12460,
+      "precio": 17800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354746/BRAZO-CERDO-860794_a.jpg?v=639252564191600000",
       "url": "https://tienda.exito.com/brazo-cerdo-487141/p",
       "es_mas_barato": true,
-      "grupo_id": "G022",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Lomo de cerdo o cañón  congelado porcionado",
-      "marca": "SM",
-      "precio": 16786,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
-      "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
-      "es_mas_barato": false,
-      "grupo_id": "G022",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Lomo de cerdo o cañón  fresco",
-      "marca": "SM",
-      "precio": 17486,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33730092/LOMO-CERDO-855053_a.jpg?v=639168892636700000",
-      "url": "https://tienda.exito.com/lomo-cerdo-486966/p",
-      "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G016",
       "en_grupo": true
     },
     {
       "nombre": "Costilla de cerdo  fresca",
       "marca": "SM",
-      "precio": 18186,
+      "precio": 25980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681616/COSTILLA-CERDO-875493_a.jpg?v=639252559794030000",
       "url": "https://tienda.exito.com/costilla-cerdo-487824/p",
       "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G016",
       "en_grupo": true
     },
     {
@@ -1241,7 +889,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G016",
       "en_grupo": true
     },
     {
@@ -1252,7 +900,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33682786/Muslo-Pollo-Blanco-Und-Marinad-PROMOCION-1-und-1037525_a.jpg?v=639166339410700000",
       "url": "https://tienda.exito.com/muslo-pollo-blanco-und-marinad-promocion-1-und-744667/p",
       "es_mas_barato": true,
-      "grupo_id": "G023",
+      "grupo_id": "G017",
       "en_grupo": true
     },
     {
@@ -1263,18 +911,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34464312/Harina-Pan-Maiz-Blanca-X-1000-gr-200963_a.jpg?v=639213808726770000",
       "url": "https://tienda.exito.com/harina-pan-maiz-blanca-x-1000-gr-370181/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G017",
       "en_grupo": true
     },
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2534,
+      "precio": 3168,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G018",
       "en_grupo": false
     },
     {
@@ -1285,7 +933,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461814/Galletas-DUCALES-DUCALES-TC-X-8-700GR-700-gr-3640324_a.jpg?v=639213782193570000",
       "url": "https://tienda.exito.com/galletas-ducales-ducales-tc-x-8-700gr-700-gr-3197630/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G019",
       "en_grupo": false
     },
     {
@@ -1296,7 +944,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29217500/Jabon-EKONO-Fresh-75-gr-3633779_a.jpg?v=638888085107670000",
       "url": "https://tienda.exito.com/jabon-ekono-fresh-75-gr-3194759/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G020",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Chocolate CORONA tradicional pastillado (450  gr)",
+      "marca": "CORONA",
+      "precio": 13100,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461754/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639213781790770000",
+      "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
+      "es_mas_barato": false,
+      "grupo_id": "G021",
       "en_grupo": false
     },
     {
@@ -1307,7 +966,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388482/Banano-Unidad-639180_a.jpg?v=639211368715900000",
       "url": "https://tienda.exito.com/banano-unidad-937109/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G022",
       "en_grupo": false
     },
     {
@@ -1318,7 +977,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34883352/PLATANO-UNIDAD-639142_a.jpg?v=639228497154530000",
       "url": "https://tienda.exito.com/platano-unidad-937108/p",
       "es_mas_barato": false,
-      "grupo_id": "G028",
+      "grupo_id": "G023",
       "en_grupo": false
     },
     {
@@ -1329,7 +988,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386495/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639211352678270000",
       "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G024",
       "en_grupo": false
     },
     {
@@ -1340,7 +999,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34932511/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639232709301970000",
       "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
       "es_mas_barato": true,
-      "grupo_id": "G030",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1351,7 +1010,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34932559/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639232709732200000",
       "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1362,7 +1021,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34463295/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639213805292830000",
       "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G026",
       "en_grupo": false
     }
   ]
