@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-27T16:36:19.522Z",
+  "ultima_actualizacion": "2026-09-28T04:18:57.791Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -9,17 +9,6 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/189737/1000002586112.jpg?v=638274924159930000",
       "url": "https://www.drogueriascolsubsidio.com/tapabocas-color-negro-empaque-individual-begut-1000002586112/p",
       "es_mas_barato": true,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Refajo COLA Y POLA lata six pack (1980  ml)",
-      "marca": "COLA Y POLA",
-      "precio": 13260,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34384560/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=639211334421630000",
-      "url": "https://tienda.exito.com/cola-y-pola-lata-sixpack-330ml-c-u-880468/p",
-      "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
     },
@@ -52,17 +41,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34462071/Cerveza-Pok-Pacx12-POKER-Poker-Lata-330-ml-3691043_a.jpg?v=639213784216670000",
       "url": "https://tienda.exito.com/cerveza-pok-pacx12-poker-poker-lata-330-ml-3210026/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mini Mascarilla Reparación Ultimate Repair – Wella Professionals",
-      "marca": "Wella Professionals",
-      "precio": 40380,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2216262/6c0fde1f-ceaf-471c-bf2d-ce9cb6a69f37.webp?v=639244933677870000",
-      "url": "https://www.medipiel.com.co/mini-mascarilla-reparacion-ultimate-repair-wella-30ml/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -145,17 +123,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Loción Hidratante de Rostro - CeraVe",
-      "marca": "CeraVe",
-      "precio": 59925,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235566/locion-hidratante-de-rostro-cerave.png.png?v=638755932224270000",
-      "url": "https://www.medipiel.com.co/locion-hidratante-de-rostro-cerave/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "CeraVe Gel Crema Hidratante Oil Control x 52Ml",
       "marca": "Cerave",
       "precio": 59962,
@@ -173,6 +140,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/172094/6844-1-CERAVE-LIMPIADOR-ESPUMOSO-REFILL-BELLA-PIEL.jpg?v=638937190081130000",
       "url": "https://www.bellapiel.com.co/cerave--gel-limpiador-espumoso-refill-x-473-ml-6844/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Cerave Loción Hidratante Refill x 473 Ml",
+      "marca": "Cerave",
+      "precio": 67462,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/172089/6848-1-CERAVE-REFILL-LOCION-HIDRATANTE-BELLA-PIEL.jpg?v=638937187938930000",
+      "url": "https://www.bellapiel.com.co/cerave-locion-hidratante-refill-x-473-ml-6848/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -475,23 +453,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Gel limpiador Effaclar + M - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 130130,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235631/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay-400-ml.jpg.jpg?v=638755942151170000",
+      "url": "https://www.medipiel.com.co/gel-limpiador-facial-piel-grasa-effaclar-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Gel Limpiador Effaclar La Roche-Posay 400 ml",
       "marca": "La Roche Posay",
       "precio": 130165,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170212/2439-1-LA-ROCHE-POSAY-EFFACLAR-GEL-PURIFICANTE-BELLA-PIEL.jpg.jpg?v=639257881036470000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-gel-400ml-2439/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Vichy Normaderm Hidratante Doble Corrección x 50Ml",
-      "marca": "Vichy",
-      "precio": 131925,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169998/4834-1-VICHY-NORMADERM-CREMA-HIDRATANTE-DOBLE-CORRECCION-BELLA-PIEL.jpg.jpg?v=638808473417530000",
-      "url": "https://www.bellapiel.com.co/vichy-normaderm-phytosolution-4834/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -596,94 +574,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
-      "marca": "FRESCAMPO",
-      "precio": 1590,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34449964/Lenteja-1121547_a.jpg?v=639213687558930000",
-      "url": "https://tienda.exito.com/lenteja-837337/p",
-      "es_mas_barato": true,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 2544,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Lomitos de atún FRESCAMPO en agua (110.5  gr)",
-      "marca": "FRESCAMPO",
-      "precio": 4440,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34929540/Lomitos-De-Atun-FRESCAMPO-Agua-y-Sal-1105-gr-3804672_a.jpg?v=639232678873900000",
-      "url": "https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-1105-gr-3241101/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche FRESCAMPO entera UHT paquete (5400  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 18540,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422885/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639211626450870000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-5400-ml-3225371/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche deslactosada FRESCAMPO semidescremada UHT paquete (5400  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 19200,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422886/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639211626463200000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Aceite FRESCAMPO vegetal multiusos (3000  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 19990,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34868780/Aceite-Vegetal-FRESCAMPO-3000-ml-3257073_a.jpg?v=639227682942930000",
-      "url": "https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche FRESCAMPO entera UHT maxilitro paquete (6600  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 22600,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422884/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639211626441500000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Imp. Agua Termal Crema Ligera - Uriage",
-      "marca": "Uriage",
-      "precio": 138800,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210780/IMPERDIBLE-SEPTwebp--1-.webp?v=639238650120630000",
-      "url": "https://www.medipiel.com.co/imp-agua-termal-crema-ligera-uriage/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Suero Ácido Salicílico 2% - The Ordinary",
       "marca": "The Ordinary",
       "precio": 40000,
@@ -691,7 +581,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210715/86FD67C6B70BCD2AF4FF3FAAE62D094E_3b3d93dd-f40c-42f0-9c86-9891e49f471e_769915199581_1-removebg-preview.png?v=639222527041730000",
       "url": "https://www.medipiel.com.co/suero-acido-salicilico-2-the-ordinary/p",
       "es_mas_barato": true,
-      "grupo_id": "G002",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -702,7 +592,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210694/the-ordinary-glycolic-acid-7-exfoliating-toner-100ml.jpg?v=639222507948000000",
       "url": "https://www.medipiel.com.co/solucion-exfoliante-7-the-ordinary/p",
       "es_mas_barato": false,
-      "grupo_id": "G002",
+      "grupo_id": "G001",
       "en_grupo": true
     },
     {
@@ -712,6 +602,94 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210511/769915195958.webp?v=639221472582230000",
       "url": "https://www.medipiel.com.co/suero-niacinamida-10-the-ordinary/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Ácido Azelaico 10% - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 73000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210724/8CEF3EDD23F7D0A05585508491FA84CA_224caf9d-0da9-4d7b-b6ab-ed2b3ce400ed_769915195682_1-removebg-preview.png?v=639222528367670000",
+      "url": "https://www.medipiel.com.co/acido-azelaico-10-the-ordinary/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Lenteja FRESCAMPO granos seleccionados  (500  gr)",
+      "marca": "FRESCAMPO",
+      "precio": 1590,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34449964/Lenteja-1121547_a.jpg?v=639213687558930000",
+      "url": "https://tienda.exito.com/lenteja-837337/p",
+      "es_mas_barato": true,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Lomitos de atún FRESCAMPO en agua (110.5  gr)",
+      "marca": "FRESCAMPO",
+      "precio": 4440,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34929540/Lomitos-De-Atun-FRESCAMPO-Agua-y-Sal-1105-gr-3804672_a.jpg?v=639232678873900000",
+      "url": "https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-1105-gr-3241101/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Leche FRESCAMPO entera UHT paquete (5400  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 18540,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422885/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639211626450870000",
+      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-5400-ml-3225371/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Leche deslactosada FRESCAMPO semidescremada UHT paquete (5400  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 19200,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422886/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639211626463200000",
+      "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Aceite FRESCAMPO vegetal multiusos (3000  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 19990,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34868780/Aceite-Vegetal-FRESCAMPO-3000-ml-3257073_a.jpg?v=639227682942930000",
+      "url": "https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Leche FRESCAMPO entera UHT maxilitro paquete (6600  ml)",
+      "marca": "FRESCAMPO",
+      "precio": 22600,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422884/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639211626441500000",
+      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Imp. Agua Termal Crema Ligera - Uriage",
+      "marca": "Uriage",
+      "precio": 138800,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210780/IMPERDIBLE-SEPTwebp--1-.webp?v=639238650120630000",
+      "url": "https://www.medipiel.com.co/imp-agua-termal-crema-ligera-uriage/p",
       "es_mas_barato": false,
       "grupo_id": "G002",
       "en_grupo": true
@@ -981,17 +959,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Wegovy 0.25Mg/Dosis (0.68Mg/Ml) Solucion inyectable",
-      "marca": "NOVO NORDISK",
-      "precio": 157200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211049/Wegovy-0.25-MG-Frontal-lateral-D-.jpg?v=639074799186130000",
-      "url": "https://www.drogueriascolsubsidio.com/wegovy-025mgdosis-068mgml-solucion-inyectable-7709323347528/p",
-      "es_mas_barato": false,
-      "grupo_id": "G013",
-      "en_grupo": true
-    },
-    {
       "nombre": "Wegovy 0.5Mg/Dosis (1.34Mg/Ml) Solucion Inyectable",
       "marca": "NOVO NORDISK",
       "precio": 274500,
@@ -1146,6 +1113,17 @@
       "en_grupo": false
     },
     {
+      "nombre": "Hidraplus 75 Meq Zinc Sabor Manzana",
+      "marca": "TECNOQUIMICAS",
+      "precio": 11250,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/187390/7702057015428.jpg?v=638191799753270000",
+      "url": "https://www.drogueriascolsubsidio.com/hidraplus-75-meq-zinc-sabor-manzana-7702057015428/p",
+      "es_mas_barato": false,
+      "grupo_id": "G019",
+      "en_grupo": false
+    },
+    {
       "nombre": "BOLSA PAPEL EXITO",
       "marca": "SM",
       "precio": 500,
@@ -1153,7 +1131,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34325455/BOLSA-PAPEL-EXITO-1921293_a.jpg?v=639211216155530000",
       "url": "https://tienda.exito.com/bolsa-papel-exito-1060765/p",
       "es_mas_barato": false,
-      "grupo_id": "G019",
+      "grupo_id": "G020",
       "en_grupo": false
     },
     {
@@ -1164,7 +1142,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048635/BEBIDA-GASEOSA-ORIGINAL-1554892_a.jpg?v=639239483611900000",
       "url": "https://tienda.exito.com/bebida-gaseosa-original-316451/p",
       "es_mas_barato": true,
-      "grupo_id": "G020",
+      "grupo_id": "G021",
       "en_grupo": true
     },
     {
@@ -1175,7 +1153,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048723/GASEOSA-COCACOLA-COCA-COLA-3000-ml-3133440_a.jpg?v=639239484196100000",
       "url": "https://tienda.exito.com/gaseosa-cocacola-coca-cola-3000-ml-3048038/p",
       "es_mas_barato": false,
-      "grupo_id": "G020",
+      "grupo_id": "G021",
       "en_grupo": true
     },
     {
@@ -1186,7 +1164,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35372294/Of-Soda-Pague-9-Lleve-12-1443507_a.jpg?v=639256164154200000",
       "url": "https://tienda.exito.com/of-soda-pague-9-lleve-12-365350/p",
       "es_mas_barato": false,
-      "grupo_id": "G021",
+      "grupo_id": "G022",
       "en_grupo": false
     },
     {
@@ -1197,8 +1175,19 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34391009/TOMATE-CHONTO-UNIDAD-639051_a.jpg?v=639213850204630000",
       "url": "https://tienda.exito.com/tomate-chonto-unidad-937107/p",
       "es_mas_barato": false,
-      "grupo_id": "G022",
+      "grupo_id": "G023",
       "en_grupo": false
+    },
+    {
+      "nombre": "Chuleta Económica de Cerdo  económica",
+      "marca": "SM",
+      "precio": 16780,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390649/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639211389992630000",
+      "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
+      "es_mas_barato": true,
+      "grupo_id": "G024",
+      "en_grupo": true
     },
     {
       "nombre": "Carne de cerdo  económica",
@@ -1207,8 +1196,30 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354746/BRAZO-CERDO-860794_a.jpg?v=639252564191600000",
       "url": "https://tienda.exito.com/brazo-cerdo-487141/p",
-      "es_mas_barato": true,
-      "grupo_id": "G023",
+      "es_mas_barato": false,
+      "grupo_id": "G024",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Lomo de cerdo o cañón  congelado porcionado",
+      "marca": "SM",
+      "precio": 23980,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
+      "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
+      "es_mas_barato": false,
+      "grupo_id": "G024",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Lomo de cerdo o cañón  fresco",
+      "marca": "SM",
+      "precio": 24980,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33730092/LOMO-CERDO-855053_a.jpg?v=639168892636700000",
+      "url": "https://tienda.exito.com/lomo-cerdo-486966/p",
+      "es_mas_barato": false,
+      "grupo_id": "G024",
       "en_grupo": true
     },
     {
@@ -1219,7 +1230,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681616/COSTILLA-CERDO-875493_a.jpg?v=639252559794030000",
       "url": "https://tienda.exito.com/costilla-cerdo-487824/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G024",
       "en_grupo": true
     },
     {
@@ -1230,7 +1241,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G024",
       "en_grupo": true
     },
     {
@@ -1241,7 +1252,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33682786/Muslo-Pollo-Blanco-Und-Marinad-PROMOCION-1-und-1037525_a.jpg?v=639166339410700000",
       "url": "https://tienda.exito.com/muslo-pollo-blanco-und-marinad-promocion-1-und-744667/p",
       "es_mas_barato": true,
-      "grupo_id": "G024",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1252,18 +1263,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34464312/Harina-Pan-Maiz-Blanca-X-1000-gr-200963_a.jpg?v=639213808726770000",
       "url": "https://tienda.exito.com/harina-pan-maiz-blanca-x-1000-gr-370181/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2534,
+      "precio": 3168,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G026",
       "en_grupo": false
     },
     {
@@ -1274,7 +1285,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461814/Galletas-DUCALES-DUCALES-TC-X-8-700GR-700-gr-3640324_a.jpg?v=639213782193570000",
       "url": "https://tienda.exito.com/galletas-ducales-ducales-tc-x-8-700gr-700-gr-3197630/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G027",
       "en_grupo": false
     },
     {
@@ -1284,17 +1295,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29217500/Jabon-EKONO-Fresh-75-gr-3633779_a.jpg?v=638888085107670000",
       "url": "https://tienda.exito.com/jabon-ekono-fresh-75-gr-3194759/p",
-      "es_mas_barato": false,
-      "grupo_id": "G027",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Chocolate CORONA tradicional pastillado (450  gr)",
-      "marca": "CORONA",
-      "precio": 13100,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461754/Chocolate-de-mesa-CORONA-TRADICIONAL-PASTILLADO-450-gr-3622642_a.jpg?v=639213781790770000",
-      "url": "https://tienda.exito.com/chocolate-de-mesa-corona-tradicional-pastillado-450-gr-3190994/p",
       "es_mas_barato": false,
       "grupo_id": "G028",
       "en_grupo": false
