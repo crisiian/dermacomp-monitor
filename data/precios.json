@@ -1,17 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-29T17:49:40.393Z",
+  "ultima_actualizacion": "2026-09-30T04:35:45.479Z",
   "productos": [
-    {
-      "nombre": "Tapabocas Color Negro Empaque Individual Begut",
-      "marca": "SEVEN PHARMA",
-      "precio": 350,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/189737/1000002586112.jpg?v=638274924159930000",
-      "url": "https://www.drogueriascolsubsidio.com/tapabocas-color-negro-empaque-individual-begut-1000002586112/p",
-      "es_mas_barato": true,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
     {
       "nombre": "Cerveza Light Sixpack AGUILA LIGHT 1980 ml",
       "marca": "AGUILA LIGHT",
@@ -19,7 +8,7 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35444975/Cerveza-Aguila-Light-Lata-Paq-X-6und-330ml-C-u-113968_a.jpg?v=639259668164370000",
       "url": "https://tienda.exito.com/cerveza-aguila-light-lata-paq-x-6und-330ml-c-u-446659/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G000",
       "en_grupo": true
     },
@@ -41,6 +30,17 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34462071/Cerveza-Pok-Pacx12-POKER-Poker-Lata-330-ml-3691043_a.jpg?v=639213784216670000",
       "url": "https://tienda.exito.com/cerveza-pok-pacx12-poker-poker-lata-330-ml-3210026/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Cicaplast Bálsamo para labios - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 32130,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/174094/cicaplast-labios-la-roche-posay-1.jpg?v=637928073103200000",
+      "url": "https://www.medipiel.com.co/cicaplast-labios-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -74,17 +74,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170131/6225-1-CERAVE-CONTORNO-DE-OJOS-CREMA-REPARADORA-BELLA-PIEL.png.png?v=638808530409070000",
       "url": "https://www.bellapiel.com.co/crema-reparadora-contorno-de-ojos-cerave-14-ml-6225/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 53900,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -530,6 +519,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Minéral 89 - Vichy",
+      "marca": "Vichy",
+      "precio": 158175,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208825/3337875594516-2.jpg?v=639202373104570000",
+      "url": "https://www.medipiel.com.co/mineral-89-vichy/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 172130,
@@ -563,35 +563,13 @@
       "en_grupo": true
     },
     {
-      "nombre": "Kit Luminosidad Sesvitamin C- 5 Serum 30 ml + Gratis Sesvitamin C- Crema 50 ml - Sesderma",
-      "marca": "Sesderma",
-      "precio": 289500,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208628/31149174-1200-auto.jpg?v=639196564485630000",
-      "url": "https://www.medipiel.com.co/kit-luminosidad-sesvitamin-c-5-serum-gratis-sesvitamin-c-crema-sesderma/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Suero Ácido Salicílico 2% - The Ordinary",
-      "marca": "The Ordinary",
-      "precio": 40000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210715/86FD67C6B70BCD2AF4FF3FAAE62D094E_3b3d93dd-f40c-42f0-9c86-9891e49f471e_769915199581_1-removebg-preview.png?v=639222527041730000",
-      "url": "https://www.medipiel.com.co/suero-acido-salicilico-2-the-ordinary/p",
-      "es_mas_barato": true,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Ácido Glicólico 7% Tónico Exfoliante - The Ordinary",
       "marca": "The Ordinary",
       "precio": 52000,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210694/the-ordinary-glycolic-acid-7-exfoliating-toner-100ml.jpg?v=639222507948000000",
       "url": "https://www.medipiel.com.co/solucion-exfoliante-7-the-ordinary/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G001",
       "en_grupo": true
     },
@@ -838,17 +816,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Aguja Pluma Insulina Desechable 31gx5mm Tipo:810 Alfasafe",
-      "marca": "ALFA TRADING",
-      "precio": 550,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/183207/1000002521595.jpg?v=638015292045900000",
-      "url": "https://www.drogueriascolsubsidio.com/aguja-pluma-insulina-desechable-31gx5mm-tipo810-alfasafe-1000002521595/p",
-      "es_mas_barato": true,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
       "nombre": "Sonda Nelaton Plastica No12 Desechable",
       "marca": "SHERLEG",
       "precio": 700,
@@ -888,6 +855,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159341/7707178250819.jpg?v=637108483239900000",
       "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-no14-7707178250819/p",
+      "es_mas_barato": false,
+      "grupo_id": "G012",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ALFASAFE CATÉTER INTRAVENOSO 22GX25MM",
+      "marca": "ALFA TRADING",
+      "precio": 2000,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/196431/7707228362608.jpg?v=638485312620070000",
+      "url": "https://www.drogueriascolsubsidio.com/alfasafe-cateter-intravenoso-22gx25mm-7707228362608/p",
       "es_mas_barato": false,
       "grupo_id": "G012",
       "en_grupo": true
@@ -1003,6 +981,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Gasa No Tejida Esteril 4x4 Pulgadas",
+      "marca": "ALFA TRADING",
+      "precio": 10650,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159632/7707228364619.jpg?v=637109837496030000",
+      "url": "https://www.drogueriascolsubsidio.com/gasa-no-tejida-esteril-4x4x2-cjx12sob-alt-7707228364619-1/p",
+      "es_mas_barato": false,
+      "grupo_id": "G014",
+      "en_grupo": true
+    },
+    {
       "nombre": "Acetaminofen 500 Mg Tableta La Sante",
       "marca": "LA SANTE",
       "precio": 1720,
@@ -1053,6 +1042,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212307/7707397791490_1.jpg?v=639198937850500000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
+      "es_mas_barato": false,
+      "grupo_id": "G015",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Diovan 80 Mg Tableta Recubierta",
+      "marca": "NOVARTIS",
+      "precio": 24100,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211377/DIOVAN 80 COM_FRONTAL.jpg?v=639112728460870000",
+      "url": "https://www.drogueriascolsubsidio.com/diovan-80-mg-tableta-recubierta-7613421179915/p",
       "es_mas_barato": false,
       "grupo_id": "G015",
       "en_grupo": true
@@ -1245,6 +1245,17 @@
       "en_grupo": false
     },
     {
+      "nombre": "Plátano Verde  1  und",
+      "marca": "SM",
+      "precio": 840,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34883352/PLATANO-UNIDAD-639142_a.jpg?v=639228497154530000",
+      "url": "https://tienda.exito.com/platano-unidad-937108/p",
+      "es_mas_barato": false,
+      "grupo_id": "G027",
+      "en_grupo": false
+    },
+    {
       "nombre": "Salchicha ranchera RANCHERA premium x14und (480  gr)",
       "marca": "RANCHERA",
       "precio": 19500,
@@ -1252,7 +1263,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386495/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639211352678270000",
       "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G028",
       "en_grupo": false
     },
     {
@@ -1263,7 +1274,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34932511/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639232709301970000",
       "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
       "es_mas_barato": true,
-      "grupo_id": "G028",
+      "grupo_id": "G029",
       "en_grupo": true
     },
     {
@@ -1274,7 +1285,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34932559/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639232709732200000",
       "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
       "es_mas_barato": false,
-      "grupo_id": "G028",
+      "grupo_id": "G029",
       "en_grupo": true
     },
     {
@@ -1285,7 +1296,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34463295/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639213805292830000",
       "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G030",
       "en_grupo": false
     },
     {
@@ -1296,7 +1307,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G031",
       "en_grupo": false
     },
     {
@@ -1307,7 +1318,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354746/BRAZO-CERDO-860794_a.jpg?v=639252564191600000",
       "url": "https://tienda.exito.com/brazo-cerdo-487141/p",
       "es_mas_barato": true,
-      "grupo_id": "G031",
+      "grupo_id": "G032",
       "en_grupo": true
     },
     {
@@ -1318,7 +1329,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390649/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639211389992630000",
       "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G032",
       "en_grupo": true
     },
     {
@@ -1329,7 +1340,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
       "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G032",
       "en_grupo": true
     },
     {
@@ -1340,7 +1351,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33730092/LOMO-CERDO-855053_a.jpg?v=639168892636700000",
       "url": "https://tienda.exito.com/lomo-cerdo-486966/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G032",
       "en_grupo": true
     },
     {
@@ -1350,17 +1361,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35060495/Toalla-Cocina-Doble-Hoja-X-50-gr-598300_a.jpg?v=639240437064600000",
       "url": "https://tienda.exito.com/toalla-cocina-doble-hoja-x-50-gr-208591/p",
-      "es_mas_barato": false,
-      "grupo_id": "G032",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Cebolla Roja   1  und",
-      "marca": "SM",
-      "precio": 602,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390859/CEBOLLA-ROJA-UNIDAD-1601916_a.jpg?v=639211393464700000",
-      "url": "https://tienda.exito.com/cebolla-roja-unidad-170530/p",
       "es_mas_barato": false,
       "grupo_id": "G033",
       "en_grupo": false
