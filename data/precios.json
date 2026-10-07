@@ -1,17 +1,6 @@
 {
-  "ultima_actualizacion": "2026-10-07T04:55:17.771Z",
+  "ultima_actualizacion": "2026-10-07T18:36:26.135Z",
   "productos": [
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 1918,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388278/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639211366628100000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
-      "es_mas_barato": true,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
     {
       "nombre": "Harina AREPASAN de maíz blanco (1000  gr)",
       "marca": "AREPASAN",
@@ -19,6 +8,17 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34392627/Arepasan-Harina-de-maiz-Blanca-x-1000g-618179_a.jpg?v=639211419283300000",
       "url": "https://tienda.exito.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p",
+      "es_mas_barato": true,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 2740,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35890505/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639269896011270000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -92,7 +92,7 @@
     {
       "nombre": "Mini Sérum 5x Pure Hyalu - LaCabine",
       "marca": "LaCabine",
-      "precio": 45000,
+      "precio": 50000,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082251/mini-serum-5x-pure-hyalu-la-cabine.jpg?v=638860482888000000",
       "url": "https://www.medipiel.com.co/mini-serum-5x-pure-hyalu-la-cabine/p",
@@ -103,7 +103,7 @@
     {
       "nombre": "Mini Sérum Flash Effect - LaCabine",
       "marca": "LaCabine",
-      "precio": 45000,
+      "precio": 50000,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189008/Mini-Serum-Flash-Effect---LaCabine--2-.jpg?v=639204195591830000",
       "url": "https://www.medipiel.com.co/mini-serum-flash-effect-la-cabine/p",
@@ -332,6 +332,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "ISDIN Fusion Water Magic Color Medium",
+      "marca": "Isdin",
+      "precio": 106575,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/168394/4117-1.jpg?v=639113376048870000",
+      "url": "https://www.bellapiel.com.co/fotoprotector-isdin-fusion-water-color-medium-4117/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Anthelios UVMune 400 Anti Manchas - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 107925,
@@ -360,6 +371,17 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2172764/crema-hidratante-cerave.png?v=639003874270570000",
       "url": "https://www.medipiel.com.co/crema-hidratante-cerave/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Isdin Active Unify Color 50 Ml",
+      "marca": "Isdin",
+      "precio": 123840,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177397/3284-3-ISDIN-ACTIVE-UNIFY-COLOR-BELLA-PIEL.jpg?v=639222533698570000",
+      "url": "https://www.bellapiel.com.co/fotoultra-isdin-active-unify-color-fluid-3284/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -431,17 +453,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "ISDIN Fusion Water Magic Color Medium",
-      "marca": "Isdin",
-      "precio": 142100,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/168394/4117-1.jpg?v=639113376048870000",
-      "url": "https://www.bellapiel.com.co/fotoprotector-isdin-fusion-water-color-medium-4117/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Protector Solar Anthelios Age Correct Spf 50 - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 143900,
@@ -475,17 +486,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Protector Solar Isdin Active Unify Color 50 Ml",
-      "marca": "Isdin",
-      "precio": 154800,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177397/3284-3-ISDIN-ACTIVE-UNIFY-COLOR-BELLA-PIEL.jpg?v=639222533698570000",
-      "url": "https://www.bellapiel.com.co/fotoultra-isdin-active-unify-color-fluid-3284/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Shampoo Anticaspa Ds Dercos 390 Ml",
       "marca": "Vichy",
       "precio": 164900,
@@ -508,34 +508,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 172130,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
-      "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Sérum Anti-imperfecciones Effaclar  - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 174900,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/213490/Effaclar-Serum-Ultra-Concentrado-La-Roche-Posay--1-.jpg.jpg?v=638760972064770000",
       "url": "https://www.medipiel.com.co/effaclar-serum-ultra-concentrado-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 184462,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
-      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -585,12 +563,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Serum Facial Antiarrugas Retinol B3 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 218320,
+      "nombre": "Minéral 89 - Vichy",
+      "marca": "Vichy",
+      "precio": 210900,
       "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/174541/suero-anti-edad-retinol-b3-la-roche-posay.jpg?v=637928076793670000",
-      "url": "https://www.medipiel.com.co/serum-facial-antiarrugas-la-roche-posay-retinol-b3/p",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208825/3337875594516-2.jpg?v=639202373104570000",
+      "url": "https://www.medipiel.com.co/mineral-89-vichy/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -607,6 +585,28 @@
       "en_grupo": true
     },
     {
+      "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 245900,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
+      "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 245950,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
+      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Sérum Nutritive 8H Magic Night Nutrición Nocturna Para Cabello Seco - Kérastase",
       "marca": "Kérastase",
       "precio": 259000,
@@ -618,14 +618,14 @@
       "en_grupo": true
     },
     {
-      "nombre": "Suero Ácido Salicílico 2% - The Ordinary",
-      "marca": "The Ordinary",
-      "precio": 40000,
+      "nombre": "Serum Facial Antiarrugas Retinol B3 - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 272900,
       "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210715/86FD67C6B70BCD2AF4FF3FAAE62D094E_3b3d93dd-f40c-42f0-9c86-9891e49f471e_769915199581_1-removebg-preview.png?v=639222527041730000",
-      "url": "https://www.medipiel.com.co/suero-acido-salicilico-2-the-ordinary/p",
-      "es_mas_barato": true,
-      "grupo_id": "G001",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/174541/suero-anti-edad-retinol-b3-la-roche-posay.jpg?v=637928076793670000",
+      "url": "https://www.medipiel.com.co/serum-facial-antiarrugas-la-roche-posay-retinol-b3/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
       "en_grupo": true
     },
     {
@@ -635,7 +635,7 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210511/769915195958.webp?v=639221472582230000",
       "url": "https://www.medipiel.com.co/suero-niacinamida-10-the-ordinary/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G001",
       "en_grupo": true
     },
@@ -664,7 +664,7 @@
     {
       "nombre": "Mini Sérum Eye Contour - LaCabine",
       "marca": "LaCabine",
-      "precio": 45000,
+      "precio": 50000,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189005/Mini-Serum-Eye-Contour---LaCabine--3-.jpg?v=639204201065300000",
       "url": "https://www.medipiel.com.co/mini-serum-eye-contour-la-cabine/p",
@@ -752,7 +752,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 179910,
+      "precio": 159920,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178162/2796-1-PROCAPS-ISOFACE-20MG-X40-CAPS-BELLA-PIEL.jpg?v=639263742590200000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -774,7 +774,7 @@
     {
       "nombre": "Rozelaic Gel 15% x 30 Gr",
       "marca": "Medicamentos",
-      "precio": 98820,
+      "precio": 87840,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178117/2308-1-MEDIHEALTH-ROZELAIC-GEL-30G.webp?v=639262262030000000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
@@ -785,7 +785,7 @@
     {
       "nombre": "Epiduo Gel Crema Peróxido de Benzoilo 30 Gr",
       "marca": "Medicamentos",
-      "precio": 148860,
+      "precio": 132320,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178030/1866-1-GALDERMA-EPIDUO-GEL-CREMA-30GR-BELLA-PIEL.jpg?v=639259535860400000",
       "url": "https://www.bellapiel.com.co/epiduo-gel-1866/p",
@@ -853,7 +853,7 @@
       "marca": "ELITENUT SAS",
       "precio": 6250,
       "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206095/7707394716526.jpg?v=638839528032100000",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216608/7707394716526.jpg?v=639269899009930000",
       "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716526/p",
       "es_mas_barato": false,
       "grupo_id": "G012",
@@ -1016,7 +1016,7 @@
     {
       "nombre": "Acetaminofen 500 Mg Tableta La Sante",
       "marca": "LA SANTE",
-      "precio": 2150,
+      "precio": 2185,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203293/7703763190119.jpg.jpg?v=638760084737600000",
       "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-la-sante-7703763190119/p",
@@ -1159,7 +1159,7 @@
     {
       "nombre": "Tomate Chonto  1  und",
       "marca": "SM",
-      "precio": 658,
+      "precio": 960,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34391009/TOMATE-CHONTO-UNIDAD-639051_a.jpg?v=639213850204630000",
       "url": "https://tienda.exito.com/tomate-chonto-unidad-937107/p",
@@ -1170,7 +1170,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2218,
+      "precio": 3168,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1236,7 +1236,7 @@
     {
       "nombre": "Banano   1  und",
       "marca": "SM",
-      "precio": 448,
+      "precio": 640,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388482/Banano-Unidad-639180_a.jpg?v=639211368715900000",
       "url": "https://tienda.exito.com/banano-unidad-937109/p",
@@ -1247,7 +1247,7 @@
     {
       "nombre": "Plátano Verde  1  und",
       "marca": "SM",
-      "precio": 840,
+      "precio": 1200,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34883352/PLATANO-UNIDAD-639142_a.jpg?v=639228497154530000",
       "url": "https://tienda.exito.com/platano-unidad-937108/p",
