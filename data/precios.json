@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-12T04:56:30.474Z",
+  "ultima_actualizacion": "2026-10-12T21:02:00.123Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -442,6 +442,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Fotoultra Despigmentante Active Unify Fusion Fluid SPF 50+ - Isdin",
+      "marca": "Isdin",
+      "precio": 116100,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210842/8429420160668.jpg?v=639226516223500000",
+      "url": "https://www.medipiel.com.co/foto-ultra-active-unify-fusion-fluid-spf-50-isdin/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Sérum Anti-imperfecciones Effaclar  - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 122430,
@@ -673,17 +684,6 @@
       "en_grupo": false
     },
     {
-      "nombre": "Mini Sérum Eye Contour - LaCabine",
-      "marca": "LaCabine",
-      "precio": 50000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189005/Mini-Serum-Eye-Contour---LaCabine--3-.jpg?v=639204201065300000",
-      "url": "https://www.medipiel.com.co/mini-serum-eye-contour-la-cabine/p",
-      "es_mas_barato": true,
-      "grupo_id": "G003",
-      "en_grupo": true
-    },
-    {
       "nombre": "Mini Sérum 5x Pure Hyalu - LaCabine",
       "marca": "LaCabine",
       "precio": 50000,
@@ -719,7 +719,7 @@
     {
       "nombre": "Enalapril 20mg Tableta T.Q",
       "marca": "TECNOQUIMICAS",
-      "precio": 15950,
+      "precio": 14355,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/202893/7702057716578_Cara_Frontal_Dimensionada_Con_Contenido_Expuesto_Alta_0.jpg.jpg?v=638748837167930000",
       "url": "https://www.drogueriascolsubsidio.com/enalapril-20mg-tableta-tq-7702057716578/p",
@@ -1093,7 +1093,7 @@
     {
       "nombre": "Gaseosa COCA COLA original (1500  ml)",
       "marca": "COCA COLA",
-      "precio": 5025,
+      "precio": 5360,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048635/BEBIDA-GASEOSA-ORIGINAL-1554892_a.jpg?v=639239483611900000",
       "url": "https://tienda.exito.com/bebida-gaseosa-original-316451/p",
@@ -1115,7 +1115,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3168,
+      "precio": 4158,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1181,7 +1181,7 @@
     {
       "nombre": "Banano   1  und",
       "marca": "SM",
-      "precio": 640,
+      "precio": 840,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388482/Banano-Unidad-639180_a.jpg?v=639211368715900000",
       "url": "https://tienda.exito.com/banano-unidad-937109/p",
@@ -1223,23 +1223,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
-      "marca": "KIKES",
-      "precio": 15900,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386923/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639211356189800000",
-      "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
-      "es_mas_barato": false,
-      "grupo_id": "G024",
-      "en_grupo": true
-    },
-    {
       "nombre": "Huevos AA SMN rojo (30  und)..",
       "marca": "SMN",
       "precio": 16500,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34932559/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639263800438430000",
       "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
+      "es_mas_barato": false,
+      "grupo_id": "G024",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
+      "marca": "KIKES",
+      "precio": 24500,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386923/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639211356189800000",
+      "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
       "es_mas_barato": false,
       "grupo_id": "G024",
       "en_grupo": true
@@ -1335,7 +1335,7 @@
     {
       "nombre": "Lomo de cerdo o cañón  fresco",
       "marca": "SM",
-      "precio": 23980,
+      "precio": 24980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33730092/LOMO-CERDO-855053_a.jpg?v=639168892636700000",
       "url": "https://tienda.exito.com/lomo-cerdo-486966/p",
@@ -1357,7 +1357,7 @@
     {
       "nombre": "Milanesa de res  fresca",
       "marca": "SM",
-      "precio": 37980,
+      "precio": 36880,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
