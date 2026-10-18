@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-17T15:10:59.242Z",
+  "ultima_actualizacion": "2026-10-18T03:35:48.615Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -13,23 +13,34 @@
       "en_grupo": true
     },
     {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 1820,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35890505/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639269896011270000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Harina AREPASAN de maíz blanco (1000  gr)",
+      "marca": "AREPASAN",
+      "precio": 2450,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34392627/Arepasan-Harina-de-maiz-Blanca-x-1000g-618179_a.jpg?v=639211419283300000",
+      "url": "https://tienda.exito.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Gaseosa COCA COLA familiar (3000  ml)",
       "marca": "COCA COLA",
       "precio": 8475,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048723/GASEOSA-COCACOLA-COCA-COLA-3000-ml-3133440_a.jpg?v=639239484196100000",
       "url": "https://tienda.exito.com/gaseosa-cocacola-coca-cola-3000-ml-3048038/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Cerveza Light Sixpack AGUILA LIGHT 1980 ml",
-      "marca": "AGUILA LIGHT",
-      "precio": 19280,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35915232/Cerveza-Aguila-Light-Lata-Paq-X-6und-330ml-C-u-113968_a.jpg?v=639270705847170000",
-      "url": "https://tienda.exito.com/cerveza-aguila-light-lata-paq-x-6und-330ml-c-u-446659/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -200,6 +211,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Limpiador Líquido Piel Grasa - Cetaphil",
+      "marca": "Cetaphil",
+      "precio": 84562,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2217117/3499320015530_1.jpg?v=639258573658730000",
+      "url": "https://www.medipiel.com.co/limpiador-piel-grasa-x-473ml-cetaphil/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Cetaphil Limpiador Piel Grasa 473 Ml",
       "marca": "Cetaphil",
       "precio": 84562,
@@ -283,17 +305,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170483/6470-1-LA-ROCHE-POSAY-MELA-B3-LIMPIADOR-BELLA-PIEL.jpg.jpg?v=638808704219700000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-mela-b3-limpiador-antimanchas-200-ml/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Fotoprotector SPF 50 Facial Mist - Isdin",
-      "marca": "Isdin",
-      "precio": 99000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2207892/9f1a4688-430a-4047-a8b7-1cd8dcf9e23b.webp?v=639192134556600000",
-      "url": "https://www.medipiel.com.co/isdin-fotoprotector-facial-mist-spf50-100ml/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -442,6 +453,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Fotoultra Despigmentante Active Unify Fusion Fluid SPF 50+ - Isdin",
+      "marca": "Isdin",
+      "precio": 116100,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210842/8429420160668.jpg?v=639226516223500000",
+      "url": "https://www.medipiel.com.co/foto-ultra-active-unify-fusion-fluid-spf-50-isdin/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Sérum Anti-imperfecciones Effaclar  - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 122430,
@@ -519,6 +541,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Minéral 89 - Vichy",
+      "marca": "Vichy",
+      "precio": 158175,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208825/3337875594516-2.jpg?v=639202373104570000",
+      "url": "https://www.medipiel.com.co/mineral-89-vichy/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Spray en Aceite Absolut Repair 10 en 1 Cabello Dañado - Loreal Professionnel",
       "marca": "L'Oréal Professionnel",
       "precio": 168000,
@@ -536,17 +569,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
       "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 172165,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
-      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -629,6 +651,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Suero Ah 2% + B5 - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 59000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210677/01e0ec7c1c62b6d02bac.png?v=639222501928330000",
+      "url": "https://www.medipiel.com.co/suero-ah-2-b5-the-ordinary/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
       "nombre": "Suero Niacinamida 10% - The Ordinary",
       "marca": "The Ordinary",
       "precio": 65000,
@@ -640,6 +673,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Fusion Water SPF 50 - Isdin 50ml",
+      "marca": "Isdin",
+      "precio": 106575,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184628/foto-fusion-water-color-light-50-plus-isdin--1-.webp?v=639090307092700000",
+      "url": "https://www.medipiel.com.co/foto-fusion-water-color-light-50-plus-isdin/p",
+      "es_mas_barato": false,
+      "grupo_id": "G002",
+      "en_grupo": false
+    },
+    {
       "nombre": "Detergente en polvo FAB ultra flash (4000  gr)",
       "marca": "FAB",
       "precio": 35887,
@@ -647,29 +691,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34409813/Detergente-Pvo-Ultra-FAB-4000-gr-3430342_a.jpg?v=639211543792870000",
       "url": "https://tienda.exito.com/detergente-pvo-ultra-fab-4000-gr-3134947/p",
       "es_mas_barato": true,
-      "grupo_id": "G002",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mini Sérum Eye Contour - LaCabine",
-      "marca": "LaCabine",
-      "precio": 50000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189005/Mini-Serum-Eye-Contour---LaCabine--3-.jpg?v=639204201065300000",
-      "url": "https://www.medipiel.com.co/mini-serum-eye-contour-la-cabine/p",
-      "es_mas_barato": false,
-      "grupo_id": "G002",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Mini Sérum 5x Pure Hyalu - LaCabine",
-      "marca": "LaCabine",
-      "precio": 50000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082251/mini-serum-5x-pure-hyalu-la-cabine.jpg?v=638860482888000000",
-      "url": "https://www.medipiel.com.co/mini-serum-5x-pure-hyalu-la-cabine/p",
-      "es_mas_barato": false,
-      "grupo_id": "G002",
+      "grupo_id": "G003",
       "en_grupo": true
     },
     {
@@ -680,19 +702,8 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189008/Mini-Serum-Flash-Effect---LaCabine--2-.jpg?v=639204195591830000",
       "url": "https://www.medipiel.com.co/mini-serum-flash-effect-la-cabine/p",
       "es_mas_barato": false,
-      "grupo_id": "G002",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Fusion Water SPF 50 - Isdin 50ml",
-      "marca": "Isdin",
-      "precio": 106575,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2184628/foto-fusion-water-color-light-50-plus-isdin--1-.webp?v=639090307092700000",
-      "url": "https://www.medipiel.com.co/foto-fusion-water-color-light-50-plus-isdin/p",
-      "es_mas_barato": false,
       "grupo_id": "G003",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "Gel Limpiador Espumoso - CeraVe",
@@ -1115,7 +1126,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2772,
+      "precio": 3465,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1168,17 +1179,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Galletas DUCALES x8 tacos (700  gr)",
-      "marca": "DUCALES",
-      "precio": 18950,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461814/Galletas-DUCALES-DUCALES-TC-X-8-700GR-700-gr-3640324_a.jpg?v=639213782193570000",
-      "url": "https://tienda.exito.com/galletas-ducales-ducales-tc-x-8-700gr-700-gr-3197630/p",
-      "es_mas_barato": false,
-      "grupo_id": "G022",
-      "en_grupo": false
-    },
-    {
       "nombre": "Café LA BASTILLA fuerte (390  gr)",
       "marca": "LA BASTILLA",
       "precio": 13000,
@@ -1186,7 +1186,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34926451/Cafe-Fuerte-LA-BASTILLA-390-gr-3511176_a.jpg?v=639232626895400000",
       "url": "https://tienda.exito.com/cafe-fuerte-la-bastilla-390-gr-3155086/p",
       "es_mas_barato": false,
-      "grupo_id": "G023",
+      "grupo_id": "G022",
       "en_grupo": false
     },
     {
@@ -1197,18 +1197,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34388482/Banano-Unidad-639180_a.jpg?v=639211368715900000",
       "url": "https://tienda.exito.com/banano-unidad-937109/p",
       "es_mas_barato": false,
-      "grupo_id": "G024",
+      "grupo_id": "G023",
       "en_grupo": false
     },
     {
       "nombre": "Tomate Chonto  1  und",
       "marca": "SM",
-      "precio": 880,
+      "precio": 1040,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34391009/TOMATE-CHONTO-UNIDAD-639051_a.jpg?v=639213850204630000",
       "url": "https://tienda.exito.com/tomate-chonto-unidad-937107/p",
       "es_mas_barato": false,
-      "grupo_id": "G025",
+      "grupo_id": "G024",
       "en_grupo": false
     },
     {
@@ -1219,7 +1219,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386926/Huevo-Rojo-Aaa-15und-Pet-1232624_a.jpg?v=639211356212200000",
       "url": "https://tienda.exito.com/huevo-rojo-aaa-15und-pet-895234/p",
       "es_mas_barato": true,
-      "grupo_id": "G026",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1230,18 +1230,29 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34932511/Huevo-Rojo-A-X-30-Insuperable-1032680_a.jpg?v=639232709301970000",
       "url": "https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
       "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
       "marca": "KIKES",
-      "precio": 18300,
+      "precio": 17150,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386923/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639211356189800000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
       "es_mas_barato": false,
-      "grupo_id": "G026",
+      "grupo_id": "G025",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Huevos AA SMN rojo (30  und)..",
+      "marca": "SMN",
+      "precio": 17500,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34932559/AA-ROJO-DE-30-AMARR-AVICOLA-TRIPLE-A-30-und-429693_a.jpg?v=639263800438430000",
+      "url": "https://tienda.exito.com/aa-rojo-de-30-amarr-avicola-triple-a-30-und-662450/p",
+      "es_mas_barato": false,
+      "grupo_id": "G025",
       "en_grupo": true
     },
     {
@@ -1252,30 +1263,19 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386495/Salchicha-Ranchera-X-480-G-1047205_a.jpg?v=639211352678270000",
       "url": "https://tienda.exito.com/salchicha-ranchera-x-480-g-749935/p",
       "es_mas_barato": false,
-      "grupo_id": "G027",
+      "grupo_id": "G026",
       "en_grupo": false
     },
     {
-      "nombre": "Harina AREPASAN de maíz blanco (1000  gr)",
-      "marca": "AREPASAN",
-      "precio": 2450,
+      "nombre": "Muslo Pollo Blanco Und Marinad PROMOCION 1  und",
+      "marca": "PROMOCION",
+      "precio": 1000,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34392627/Arepasan-Harina-de-maiz-Blanca-x-1000g-618179_a.jpg?v=639211419283300000",
-      "url": "https://tienda.exito.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p",
-      "es_mas_barato": true,
-      "grupo_id": "G028",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Arroz ROA blanco fortiplus (5000  gr)",
-      "marca": "ROA",
-      "precio": 16720,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34385878/Arroz-Fortificado-Roa-Bolsa-X-5000g-722262_a.jpg?v=639211346672470000",
-      "url": "https://tienda.exito.com/arroz-fortificado-roa-bolsa-x-5000g-477380/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33682786/Muslo-Pollo-Blanco-Und-Marinad-PROMOCION-1-und-1037525_a.jpg?v=639166339410700000",
+      "url": "https://tienda.exito.com/muslo-pollo-blanco-und-marinad-promocion-1-und-744667/p",
       "es_mas_barato": false,
-      "grupo_id": "G028",
-      "en_grupo": true
+      "grupo_id": "G027",
+      "en_grupo": false
     },
     {
       "nombre": "Toallitas húmedas PERSONAL CHOICE MARCA EXCLUSIV aloe vera (72  und)",
@@ -1285,19 +1285,8 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34463295/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639213805292830000",
       "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G028",
       "en_grupo": false
-    },
-    {
-      "nombre": "Chuleta Económica de Cerdo  económica",
-      "marca": "SM",
-      "precio": 16780,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390649/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639211389992630000",
-      "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
-      "es_mas_barato": true,
-      "grupo_id": "G030",
-      "en_grupo": true
     },
     {
       "nombre": "Carne de cerdo  económica",
@@ -1306,8 +1295,8 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354746/BRAZO-CERDO-860794_a.jpg?v=639252564191600000",
       "url": "https://tienda.exito.com/brazo-cerdo-487141/p",
-      "es_mas_barato": false,
-      "grupo_id": "G030",
+      "es_mas_barato": true,
+      "grupo_id": "G029",
       "en_grupo": true
     },
     {
@@ -1318,7 +1307,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36378816/TOCINETA-867994_a.jpg?v=639276731043370000",
       "url": "https://tienda.exito.com/tocineta-487451/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G029",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Pierna de cerdo o milanesa  fresco",
+      "marca": "SM",
+      "precio": 21980,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354745/PIERNA-CERDO-CORRIENTE-824446_a.jpg?v=639252564168670000",
+      "url": "https://tienda.exito.com/pierna-cerdo-corriente-486050/p",
+      "es_mas_barato": false,
+      "grupo_id": "G029",
       "en_grupo": true
     },
     {
@@ -1329,18 +1329,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36378813/LOMO-CERDO-855053_a.jpg?v=639276730988530000",
       "url": "https://tienda.exito.com/lomo-cerdo-486966/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Pierna de cerdo o milanesa  fresco",
-      "marca": "SM",
-      "precio": 26980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354745/PIERNA-CERDO-CORRIENTE-824446_a.jpg?v=639252564168670000",
-      "url": "https://tienda.exito.com/pierna-cerdo-corriente-486050/p",
-      "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G029",
       "en_grupo": true
     },
     {
@@ -1351,7 +1340,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354748/CARNES-ASAR-FREIR-SI-237700_a.jpg?v=639252564234100000",
       "url": "https://tienda.exito.com/carnes-asar-freir-si-498107/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G029",
       "en_grupo": true
     },
     {
@@ -1362,8 +1351,19 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G029",
       "en_grupo": true
+    },
+    {
+      "nombre": "Uva Verde Sin Semilla",
+      "marca": "SM",
+      "precio": 15900,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35890705/Uva-Verde-Sin-Semilla-A-Granel-X-116kg-1753_a.jpg?v=639269899443630000",
+      "url": "https://tienda.exito.com/uva-verde-sin-semilla-a-granel-x-116kg-478735/p",
+      "es_mas_barato": false,
+      "grupo_id": "G030",
+      "en_grupo": false
     }
   ]
 }
