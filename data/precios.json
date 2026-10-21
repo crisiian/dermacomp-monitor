@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-21T03:46:24.557Z",
+  "ultima_actualizacion": "2026-10-21T16:48:29.967Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -741,7 +741,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 179910,
+      "precio": 159920,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178162/2796-1-PROCAPS-ISOFACE-20MG-X40-CAPS-BELLA-PIEL.jpg?v=639263742590200000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -763,7 +763,7 @@
     {
       "nombre": "Rozelaic Gel 15% x 30 Gr",
       "marca": "Medicamentos",
-      "precio": 98820,
+      "precio": 87840,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178117/2308-1-MEDIHEALTH-ROZELAIC-GEL-30G.webp?v=639262262030000000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
@@ -1027,7 +1027,7 @@
     {
       "nombre": "Tio Nacho Shampo Anticanas",
       "marca": "GENOMMA",
-      "precio": 46400,
+      "precio": 37120,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/215742/650240069949.jpg?v=639264825929030000",
       "url": "https://www.drogueriascolsubsidio.com/tio-nacho-shampo-anticanas-650240069949/p",
@@ -1082,7 +1082,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2425,
+      "precio": 2772,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1148,7 +1148,7 @@
     {
       "nombre": "Tomate Chonto  1  und",
       "marca": "SM",
-      "precio": 728,
+      "precio": 1040,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34391009/TOMATE-CHONTO-UNIDAD-639051_a.jpg?v=639213850204630000",
       "url": "https://tienda.exito.com/tomate-chonto-unidad-937107/p",
@@ -1181,7 +1181,7 @@
     {
       "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
       "marca": "KIKES",
-      "precio": 24500,
+      "precio": 18375,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386923/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639211356189800000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
@@ -1225,7 +1225,7 @@
     {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
       "marca": "COLANTA",
-      "precio": 8480,
+      "precio": 8056,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354827/895557_a.png?v=639252600260070000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
@@ -1245,23 +1245,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "Pierna de cerdo o milanesa  fresco",
+      "marca": "SM",
+      "precio": 17584,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354745/PIERNA-CERDO-CORRIENTE-824446_a.jpg?v=639252564168670000",
+      "url": "https://tienda.exito.com/pierna-cerdo-corriente-486050/p",
+      "es_mas_barato": false,
+      "grupo_id": "G027",
+      "en_grupo": true
+    },
+    {
       "nombre": "Carne de cerdo  económica",
       "marca": "SM",
       "precio": 17800,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354746/BRAZO-CERDO-860794_a.jpg?v=639252564191600000",
       "url": "https://tienda.exito.com/brazo-cerdo-487141/p",
-      "es_mas_barato": false,
-      "grupo_id": "G027",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Pierna de cerdo o milanesa  fresco",
-      "marca": "SM",
-      "precio": 21980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354745/PIERNA-CERDO-CORRIENTE-824446_a.jpg?v=639252564168670000",
-      "url": "https://tienda.exito.com/pierna-cerdo-corriente-486050/p",
       "es_mas_barato": false,
       "grupo_id": "G027",
       "en_grupo": true
@@ -1278,6 +1278,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Milanesa de res  fresca",
+      "marca": "SM",
+      "precio": 29504,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
+      "url": "https://tienda.exito.com/milanesa-res-644019/p",
+      "es_mas_barato": false,
+      "grupo_id": "G027",
+      "en_grupo": true
+    },
+    {
       "nombre": "Carne de res asar freír  fresca",
       "marca": "SM",
       "precio": 35980,
@@ -1289,20 +1300,9 @@
       "en_grupo": true
     },
     {
-      "nombre": "Milanesa de res  fresca",
-      "marca": "SM",
-      "precio": 36880,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
-      "url": "https://tienda.exito.com/milanesa-res-644019/p",
-      "es_mas_barato": false,
-      "grupo_id": "G027",
-      "en_grupo": true
-    },
-    {
       "nombre": "Uva Verde Sin Semilla",
       "marca": "SM",
-      "precio": 22260,
+      "precio": 12784,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35890705/Uva-Verde-Sin-Semilla-A-Granel-X-116kg-1753_a.jpg?v=639269899443630000",
       "url": "https://tienda.exito.com/uva-verde-sin-semilla-a-granel-x-116kg-478735/p",
@@ -1324,7 +1324,7 @@
     {
       "nombre": "Manzana Gala   1  und",
       "marca": "SM",
-      "precio": 1148,
+      "precio": 1312,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34389707/Manzana-Gala-Unidad-799070_a.jpg?v=639211383958600000",
       "url": "https://tienda.exito.com/manzana-gala-unidad-200178/p",
@@ -1335,7 +1335,7 @@
     {
       "nombre": "Cebolla Roja   1  und",
       "marca": "SM",
-      "precio": 518,
+      "precio": 740,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390859/CEBOLLA-ROJA-UNIDAD-1601916_a.jpg?v=639211393464700000",
       "url": "https://tienda.exito.com/cebolla-roja-unidad-170530/p",
@@ -1346,7 +1346,7 @@
     {
       "nombre": "Platano Maduro Und  1  und",
       "marca": "SM",
-      "precio": 756,
+      "precio": 1080,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390852/PLATANO-MADURO-UNIDAD-1601907_a.jpg?v=639211393408800000",
       "url": "https://tienda.exito.com/platano-maduro-unidad-170467/p",
@@ -1357,7 +1357,7 @@
     {
       "nombre": "Arandanos (blue berrie)  125  gr",
       "marca": "SM",
-      "precio": 5628,
+      "precio": 8040,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36253826/Arandanos-blue-Berrie-X-125g-918197_a.jpg?v=639272338968700000",
       "url": "https://tienda.exito.com/arandanos-blue-berrie-x-125g-81676/p",
