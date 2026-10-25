@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-25T03:43:28.763Z",
+  "ultima_actualizacion": "2026-10-25T15:43:57.280Z",
   "productos": [
     {
       "nombre": "Tapabocas Desecha Empaqueindiv",
@@ -24,23 +24,23 @@
       "en_grupo": true
     },
     {
+      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
+      "marca": "FRESCAMPO",
+      "precio": 2192,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35890505/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639269896011270000",
+      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Harina AREPASAN de maíz blanco (1000  gr)",
       "marca": "AREPASAN",
       "precio": 2450,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34392627/Arepasan-Harina-de-maiz-Blanca-x-1000g-618179_a.jpg?v=639211419283300000",
       "url": "https://tienda.exito.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "ZANAHORIA FRESCAMPO 1000  gr",
-      "marca": "FRESCAMPO",
-      "precio": 2740,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35890505/Zanahoria-Frescampo-X-1000-gr-1256_a.jpg?v=639269896011270000",
-      "url": "https://tienda.exito.com/zanahoria-frescampo-x-1000-gr-832824/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -609,7 +609,7 @@
     {
       "nombre": "Electrolit Mora Azul Solución Suero Rehidratante",
       "marca": "PISA FARMACEUTICA",
-      "precio": 8650,
+      "precio": 6920,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/215460/7501125184277.jpg?v=639263918288070000",
       "url": "https://www.drogueriascolsubsidio.com/electrolit-mora-azul-solucion-suero-rehidratante-7501125184277/p",
@@ -840,11 +840,11 @@
     {
       "nombre": "SOLHIDREX 20.7G POLVO PARA SOLUCION ORAL UVA",
       "marca": "LAB INTERNACIONAL DE COLOMNBIA",
-      "precio": 2650,
+      "precio": 2120,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/194426/7707177974846-2.jpg?v=638361980546770000",
       "url": "https://www.drogueriascolsubsidio.com/solhidrex-207g-polvo-para-solucion-oral-uva-7707177974846/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G010",
       "en_grupo": true
     },
@@ -1115,7 +1115,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3564,
+      "precio": 2851,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1300,23 +1300,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Milanesa de res  fresca",
-      "marca": "SM",
-      "precio": 24800,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
-      "url": "https://tienda.exito.com/milanesa-res-644019/p",
-      "es_mas_barato": false,
-      "grupo_id": "G026",
-      "en_grupo": true
-    },
-    {
       "nombre": "Tocineta o tocino carnudo  fresca",
       "marca": "SM",
       "precio": 25900,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36378816/TOCINETA-867994_a.jpg?v=639276731043370000",
       "url": "https://tienda.exito.com/tocineta-487451/p",
+      "es_mas_barato": false,
+      "grupo_id": "G026",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Milanesa de res  fresca",
+      "marca": "SM",
+      "precio": 31000,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
+      "url": "https://tienda.exito.com/milanesa-res-644019/p",
       "es_mas_barato": false,
       "grupo_id": "G026",
       "en_grupo": true
@@ -1357,7 +1357,7 @@
     {
       "nombre": "Manzana Gala   1  und",
       "marca": "SM",
-      "precio": 1640,
+      "precio": 1312,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34389707/Manzana-Gala-Unidad-799070_a.jpg?v=639211383958600000",
       "url": "https://tienda.exito.com/manzana-gala-unidad-200178/p",
