@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-27T04:10:05.756Z",
+  "ultima_actualizacion": "2026-10-27T17:39:22.706Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -420,12 +420,34 @@
       "en_grupo": true
     },
     {
+      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 172165,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
+      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Sérum Anti-imperfecciones Effaclar  - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 174900,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/213490/Effaclar-Serum-Ultra-Concentrado-La-Roche-Posay--1-.jpg.jpg?v=638760972064770000",
       "url": "https://www.medipiel.com.co/effaclar-serum-ultra-concentrado-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 184425,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
+      "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -514,28 +536,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171813/6842-1-LA-ROCHE-POSAY-CREMA-ANTI-IMPERFECCIONES-BELLA-PIEL.jpg?v=638926073615030000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-a-z-gel-crema-anti-imperfecciones-x-40-ml-6842/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 245900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
-      "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 245950,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
-      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -1126,7 +1126,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3564,
+      "precio": 2356,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1192,7 +1192,7 @@
     {
       "nombre": "Tomate Chonto  1  und",
       "marca": "SM",
-      "precio": 1020,
+      "precio": 714,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34391009/TOMATE-CHONTO-UNIDAD-639051_a.jpg?v=639213850204630000",
       "url": "https://tienda.exito.com/tomate-chonto-unidad-937107/p",
@@ -1203,7 +1203,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 4039,
+      "precio": 2827,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1247,7 +1247,7 @@
     {
       "nombre": "Carne de cerdo  económica",
       "marca": "SM",
-      "precio": 8250,
+      "precio": 11000,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354746/BRAZO-CERDO-860794_a.jpg?v=639252564191600000",
       "url": "https://tienda.exito.com/brazo-cerdo-487141/p",
@@ -1302,7 +1302,7 @@
     {
       "nombre": "Manzana Gala   1  und",
       "marca": "SM",
-      "precio": 1640,
+      "precio": 1288,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34389707/Manzana-Gala-Unidad-799070_a.jpg?v=639211383958600000",
       "url": "https://tienda.exito.com/manzana-gala-unidad-200178/p",
@@ -1313,7 +1313,7 @@
     {
       "nombre": "Cebolla Roja   1  und",
       "marca": "SM",
-      "precio": 1060,
+      "precio": 742,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390859/CEBOLLA-ROJA-UNIDAD-1601916_a.jpg?v=639211393464700000",
       "url": "https://tienda.exito.com/cebolla-roja-unidad-170530/p",
@@ -1324,7 +1324,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 7841,
+      "precio": 5489,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1335,7 +1335,7 @@
     {
       "nombre": "Platano Maduro Und  1  und",
       "marca": "SM",
-      "precio": 648,
+      "precio": 756,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390852/PLATANO-MADURO-UNIDAD-1601907_a.jpg?v=639211393408800000",
       "url": "https://tienda.exito.com/platano-maduro-unidad-170467/p",
@@ -1357,7 +1357,7 @@
     {
       "nombre": "Arandanos (blue berrie)  125  gr",
       "marca": "SM",
-      "precio": 9380,
+      "precio": 5628,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36253826/Arandanos-blue-Berrie-X-125g-918197_a.jpg?v=639272338968700000",
       "url": "https://tienda.exito.com/arandanos-blue-berrie-x-125g-81676/p",
