@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-29T04:52:03.503Z",
+  "ultima_actualizacion": "2026-10-29T18:10:27.259Z",
   "productos": [
     {
       "nombre": "Jeringa Desechable 5ml Medispro",
@@ -57,6 +57,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
+      "marca": "LOREAL",
+      "precio": 42637,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Cicaplast Baume B5 - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 44212,
@@ -85,17 +96,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170152/6406-1-CERAVE-GEL-LIMPIADOR-ESPUMOSO-PIEL-NORMAL-A-GRASA-BELLA-PIEL.jpg.jpg?v=638808540754170000",
       "url": "https://www.bellapiel.com.co/gel-limpiador-facial-espumoso-para-piel-normal-a-grasa-cerave-236-ml-6406/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 56850,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -774,7 +774,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 159920,
+      "precio": 179910,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178162/2796-1-PROCAPS-ISOFACE-20MG-X40-CAPS-BELLA-PIEL.jpg?v=639263742590200000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -783,23 +783,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Rozelaic Gel 15% x 30 Gr",
-      "marca": "Medicamentos",
-      "precio": 87840,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178117/2308-1-MEDIHEALTH-ROZELAIC-GEL-30G.webp?v=639262262030000000",
-      "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
+      "nombre": "Rozelaic 15% Gel",
+      "marca": "MEGALABS COLOMBIA",
+      "precio": 80962,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212794/7703281000853.jpg?v=639247547987670000",
+      "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
       "es_mas_barato": true,
       "grupo_id": "G007",
       "en_grupo": true
     },
     {
-      "nombre": "Rozelaic 15% Gel",
-      "marca": "MEGALABS COLOMBIA",
-      "precio": 107950,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212794/7703281000853.jpg?v=639247547987670000",
-      "url": "https://www.drogueriascolsubsidio.com/rozelaic-15-gel-7703281000853/p",
+      "nombre": "Rozelaic Gel 15% x 30 Gr",
+      "marca": "Medicamentos",
+      "precio": 98820,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178117/2308-1-MEDIHEALTH-ROZELAIC-GEL-30G.webp?v=639262262030000000",
+      "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
       "es_mas_barato": false,
       "grupo_id": "G007",
       "en_grupo": true
@@ -862,7 +862,7 @@
     {
       "nombre": "Floratil 250 mg Polvo para Suspensión Oral",
       "marca": "AXON PHARMA",
-      "precio": 6610,
+      "precio": 6690,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/179728/7594002621996-3.jpg?v=637889240821630000",
       "url": "https://www.drogueriascolsubsidio.com/floratil-250-mg-polvo-para-suspension-oral-7594002621996/p",
@@ -1016,7 +1016,7 @@
     {
       "nombre": "Diovan 80 Mg Tableta Recubierta",
       "marca": "NOVARTIS",
-      "precio": 24700,
+      "precio": 23400,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211377/DIOVAN 80 COM_FRONTAL.jpg?v=639112728460870000",
       "url": "https://www.drogueriascolsubsidio.com/diovan-80-mg-tableta-recubierta-7613421179915/p",
@@ -1038,7 +1038,7 @@
     {
       "nombre": "Engystol Tableta",
       "marca": "HEEL COLOMBIA",
-      "precio": 93300,
+      "precio": 69975,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
@@ -1049,7 +1049,7 @@
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 63750,
+      "precio": 47812,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
@@ -1093,7 +1093,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3564,
+      "precio": 3663,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1159,7 +1159,7 @@
     {
       "nombre": "Tomate Chonto  1  und",
       "marca": "SM",
-      "precio": 1020,
+      "precio": 900,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34391009/TOMATE-CHONTO-UNIDAD-639051_a.jpg?v=639213850204630000",
       "url": "https://tienda.exito.com/tomate-chonto-unidad-937107/p",
@@ -1170,7 +1170,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 4039,
+      "precio": 3564,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
@@ -1214,7 +1214,7 @@
     {
       "nombre": "Chuleta Económica de Cerdo  económica",
       "marca": "SM",
-      "precio": 11746,
+      "precio": 16780,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390649/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639211389992630000",
       "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
@@ -1269,7 +1269,7 @@
     {
       "nombre": "Uva Verde Sin Semilla",
       "marca": "SM",
-      "precio": 32000,
+      "precio": 32900,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35890705/Uva-Verde-Sin-Semilla-A-Granel-X-116kg-1753_a.jpg?v=639269899443630000",
       "url": "https://tienda.exito.com/uva-verde-sin-semilla-a-granel-x-116kg-478735/p",
@@ -1302,7 +1302,7 @@
     {
       "nombre": "Cebolla Roja   1  und",
       "marca": "SM",
-      "precio": 1060,
+      "precio": 1360,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390859/CEBOLLA-ROJA-UNIDAD-1601916_a.jpg?v=639211393464700000",
       "url": "https://tienda.exito.com/cebolla-roja-unidad-170530/p",
@@ -1357,7 +1357,7 @@
     {
       "nombre": "3 x Aguacate Hass",
       "marca": "SM",
-      "precio": 6653,
+      "precio": 5940,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29608221/Aguacate-Hass.jpg?v=638905460714070000",
       "url": "https://tienda.exito.com/3-x-aguacate-hass/p",
