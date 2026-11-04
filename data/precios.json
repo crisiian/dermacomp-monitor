@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-04T05:20:58.080Z",
+  "ultima_actualizacion": "2026-11-04T19:29:28.887Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -156,17 +156,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Vichy Dercos Refill DS Shampoo Anticaspa 390 Ml",
-      "marca": "Vichy",
-      "precio": 96750,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173135/6404-1-DERCOS-SHAMPOO-ANTICASPA-REFILL-BELLA-PIEL.png?v=639039189257130000",
-      "url": "https://www.bellapiel.com.co/shampoo-anticaspa-dercos-technique-refil-500ml-6404/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Protector Solar Anti Brillo Anthelios Gel toque seco FPS 50+ 50 ml - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 101175,
@@ -305,6 +294,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/167000/6304.jpg?v=638429209368370000",
       "url": "https://www.bellapiel.com.co/shampoo-anticaspa-ds-dercos-390-ml-6304/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Vichy Dercos Refill DS Shampoo Anticaspa 390 Ml",
+      "marca": "Vichy",
+      "precio": 129000,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173135/6404-1-DERCOS-SHAMPOO-ANTICASPA-REFILL-BELLA-PIEL.png?v=639039189257130000",
+      "url": "https://www.bellapiel.com.co/shampoo-anticaspa-dercos-technique-refil-500ml-6404/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -994,7 +994,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 5489,
+      "precio": 7841,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1104,22 +1104,11 @@
     {
       "nombre": "Gaseosa COCA COLA original (1500  ml)",
       "marca": "COCA COLA",
-      "precio": 5212,
+      "precio": 6950,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35048635/BEBIDA-GASEOSA-ORIGINAL-1554892_a.jpg?v=639239483611900000",
       "url": "https://tienda.exito.com/bebida-gaseosa-original-316451/p",
       "es_mas_barato": true,
-      "grupo_id": "G020",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Gaseosa COCA COLA familiar (3000  ml)",
-      "marca": "COCA COLA",
-      "precio": 8475,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36793558/GASEOSA-COCACOLA-COCA-COLA-3000-ml-3133440_a.jpg?v=639291529448300000",
-      "url": "https://tienda.exito.com/gaseosa-cocacola-coca-cola-3000-ml-3048038/p",
-      "es_mas_barato": false,
       "grupo_id": "G020",
       "en_grupo": true
     },
@@ -1130,6 +1119,17 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34462356/Cerveza-COSTENA-Lata-Sixpac-1860-ml-3739284_a.jpg?v=639213786715230000",
       "url": "https://tienda.exito.com/cerveza-costena-lata-sixpac-1860-ml-3222187/p",
+      "es_mas_barato": false,
+      "grupo_id": "G020",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Gaseosa COCA COLA familiar (3000  ml)",
+      "marca": "COCA COLA",
+      "precio": 11300,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36793558/GASEOSA-COCACOLA-COCA-COLA-3000-ml-3133440_a.jpg?v=639291529448300000",
+      "url": "https://tienda.exito.com/gaseosa-cocacola-coca-cola-3000-ml-3048038/p",
       "es_mas_barato": false,
       "grupo_id": "G020",
       "en_grupo": true
@@ -1148,7 +1148,7 @@
     {
       "nombre": "Soda BRETANA botella vidrio x12und  (3600  ml)",
       "marca": "BRETANA",
-      "precio": 23700,
+      "precio": 18960,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35372294/Of-Soda-Pague-9-Lleve-12-1443507_a.jpg?v=639256164154200000",
       "url": "https://tienda.exito.com/of-soda-pague-9-lleve-12-365350/p",
@@ -1159,7 +1159,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2356,
+      "precio": 3663,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1258,7 +1258,7 @@
     {
       "nombre": "Tocineta o tocino carnudo  fresca",
       "marca": "SM",
-      "precio": 25900,
+      "precio": 14480,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36378816/TOCINETA-867994_a.jpg?v=639276731043370000",
       "url": "https://tienda.exito.com/tocineta-487451/p",
@@ -1291,7 +1291,7 @@
     {
       "nombre": "Lomo de cerdo o cañón  congelado porcionado",
       "marca": "SM",
-      "precio": 23980,
+      "precio": 16786,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
       "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
@@ -1302,7 +1302,7 @@
     {
       "nombre": "Cebolla Roja   1  und",
       "marca": "SM",
-      "precio": 952,
+      "precio": 1360,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390859/CEBOLLA-ROJA-UNIDAD-1601916_a.jpg?v=639211393464700000",
       "url": "https://tienda.exito.com/cebolla-roja-unidad-170530/p",
@@ -1313,7 +1313,7 @@
     {
       "nombre": "Platano Maduro Und  1  und",
       "marca": "SM",
-      "precio": 756,
+      "precio": 1980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390852/PLATANO-MADURO-UNIDAD-1601907_a.jpg?v=639211393408800000",
       "url": "https://tienda.exito.com/platano-maduro-unidad-170467/p",
@@ -1335,7 +1335,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 2328,
+      "precio": 3326,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
