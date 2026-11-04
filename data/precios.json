@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-03T19:14:10.320Z",
+  "ultima_actualizacion": "2026-11-04T05:20:58.080Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -123,23 +123,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Cetaphil Limpiador Piel Grasa 473 Ml",
-      "marca": "Cetaphil",
-      "precio": 84562,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177047/6161-1-CETAPHIL-LIMPIADOR-PIEL-GRASA-BELLA-PIEL.jpg?v=639214474635270000",
-      "url": "https://www.bellapiel.com.co/gel-limpiadora-piel-grasa-6161/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Gel Limpiador Espumoso - CeraVe",
       "marca": "CeraVe",
       "precio": 88720,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/175978/gel-limpiador-espumoso-cerave.jpg?v=637928088636500000",
       "url": "https://www.medipiel.com.co/gel-limpiador-espumoso-cerave/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Dercos Shampoo Anticaspa 200 Ml",
+      "marca": "Vichy",
+      "precio": 89520,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/173751/5754.jpg?v=639142121850300000",
+      "url": "https://www.bellapiel.com.co/vichy-dercos-technique-ds-shampoo-anticaspa-normal-a-grasa-200ml-5754/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -184,17 +184,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189798/3337875876407_11.jpg?v=639149674831830000",
       "url": "https://www.medipiel.com.co/refill-effaclar-m-gel-limpiador-pieles-mixtas-a-grasas-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Protector Solar Eucerin Oil Control Sun SPF 50+ 50 Ml",
-      "marca": "Eucerin",
-      "precio": 104580,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166440/1419-Eucerin-Protector-Solar-Facial-Toque-Seco--Fps-50-_1.jpg?v=639041059168430000",
-      "url": "https://www.bellapiel.com.co/eucerin-oil-control-50-ml-1419/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -250,6 +239,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170483/6470-1-LA-ROCHE-POSAY-MELA-B3-LIMPIADOR-BELLA-PIEL.jpg.jpg?v=638808704219700000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-mela-b3-limpiador-antimanchas-200-ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Eucerin Oil Control Sun SPF 50+ 50 Ml",
+      "marca": "Eucerin",
+      "precio": 112050,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/166440/1419-Eucerin-Protector-Solar-Facial-Toque-Seco--Fps-50-_1.jpg?v=639041059168430000",
+      "url": "https://www.bellapiel.com.co/eucerin-oil-control-50-ml-1419/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -409,17 +409,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Protector Solar Anthelios Age Correct Spf 50 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 143900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187052/anthelios-age-sin-color.jpg?v=639104837591870000",
-      "url": "https://www.medipiel.com.co/anthelios-age-correct-spf-50--la-roche-posay-1/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Fotoultra Despigmentante Active Unify Fusion Fluid SPF 50+ - Isdin",
       "marca": "Isdin",
       "precio": 154800,
@@ -442,23 +431,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 172130,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
-      "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Contorno de Ojos ISDIN K-OX: Reduce Ojeras y Bolsas",
       "marca": "Isdin",
       "precio": 181680,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169323/8429420113374-1.png.png?v=638833789665300000",
       "url": "https://www.bellapiel.com.co/isdinceutics-k-ox-eyes-3608/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Pure Vitamin C 12 Serum - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 184425,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/255355/pure-vitamin-c12-oil-c-serum-b-la-roche-posay--1-.jpg.jpg?v=638917537834830000",
+      "url": "https://www.medipiel.com.co/pure-vitamin-c12-oil-c-serum-b-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -574,6 +563,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Suero Cafeína 5% - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 55000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210710/Suero_Cafeina_5__-_The_Ordinary_30ml_1-removebg-preview.png?v=639222519602570000",
+      "url": "https://www.medipiel.com.co/suero-cafeina-5-the-ordinary/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
       "nombre": "Suero Ah 2% + B5 - The Ordinary",
       "marca": "The Ordinary",
       "precio": 59000,
@@ -675,7 +675,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 179910,
+      "precio": 159920,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178162/2796-1-PROCAPS-ISOFACE-20MG-X40-CAPS-BELLA-PIEL.jpg?v=639263742590200000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -686,7 +686,7 @@
     {
       "nombre": "Rozelaic Gel 15% x 30 Gr",
       "marca": "Medicamentos",
-      "precio": 98820,
+      "precio": 87840,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178117/2308-1-MEDIHEALTH-ROZELAIC-GEL-30G.webp?v=639262262030000000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
@@ -719,12 +719,23 @@
     {
       "nombre": "Mega Lcistin Suplemento Dietario Tabletas Recubiertas Caja x 30 Ml",
       "marca": "Dermasiegfried",
-      "precio": 81900,
+      "precio": 57330,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169958/6338-1-MEGA-LCISTIN-SUPLEMENTO-DIETARIO-BELLA-PIEL--1---1---1-.jpg.jpg?v=638799923013930000",
       "url": "https://www.bellapiel.com.co/mega-lcistin-suplemento-dietario-tabletas-recubiertas-caja-x-30ml-6338/p",
       "es_mas_barato": false,
       "grupo_id": "G009",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Pañitos Humedos Pequeñin Manzanilla x 80 Und",
+      "marca": "PRODUCTOS FAMILIA SA",
+      "precio": 5200,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
+      "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
+      "es_mas_barato": false,
+      "grupo_id": "G010",
       "en_grupo": false
     },
     {
@@ -735,7 +746,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159871/7707270361222.jpg?v=637109843601000000",
       "url": "https://www.drogueriascolsubsidio.com/jeringa-desechable-5ml-medispro-7707270361222/p",
       "es_mas_barato": true,
-      "grupo_id": "G010",
+      "grupo_id": "G011",
       "en_grupo": true
     },
     {
@@ -746,7 +757,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208376/7706634040032.jpg?v=638933003736300000",
       "url": "https://www.drogueriascolsubsidio.com/jeringa-insulina-rymco-1ml-27gx12-7706634040032/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
+      "grupo_id": "G011",
       "en_grupo": true
     },
     {
@@ -757,7 +768,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159872/7707270361239.jpg?v=637109843606170000",
       "url": "https://www.drogueriascolsubsidio.com/jeringa-desechable-10ml-medispro-7707270361239/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
+      "grupo_id": "G011",
       "en_grupo": true
     },
     {
@@ -768,7 +779,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159602/7707228361786.jpg?v=637109837262130000",
       "url": "https://www.drogueriascolsubsidio.com/jeringa-5ml-con-aguja-21g-x-1-12-pulgadas-7707228361786/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
+      "grupo_id": "G011",
       "en_grupo": true
     },
     {
@@ -779,7 +790,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/183208/1000002521601.jpg?v=638015292057370000",
       "url": "https://www.drogueriascolsubsidio.com/aguja-pluma-insulina-desechable-32gx4mm-tipo810-alfasafe-1000002521601/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
+      "grupo_id": "G011",
       "en_grupo": true
     },
     {
@@ -790,7 +801,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216253/7707178250802.jpg?v=639268338075300000",
       "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-plastica-no12-desechable-7707178250802/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
+      "grupo_id": "G011",
       "en_grupo": true
     },
     {
@@ -801,19 +812,8 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159339/7707178250796.jpg?v=637108483208170000",
       "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-plastica-no10-desechable-7707178250796/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Pañitos Humedos Pequeñin Manzanilla x 80 Und",
-      "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 5200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
-      "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
-      "es_mas_barato": false,
       "grupo_id": "G011",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "Solhidrex Polvo Para Solución Oral Cereza",
@@ -882,6 +882,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Pedialyte Max 60 Con Zinc Solución Oral Fresa",
+      "marca": "ABBOTT",
+      "precio": 10900,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208256/7501033961557.jpg?v=638929466786230000",
+      "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-solucion-oral-fresa-7501033961557/p",
+      "es_mas_barato": false,
+      "grupo_id": "G012",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pedialyte Max 60 Con Zinc Uva Solución Oral",
       "marca": "ABBOTT",
       "precio": 10900,
@@ -910,28 +921,6 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212310/7707172685778_1.jpg?v=639198946783030000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-150-mg-ninos-jarabe-7707172685778/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Enterogermina Suspensión Oral",
-      "marca": "SANOFI AVENTIS",
-      "precio": 74332,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214868/3582910009900.jpg?v=639256840957230000",
-      "url": "https://www.drogueriascolsubsidio.com/enterogermina-suspension-oral-3582910009900/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Wegovy 0.5Mg/Dosis (1.34Mg/Ml) Solucion Inyectable",
-      "marca": "NOVO NORDISK",
-      "precio": 305000,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216229/7709837877900.jpg?v=639268326341800000",
-      "url": "https://www.drogueriascolsubsidio.com/wegovy-05mgdosis-134mgml-solucion-inyectable-7709837877900/p",
       "es_mas_barato": false,
       "grupo_id": "G012",
       "en_grupo": true
@@ -981,13 +970,24 @@
       "en_grupo": true
     },
     {
+      "nombre": "Gasa Esteril No Tejida 10Cm X 10Cm Medical Supplies",
+      "marca": "MEDICAL SUPPLIES CORP SAS",
+      "precio": 700,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216254/7707364806516.jpg?v=639268339284170000",
+      "url": "https://www.drogueriascolsubsidio.com/gasa-esteril-no-tejida-10cm-x-10cm-medical-supplies-7707364806516/p",
+      "es_mas_barato": true,
+      "grupo_id": "G014",
+      "en_grupo": true
+    },
+    {
       "nombre": "Venda Elástica Blanca 5 Pulgadas x 5 Yd Medical",
       "marca": "MEDICAL SUPPLIES CORP SAS",
       "precio": 2520,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214719/7707364802181.jpg?v=639253524241800000",
       "url": "https://www.drogueriascolsubsidio.com/venda-elastica-blanca-5-pulgadas-x-5-yd-medical-7707364802181/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G014",
       "en_grupo": true
     },
@@ -1091,17 +1091,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Leche ALQUERIA semidescremada deslactosada sixpack (6000  ml)",
-      "marca": "ALQUERIA",
-      "precio": 36050,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34250701/Leche-ALQUERIA-Semidescremada-Deslactosada-Sixpack-6000-ml-3616196_a.jpg?v=639207571557830000",
-      "url": "https://tienda.exito.com/leche-alqueria-semidescremada-deslactosada-sixpack-6000-ml-3188872/p",
-      "es_mas_barato": false,
-      "grupo_id": "G018",
-      "en_grupo": true
-    },
-    {
       "nombre": "Café LA BASTILLA fuerte (390  gr)",
       "marca": "LA BASTILLA",
       "precio": 13000,
@@ -1170,7 +1159,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2495,
+      "precio": 2356,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1295,19 +1284,41 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390649/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639211389992630000",
       "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
+      "es_mas_barato": true,
+      "grupo_id": "G027",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Lomo de cerdo o cañón  congelado porcionado",
+      "marca": "SM",
+      "precio": 23980,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
+      "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
       "es_mas_barato": false,
       "grupo_id": "G027",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Cebolla Roja   1  und",
+      "marca": "SM",
+      "precio": 952,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390859/CEBOLLA-ROJA-UNIDAD-1601916_a.jpg?v=639211393464700000",
+      "url": "https://tienda.exito.com/cebolla-roja-unidad-170530/p",
+      "es_mas_barato": false,
+      "grupo_id": "G028",
       "en_grupo": false
     },
     {
       "nombre": "Platano Maduro Und  1  und",
       "marca": "SM",
-      "precio": 1386,
+      "precio": 756,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390852/PLATANO-MADURO-UNIDAD-1601907_a.jpg?v=639211393408800000",
       "url": "https://tienda.exito.com/platano-maduro-unidad-170467/p",
       "es_mas_barato": false,
-      "grupo_id": "G028",
+      "grupo_id": "G029",
       "en_grupo": false
     },
     {
@@ -1318,18 +1329,18 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354827/895557_a.png?v=639252600260070000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
       "es_mas_barato": false,
-      "grupo_id": "G029",
+      "grupo_id": "G030",
       "en_grupo": false
     },
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 2827,
+      "precio": 2328,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
-      "grupo_id": "G030",
+      "grupo_id": "G031",
       "en_grupo": false
     },
     {
@@ -1340,7 +1351,7 @@
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461900/Caldo-De-Gallina-Desmenuzado-Especias-MAGGI-Especias-Desmenuzado-90-gr-3669641_a.jpg?v=639213782984330000",
       "url": "https://tienda.exito.com/caldo-de-gallina-desmenuzado-especias-maggi-especias-desmenuzado-90-gr-3204662/p",
       "es_mas_barato": false,
-      "grupo_id": "G031",
+      "grupo_id": "G032",
       "en_grupo": false
     },
     {
@@ -1350,17 +1361,6 @@
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29217500/Jabon-EKONO-Fresh-75-gr-3633779_a.jpg?v=638888085107670000",
       "url": "https://tienda.exito.com/jabon-ekono-fresh-75-gr-3194759/p",
-      "es_mas_barato": false,
-      "grupo_id": "G032",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Chocolate LUKER tradicional sin azúcar (224  gr)",
-      "marca": "LUKER",
-      "precio": 13043,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461775/Chocolate-LUKER-Amargo-224-gr-3624959_a.jpg?v=639213781914800000",
-      "url": "https://tienda.exito.com/chocolate-luker-amargo-224-gr-3191910/p",
       "es_mas_barato": false,
       "grupo_id": "G033",
       "en_grupo": false
