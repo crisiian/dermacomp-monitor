@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-05T05:40:57.533Z",
+  "ultima_actualizacion": "2026-11-05T19:39:16.488Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -173,17 +173,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182576/Dercos-DS-Shampoo-Anticaspa-Cabello-Graso-Refill---Vichy--1-.jpg?v=639051338541000000",
       "url": "https://www.medipiel.com.co/dercos-ds-shampoo-anticaspa-cabello-graso-refill-vichy/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Limpiador Control Imperfecciones - CeraVe",
-      "marca": "CeraVe",
-      "precio": 98360,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2182602/Limpiador-Control-Imperfecciones---CeraVe--2-.jpg?v=639053818679070000",
-      "url": "https://www.medipiel.com.co/limpiador-control-imperfecciones-cerave/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -596,13 +585,24 @@
       "en_grupo": false
     },
     {
+      "nombre": "Mini Mascarilla Reparación Ultimate Repair – Wella Professionals",
+      "marca": "Wella Professionals",
+      "precio": 40380,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2216262/6c0fde1f-ceaf-471c-bf2d-ce9cb6a69f37.webp?v=639244933677870000",
+      "url": "https://www.medipiel.com.co/mini-mascarilla-reparacion-ultimate-repair-wella-30ml/p",
+      "es_mas_barato": true,
+      "grupo_id": "G004",
+      "en_grupo": true
+    },
+    {
       "nombre": "Mini Sérum Eye Contour - LaCabine",
       "marca": "LaCabine",
       "precio": 50000,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189005/Mini-Serum-Eye-Contour---LaCabine--3-.jpg?v=639204201065300000",
       "url": "https://www.medipiel.com.co/mini-serum-eye-contour-la-cabine/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G004",
       "en_grupo": true
     },
@@ -613,7 +613,7 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082251/mini-serum-5x-pure-hyalu-la-cabine.jpg?v=638860482888000000",
       "url": "https://www.medipiel.com.co/mini-serum-5x-pure-hyalu-la-cabine/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G004",
       "en_grupo": true
     },
@@ -624,7 +624,7 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189008/Mini-Serum-Flash-Effect---LaCabine--2-.jpg?v=639204195591830000",
       "url": "https://www.medipiel.com.co/mini-serum-flash-effect-la-cabine/p",
-      "es_mas_barato": true,
+      "es_mas_barato": false,
       "grupo_id": "G004",
       "en_grupo": true
     },
@@ -994,7 +994,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 6273,
+      "precio": 7841,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1126,7 +1126,7 @@
     {
       "nombre": "Soda BRETANA botella vidrio x12und  (3600  ml)",
       "marca": "BRETANA",
-      "precio": 18960,
+      "precio": 18400,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35372294/Of-Soda-Pague-9-Lleve-12-1443507_a.jpg?v=639256164154200000",
       "url": "https://tienda.exito.com/of-soda-pague-9-lleve-12-365350/p",
@@ -1137,7 +1137,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2693,
+      "precio": 3366,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1245,12 +1245,12 @@
       "en_grupo": false
     },
     {
-      "nombre": "Tocineta o tocino carnudo  fresca",
+      "nombre": "Chuleta Económica de Cerdo  económica",
       "marca": "SM",
-      "precio": 14480,
+      "precio": 16780,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36378816/TOCINETA-867994_a.jpg?v=639276731043370000",
-      "url": "https://tienda.exito.com/tocineta-487451/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390649/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639211389992630000",
+      "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
       "es_mas_barato": true,
       "grupo_id": "G031",
       "en_grupo": true
@@ -1258,7 +1258,7 @@
     {
       "nombre": "Carne de cerdo  económica",
       "marca": "SM",
-      "precio": 14944,
+      "precio": 18680,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354746/BRAZO-CERDO-860794_a.jpg?v=639252564191600000",
       "url": "https://tienda.exito.com/brazo-cerdo-487141/p",
@@ -1267,12 +1267,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Chuleta Económica de Cerdo  económica",
+      "nombre": "Tocineta o tocino carnudo  fresca",
       "marca": "SM",
-      "precio": 16780,
+      "precio": 19900,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390649/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639211389992630000",
-      "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36378816/TOCINETA-867994_a.jpg?v=639276731043370000",
+      "url": "https://tienda.exito.com/tocineta-487451/p",
       "es_mas_barato": false,
       "grupo_id": "G031",
       "en_grupo": true
@@ -1280,7 +1280,7 @@
     {
       "nombre": "Lomo de cerdo o cañón  congelado porcionado",
       "marca": "SM",
-      "precio": 16786,
+      "precio": 23980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
       "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
@@ -1313,7 +1313,7 @@
     {
       "nombre": "Cebolla Roja   1  und",
       "marca": "SM",
-      "precio": 1360,
+      "precio": 1060,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390859/CEBOLLA-ROJA-UNIDAD-1601916_a.jpg?v=639211393464700000",
       "url": "https://tienda.exito.com/cebolla-roja-unidad-170530/p",
@@ -1346,7 +1346,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 2661,
+      "precio": 3326,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
