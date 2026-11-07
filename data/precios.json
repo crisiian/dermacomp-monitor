@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-06T19:01:02.838Z",
+  "ultima_actualizacion": "2026-11-07T05:07:08.954Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -409,34 +409,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Dercos Serum Anticaida R.E.G.E.N - Vichy",
-      "marca": "Vichy",
-      "precio": 148720,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208809/2182571-1200-auto.webp?v=639199800115230000",
-      "url": "https://www.medipiel.com.co/dercos-serum-anticaida-regen-vichy/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "La Roche Posay Effaclar A-Z Gel Crema Anti-Imperfecciones x 40 Ml",
       "marca": "La Roche Posay",
       "precio": 169462,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/171813/6842-1-LA-ROCHE-POSAY-CREMA-ANTI-IMPERFECCIONES-BELLA-PIEL.jpg?v=638926073615030000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-effaclar-a-z-gel-crema-anti-imperfecciones-x-40-ml-6842/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 184462,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
-      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -552,6 +530,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Suero Ah 2% + B5 - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 59000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210677/01e0ec7c1c62b6d02bac.png?v=639222501928330000",
+      "url": "https://www.medipiel.com.co/suero-ah-2-b5-the-ordinary/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
       "nombre": "Suero Niacinamida 10% - The Ordinary",
       "marca": "The Ordinary",
       "precio": 65000,
@@ -640,6 +629,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Dercos Serum Anticaida R.E.G.E.N - Vichy",
+      "marca": "Vichy",
+      "precio": 148720,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208809/2182571-1200-auto.webp?v=639199800115230000",
+      "url": "https://www.medipiel.com.co/dercos-serum-anticaida-regen-vichy/p",
+      "es_mas_barato": false,
+      "grupo_id": "G004",
+      "en_grupo": true
+    },
+    {
       "nombre": "Base Coverage 30 gr - Isdin",
       "marca": "Isdin",
       "precio": 152200,
@@ -653,7 +653,7 @@
     {
       "nombre": "Estavit DHA Cápsulas Blandas con Cubierta Entérica",
       "marca": "PROCAPS",
-      "precio": 97380,
+      "precio": 108200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212404/7703153045678-2.jpg?v=639211049955770000",
       "url": "https://www.drogueriascolsubsidio.com/estavit-dha-capsulas-blandas-con-cubierta-enterica-7703153045678/p",
@@ -904,17 +904,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Pedialyte Max 60 Con Zinc Manzana Solución Oral",
-      "marca": "ABBOTT",
-      "precio": 10900,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208264/7501033957369.jpg?v=638929469460170000",
-      "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-manzana-solucion-oral-7501033957369/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
       "nombre": "Dolex 2+Niños 3.2% Solución Jarabe",
       "marca": "GLAXO CONSUMER HEALTHCARE",
       "precio": 18350,
@@ -959,9 +948,20 @@
       "en_grupo": true
     },
     {
+      "nombre": "Losartan 50 Mg Tableta Recubierta La Francol",
+      "marca": "LAFRANCOL",
+      "precio": 13850,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200785/7706569001665-LOSARTAN-50-MG-X-15.jpg?v=638665856353000000",
+      "url": "https://www.drogueriascolsubsidio.com/losartan-50-mg-tableta-recubierta-la-francol-7706569001665/p",
+      "es_mas_barato": false,
+      "grupo_id": "G015",
+      "en_grupo": true
+    },
+    {
       "nombre": "Engystol Tableta",
       "marca": "HEEL COLOMBIA",
-      "precio": 83970,
+      "precio": 93300,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
@@ -972,7 +972,7 @@
     {
       "nombre": "Proteina Bipro Classic Polvo",
       "marca": "ELITENUT SAS",
-      "precio": 5000,
+      "precio": 6250,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216608/7707394716526.jpg?v=639269899009930000",
       "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716526/p",
@@ -994,7 +994,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 4910,
+      "precio": 3928,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1016,7 +1016,7 @@
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 57375,
+      "precio": 63750,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
@@ -1102,6 +1102,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Arroz ROA blanco fortiplus (3000  gr)",
+      "marca": "ROA",
+      "precio": 9650,
+      "tienda": "Éxito",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34385880/Arroz-Blanco-Fortificado-X-3000-G-694991_a.jpg?v=639211346683730000",
+      "url": "https://tienda.exito.com/arroz-blanco-fortificado-x-3000-g-480324/p",
+      "es_mas_barato": false,
+      "grupo_id": "G024",
+      "en_grupo": true
+    },
+    {
       "nombre": "Gaseosa COCA COLA familiar (3000  ml)",
       "marca": "COCA COLA",
       "precio": 10150,
@@ -1137,7 +1148,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 3366,
+      "precio": 2693,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1302,7 +1313,7 @@
     {
       "nombre": "Milanesa de res  fresca",
       "marca": "SM",
-      "precio": 36980,
+      "precio": 36940,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
@@ -1311,12 +1322,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Cebolla Roja   1  und",
-      "marca": "SM",
-      "precio": 1060,
+      "nombre": "Toallas de cocina EKONO desechables (50  und)",
+      "marca": "EKONO",
+      "precio": 1750,
       "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390859/CEBOLLA-ROJA-UNIDAD-1601916_a.jpg?v=639211393464700000",
-      "url": "https://tienda.exito.com/cebolla-roja-unidad-170530/p",
+      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35060495/Toalla-Cocina-Doble-Hoja-X-50-gr-598300_a.jpg?v=639240437064600000",
+      "url": "https://tienda.exito.com/toalla-cocina-doble-hoja-x-50-gr-208591/p",
       "es_mas_barato": false,
       "grupo_id": "G031",
       "en_grupo": false
@@ -1335,7 +1346,7 @@
     {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
       "marca": "COLANTA",
-      "precio": 7886,
+      "precio": 8184,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354827/895557_a.png?v=639252600260070000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
@@ -1346,23 +1357,12 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 3326,
+      "precio": 2661,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
       "es_mas_barato": false,
       "grupo_id": "G034",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Jabón de tocador EKONO fresh (75  gr)",
-      "marca": "EKONO",
-      "precio": 300,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29217500/Jabon-EKONO-Fresh-75-gr-3633779_a.jpg?v=638888085107670000",
-      "url": "https://tienda.exito.com/jabon-ekono-fresh-75-gr-3194759/p",
-      "es_mas_barato": false,
-      "grupo_id": "G035",
       "en_grupo": false
     }
   ]
