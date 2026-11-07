@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-07T05:07:08.954Z",
+  "ultima_actualizacion": "2026-11-07T17:34:06.928Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -35,6 +35,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
+      "marca": "LOREAL",
+      "precio": 45480,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Protector Solar Loción Invisible Hidratante Spf50+ - CeraVe",
       "marca": "CeraVe",
       "precio": 47160,
@@ -52,17 +63,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170131/6225-1-CERAVE-CONTORNO-DE-OJOS-CREMA-REPARADORA-BELLA-PIEL.png.png?v=638808530409070000",
       "url": "https://www.bellapiel.com.co/crema-reparadora-contorno-de-ojos-cerave-14-ml-6225/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 51165,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -994,7 +994,7 @@
     {
       "nombre": "4 x Cebolla Blanca o Cabezona",
       "marca": "SM",
-      "precio": 3928,
+      "precio": 4910,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
       "url": "https://tienda.exito.com/4xcebollas/p",
@@ -1005,7 +1005,7 @@
     {
       "nombre": "Protector Solar Sunday Adultos Spf60",
       "marca": "PRONABELL",
-      "precio": 3900,
+      "precio": 3120,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/217053/7707016404466.jpg?v=639281032602400000",
       "url": "https://www.drogueriascolsubsidio.com/protector-solar-sunday-adultos-spf60-7707016404466/p",
@@ -1148,7 +1148,7 @@
     {
       "nombre": "5 x Bananos",
       "marca": "SM",
-      "precio": 2693,
+      "precio": 3366,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
       "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
@@ -1225,7 +1225,7 @@
     {
       "nombre": "Huevos AAA KIKES rojo pet (15  und)",
       "marca": "KIKES",
-      "precio": 14700,
+      "precio": 10250,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386926/Huevo-Rojo-Aaa-15und-Pet-1232624_a.jpg?v=639211356212200000",
       "url": "https://tienda.exito.com/huevo-rojo-aaa-15und-pet-895234/p",
@@ -1236,7 +1236,7 @@
     {
       "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
       "marca": "KIKES",
-      "precio": 18375,
+      "precio": 12862,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386923/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639211356189800000",
       "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
@@ -1313,7 +1313,7 @@
     {
       "nombre": "Milanesa de res  fresca",
       "marca": "SM",
-      "precio": 36940,
+      "precio": 37980,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
       "url": "https://tienda.exito.com/milanesa-res-644019/p",
@@ -1346,7 +1346,7 @@
     {
       "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
       "marca": "COLANTA",
-      "precio": 8184,
+      "precio": 7886,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354827/895557_a.png?v=639252600260070000",
       "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
@@ -1357,7 +1357,7 @@
     {
       "nombre": "4 x Tomates Chonto",
       "marca": "SM",
-      "precio": 2661,
+      "precio": 4039,
       "tienda": "Éxito",
       "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
       "url": "https://tienda.exito.com/4xtomates/p",
