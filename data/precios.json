@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-11T05:12:31.524Z",
+  "ultima_actualizacion": "2026-11-11T19:21:26.605Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -85,17 +85,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/172094/6844-1-CERAVE-LIMPIADOR-ESPUMOSO-REFILL-BELLA-PIEL.jpg?v=638937190081130000",
       "url": "https://www.bellapiel.com.co/cerave--gel-limpiador-espumoso-refill-x-473-ml-6844/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Water Gel Hidratante Facial - CeraVe",
-      "marca": "CeraVe",
-      "precio": 79950,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2206377/3337875952903_1_1000px.jpg?v=639174729548600000",
-      "url": "https://www.medipiel.com.co/water-gel-hidratante-facial-cerave/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -344,7 +333,7 @@
     },
     {
       "nombre": "Kit Cetaphil Crema Hidratante x 453 Gr GRATIS Crema Hidratante x 250 Gr",
-      "marca": "Kits",
+      "marca": "Cetaphil",
       "precio": 140300,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/174033/6827-KIT-CETAPHIL-CREMA-HIDRATANTE-BELLAPIEL.jpg?v=639093514846800000",
@@ -422,7 +411,7 @@
     {
       "nombre": "Imp- 911 Quinoa Hair Mask - Mascarilla Hidratante - Biotop Professional",
       "marca": "Biotop Professional",
-      "precio": 220000,
+      "precio": 220100,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2225552/1E05F3A16A0F51F1C8EED1C1C93D899E_2fd11a20-107b-4ea2-910a-35947c7964bb_911-Quinoa-Hair-Mascarilla-Hidratante---Biotop-Professi.webp?v=639298531933600000",
       "url": "https://www.medipiel.com.co/imp-biotop-911-quinoa-hair-mask-mascarilla-hidratante-biotop-professional/p",
@@ -592,6 +581,17 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082341/mini-serum-anti-aging-reviving-elixir.jpg?v=638860487254070000",
       "url": "https://www.medipiel.com.co/mini-serum-anti-aging-la-cabine/p",
       "es_mas_barato": true,
+      "grupo_id": "G004",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Mini Mascarilla Reparación Ultimate Repair – Wella Professionals",
+      "marca": "Wella Professionals",
+      "precio": 40380,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2216262/6c0fde1f-ceaf-471c-bf2d-ce9cb6a69f37.webp?v=639244933677870000",
+      "url": "https://www.medipiel.com.co/mini-mascarilla-reparacion-ultimate-repair-wella-30ml/p",
+      "es_mas_barato": false,
       "grupo_id": "G004",
       "en_grupo": true
     },
@@ -937,24 +937,13 @@
       "en_grupo": true
     },
     {
-      "nombre": "Toallitas húmedas PERSONAL CHOICE MARCA EXCLUSIV aloe vera (72  und)",
-      "marca": "PERSONAL CHOICE MARCA EXCLUSIV",
-      "precio": 3840,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34463295/Toallitas-Humedas-Con-Aloe-Vera-Para-Bebe-X-72-Unds-Cu-620120_a.jpg?v=639213805292830000",
-      "url": "https://tienda.exito.com/toallitas-humedas-con-aloe-vera-para-bebe-x-72-unds-cu-694797/p",
-      "es_mas_barato": true,
-      "grupo_id": "G015",
-      "en_grupo": true
-    },
-    {
       "nombre": "Pañal Winny Sensitive Gold Etapa 1 Bolsax30+ Toallitas X20 Recien Nacido",
       "marca": "TECNOQUIMICAS",
       "precio": 33150,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/175086/7701021118011.jpg?v=637635365374530000",
       "url": "https://www.drogueriascolsubsidio.com/panal-winny-sensitive-gold-etapa-1-bolsax30-toallitas-x20-recien-nacido-7701021118011/p",
-      "es_mas_barato": false,
+      "es_mas_barato": true,
       "grupo_id": "G015",
       "en_grupo": true
     },
@@ -1003,17 +992,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "4 x Cebolla Blanca o Cabezona",
-      "marca": "SM",
-      "precio": 5489,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626428/Cebolla-blanca.jpg?v=638907001534430000",
-      "url": "https://tienda.exito.com/4xcebollas/p",
-      "es_mas_barato": false,
-      "grupo_id": "G017",
-      "en_grupo": true
-    },
-    {
       "nombre": "Dulces Sugar Free Limon Menta Ricola x 27.5 G",
       "marca": "MORENOS",
       "precio": 7200,
@@ -1044,325 +1022,6 @@
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
       "es_mas_barato": false,
       "grupo_id": "G020",
-      "en_grupo": false
-    },
-    {
-      "nombre": "BOLSA PAPEL EXITO",
-      "marca": "SM",
-      "precio": 500,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34325455/BOLSA-PAPEL-EXITO-1921293_a.jpg?v=639211216155530000",
-      "url": "https://tienda.exito.com/bolsa-papel-exito-1060765/p",
-      "es_mas_barato": true,
-      "grupo_id": "G021",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche FRESCAMPO entera UHT bolsa (900  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 3090,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672551/Leche-FRESCAMPO-Uht-Entera-900-ml-3750921_a.jpg?v=639166171319570000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-900-ml-3225372/p",
-      "es_mas_barato": false,
-      "grupo_id": "G021",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche FRESCAMPO entera UHT bolsa maxilitro (1100  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 3770,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672549/Leche-FRESCAMPO-Uht-Entera-1100-ml-3750919_a.jpg?v=639166171297730000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-1100-ml-3225370/p",
-      "es_mas_barato": false,
-      "grupo_id": "G021",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Preparación Del Pedido  0000",
-      "marca": "GENERICO",
-      "precio": 1800,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/37013027/COSTO-POR-SERVICIO-1785757_a.jpg?v=639298473429870000",
-      "url": "https://tienda.exito.com/costo-por-servicio-492664/p",
-      "es_mas_barato": false,
-      "grupo_id": "G022",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Soda BRETANA botella vidrio x12und  (3600  ml)",
-      "marca": "BRETANA",
-      "precio": 18400,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36947307/Of-Soda-Pague-9-Lleve-12-1443507_a.jpg?v=639295664580700000",
-      "url": "https://tienda.exito.com/of-soda-pague-9-lleve-12-365350/p",
-      "es_mas_barato": false,
-      "grupo_id": "G023",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Cerveza COSTENA lata six pack (1860  ml)",
-      "marca": "COSTENA",
-      "precio": 10690,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34462356/Cerveza-COSTENA-Lata-Sixpac-1860-ml-3739284_a.jpg?v=639213786715230000",
-      "url": "https://tienda.exito.com/cerveza-costena-lata-sixpac-1860-ml-3222187/p",
-      "es_mas_barato": true,
-      "grupo_id": "G024",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Refajo COLA Y POLA lata six pack (1980  ml)",
-      "marca": "COLA Y POLA",
-      "precio": 13700,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36907712/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=639295053762600000",
-      "url": "https://tienda.exito.com/cola-y-pola-lata-sixpack-330ml-c-u-880468/p",
-      "es_mas_barato": false,
-      "grupo_id": "G024",
-      "en_grupo": true
-    },
-    {
-      "nombre": "5 x Bananos",
-      "marca": "SM",
-      "precio": 3534,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29424717/Banano.jpg?v=638893300681300000",
-      "url": "https://tienda.exito.com/bananos-x-5-124210755/p",
-      "es_mas_barato": false,
-      "grupo_id": "G025",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Lomitos de atún FRESCAMPO en agua (110.5  gr)",
-      "marca": "FRESCAMPO",
-      "precio": 4440,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34929540/Lomitos-De-Atun-FRESCAMPO-Agua-y-Sal-1105-gr-3804672_a.jpg?v=639232678873900000",
-      "url": "https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-1105-gr-3241101/p",
-      "es_mas_barato": true,
-      "grupo_id": "G026",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Queso Mozzarella FRESCAMPO Tajado (400  gr)",
-      "marca": "FRESCAMPO",
-      "precio": 10500,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33672689/Queso-Mozzarella-FRESCAMPO-Tajado-400-gr-3825477_a.jpg?v=639166172412000000",
-      "url": "https://tienda.exito.com/queso-mozzarella-frescampo-tajado-400-gr-3246353/p",
-      "es_mas_barato": false,
-      "grupo_id": "G026",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche FRESCAMPO entera UHT paquete (5400  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 18540,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422885/Leche-FRESCAMPO-Uht-Entera-5400-ml-3750920_a.jpg?v=639211626450870000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-5400-ml-3225371/p",
-      "es_mas_barato": false,
-      "grupo_id": "G026",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche deslactosada FRESCAMPO semidescremada UHT paquete (5400  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 19200,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422886/Leche-FRESCAMPO-Uht-Semi-Deslactosada-5400-ml-3750922_a.jpg?v=639211626463200000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-semi-deslactosada-5400-ml-3225373/p",
-      "es_mas_barato": false,
-      "grupo_id": "G026",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Leche FRESCAMPO entera UHT maxilitro paquete (6600  ml)",
-      "marca": "FRESCAMPO",
-      "precio": 22620,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34422884/Leche-FRESCAMPO-Uht-Entera-6600-ml-3750918_a.jpg?v=639211626441500000",
-      "url": "https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p",
-      "es_mas_barato": false,
-      "grupo_id": "G026",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Caldo De Gallina Desmenuzado Especias MAGGI desmenuzado (90  gr)",
-      "marca": "MAGGI",
-      "precio": 3352,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461900/Caldo-De-Gallina-Desmenuzado-Especias-MAGGI-Especias-Desmenuzado-90-gr-3669641_a.jpg?v=639213782984330000",
-      "url": "https://tienda.exito.com/caldo-de-gallina-desmenuzado-especias-maggi-especias-desmenuzado-90-gr-3204662/p",
-      "es_mas_barato": false,
-      "grupo_id": "G027",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Chocolate LUKER tradicional sin azúcar (224  gr)",
-      "marca": "LUKER",
-      "precio": 13043,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34461775/Chocolate-LUKER-Amargo-224-gr-3624959_a.jpg?v=639213781914800000",
-      "url": "https://tienda.exito.com/chocolate-luker-amargo-224-gr-3191910/p",
-      "es_mas_barato": false,
-      "grupo_id": "G028",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Café LA BASTILLA fuerte (390  gr)",
-      "marca": "LA BASTILLA",
-      "precio": 13000,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34926451/Cafe-Fuerte-LA-BASTILLA-390-gr-3511176_a.jpg?v=639232626895400000",
-      "url": "https://tienda.exito.com/cafe-fuerte-la-bastilla-390-gr-3155086/p",
-      "es_mas_barato": false,
-      "grupo_id": "G029",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Huevos AAA KIKES rojo pet (15  und)",
-      "marca": "KIKES",
-      "precio": 14700,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386926/Huevo-Rojo-Aaa-15und-Pet-1232624_a.jpg?v=639211356212200000",
-      "url": "https://tienda.exito.com/huevo-rojo-aaa-15und-pet-895234/p",
-      "es_mas_barato": true,
-      "grupo_id": "G030",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Huevos AA KIKES Rojo Pet (30  und)",
-      "marca": "KIKES",
-      "precio": 18375,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34386923/Huevo-Aa-Rojo-30und-Pet-1037843_a.jpg?v=639211356189800000",
-      "url": "https://tienda.exito.com/huevo-aa-rojo-30und-pet-744836/p",
-      "es_mas_barato": false,
-      "grupo_id": "G030",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Chuleta Económica de Cerdo  económica",
-      "marca": "SM",
-      "precio": 16780,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390649/CHULETA-DE-CERDO-ECONOMICA-917541_a.jpg?v=639211389992630000",
-      "url": "https://tienda.exito.com/chuleta-de-cerdo-economica-367565/p",
-      "es_mas_barato": true,
-      "grupo_id": "G031",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Carne de cerdo  económica",
-      "marca": "SM",
-      "precio": 18680,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354746/BRAZO-CERDO-860794_a.jpg?v=639252564191600000",
-      "url": "https://tienda.exito.com/brazo-cerdo-487141/p",
-      "es_mas_barato": false,
-      "grupo_id": "G031",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Tocineta o tocino carnudo  fresca",
-      "marca": "SM",
-      "precio": 19900,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/36378816/TOCINETA-867994_a.jpg?v=639276731043370000",
-      "url": "https://tienda.exito.com/tocineta-487451/p",
-      "es_mas_barato": false,
-      "grupo_id": "G031",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Lomo de cerdo o cañón  congelado porcionado",
-      "marca": "SM",
-      "precio": 23980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33681580/LOMO-DE-CERDO-CC-372437_a.jpg?v=639166316827230000",
-      "url": "https://tienda.exito.com/lomo-de-cerdo-cc-437688/p",
-      "es_mas_barato": false,
-      "grupo_id": "G031",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Carne de res asar freír  fresca",
-      "marca": "SM",
-      "precio": 29900,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354748/CARNES-ASAR-FREIR-SI-237700_a.jpg?v=639252564234100000",
-      "url": "https://tienda.exito.com/carnes-asar-freir-si-498107/p",
-      "es_mas_barato": false,
-      "grupo_id": "G031",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Milanesa de res  fresca",
-      "marca": "SM",
-      "precio": 37980,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/33698553/MILANESA-RES-616300_a.jpg?v=639167828393200000",
-      "url": "https://tienda.exito.com/milanesa-res-644019/p",
-      "es_mas_barato": false,
-      "grupo_id": "G031",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Arroz ROA blanco fortiplus (3000  gr)",
-      "marca": "ROA",
-      "precio": 9650,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34385880/Arroz-Blanco-Fortificado-X-3000-G-694991_a.jpg?v=639211346683730000",
-      "url": "https://tienda.exito.com/arroz-blanco-fortificado-x-3000-g-480324/p",
-      "es_mas_barato": false,
-      "grupo_id": "G032",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Toallas de cocina EKONO desechables (50  und)",
-      "marca": "EKONO",
-      "precio": 1750,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35060495/Toalla-Cocina-Doble-Hoja-X-50-gr-598300_a.jpg?v=639240437064600000",
-      "url": "https://tienda.exito.com/toalla-cocina-doble-hoja-x-50-gr-208591/p",
-      "es_mas_barato": false,
-      "grupo_id": "G033",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Platano Maduro Und  1  und",
-      "marca": "SM",
-      "precio": 756,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/34390852/PLATANO-MADURO-UNIDAD-1601907_a.jpg?v=639211393408800000",
-      "url": "https://tienda.exito.com/platano-maduro-unidad-170467/p",
-      "es_mas_barato": false,
-      "grupo_id": "G034",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Queso crema COLANTA fresco semiblando (400  gr)",
-      "marca": "COLANTA",
-      "precio": 7886,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/35354827/895557_a.png?v=639252600260070000",
-      "url": "https://tienda.exito.com/queso-crema-x-400g-101497/p",
-      "es_mas_barato": false,
-      "grupo_id": "G035",
-      "en_grupo": false
-    },
-    {
-      "nombre": "4 x Tomates Chonto",
-      "marca": "SM",
-      "precio": 2827,
-      "tienda": "Éxito",
-      "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/29626429/Tomates.jpg?v=638907003421970000",
-      "url": "https://tienda.exito.com/4xtomates/p",
-      "es_mas_barato": false,
-      "grupo_id": "G036",
       "en_grupo": false
     }
   ]
