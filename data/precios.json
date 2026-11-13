@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-13T05:38:17.333Z",
+  "ultima_actualizacion": "2026-11-13T19:20:28.245Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -30,6 +30,17 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166567/3337875816809_1.jpg?v=638948446631370000",
       "url": "https://www.medipiel.com.co/cicaplast-baume-b5-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Loción Invisible Hidratante Spf50+ - CeraVe",
+      "marca": "CeraVe",
+      "precio": 47160,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187035/3337875945769_1_1000px.jpg?v=639104768465530000",
+      "url": "https://www.medipiel.com.co/protector-solar-locion-invisible-hidratante-spf50-cerave-1/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -118,6 +129,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170174/6599-1-CERAVE-LIMPIADOR-CONTROL-IMPERFECCIONES-BELLA-PIEL.jpg.jpg?v=638808550610430000",
       "url": "https://www.bellapiel.com.co/cerave-limpiador-control-imperfecciones-x-236ml-6599/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Protector Solar Isdin Invisible Stick SPF 50 x 10 gr",
+      "marca": "Isdin",
+      "precio": 79500,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169204/bloqueador-en-barra-Isdin-bella-piel.jpg.jpg?v=639262012127770000",
+      "url": "https://www.bellapiel.com.co/isdin--fotoprotector-invisible-stick-spf-50-x-10gr-6627/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -497,17 +519,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Protector Solar Isdin Invisible Stick SPF 50 x 10 gr",
-      "marca": "Isdin",
-      "precio": 79500,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169204/bloqueador-en-barra-Isdin-bella-piel.jpg.jpg?v=639262012127770000",
-      "url": "https://www.bellapiel.com.co/isdin--fotoprotector-invisible-stick-spf-50-x-10gr-6627/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Gel Crema Oil Control - Cerave",
       "marca": "CeraVe",
       "precio": 63920,
@@ -602,17 +613,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2189008/Mini-Serum-Flash-Effect---LaCabine--2-.jpg?v=639204195591830000",
       "url": "https://www.medipiel.com.co/mini-serum-flash-effect-la-cabine/p",
-      "es_mas_barato": false,
-      "grupo_id": "G004",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Dercos Serum Anticaida R.E.G.E.N - Vichy",
-      "marca": "Vichy",
-      "precio": 148720,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208809/2182571-1200-auto.webp?v=639199800115230000",
-      "url": "https://www.medipiel.com.co/dercos-serum-anticaida-regen-vichy/p",
       "es_mas_barato": false,
       "grupo_id": "G004",
       "en_grupo": true
