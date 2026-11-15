@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-14T17:45:19.860Z",
+  "ultima_actualizacion": "2026-11-15T05:25:52.011Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -57,23 +57,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 52200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "CeraVe Gel Limpiador Espumoso 236 ml",
       "marca": "Cerave",
       "precio": 55960,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170152/6406-1-CERAVE-GEL-LIMPIADOR-ESPUMOSO-PIEL-NORMAL-A-GRASA-BELLA-PIEL.jpg.jpg?v=638808540754170000",
       "url": "https://www.bellapiel.com.co/gel-limpiador-facial-espumoso-para-piel-normal-a-grasa-cerave-236-ml-6406/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
+      "marca": "LOREAL",
+      "precio": 58000,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -409,17 +409,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 172165,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
-      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "La Roche-Posay Serum Pure Vitamin C12 Oil Control x 30Ml",
       "marca": "La Roche Posay",
       "precio": 172165,
@@ -651,14 +640,36 @@
       "en_grupo": false
     },
     {
+      "nombre": "Contorno de Ojos ISDIN K-OX: Reduce Ojeras y Bolsas",
+      "marca": "Isdin",
+      "precio": 181680,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169323/8429420113374-1.png.png?v=638833789665300000",
+      "url": "https://www.bellapiel.com.co/isdinceutics-k-ox-eyes-3608/p",
+      "es_mas_barato": true,
+      "grupo_id": "G006",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Contorno De Ojos K-Ox - Isdinceutics",
+      "marca": "Isdinceutics",
+      "precio": 227100,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210867/87047233-a294-41ef-af29-07e2ffb5716b.png?v=639228296712070000",
+      "url": "https://www.medipiel.com.co/contorno-de-ojos-k-ox-isdinceutics/p",
+      "es_mas_barato": false,
+      "grupo_id": "G006",
+      "en_grupo": true
+    },
+    {
       "nombre": "Estavit DHA Cápsulas Blandas con Cubierta Entérica",
       "marca": "PROCAPS",
-      "precio": 97380,
+      "precio": 108200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212404/7703153045678-2.jpg?v=639211049955770000",
       "url": "https://www.drogueriascolsubsidio.com/estavit-dha-capsulas-blandas-con-cubierta-enterica-7703153045678/p",
       "es_mas_barato": true,
-      "grupo_id": "G006",
+      "grupo_id": "G007",
       "en_grupo": true
     },
     {
@@ -669,19 +680,8 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178162/2796-1-PROCAPS-ISOFACE-20MG-X40-CAPS-BELLA-PIEL.jpg?v=639263742590200000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
       "es_mas_barato": false,
-      "grupo_id": "G006",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Rozelaic Gel 15% x 30 Gr",
-      "marca": "Medicamentos",
-      "precio": 93330,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178117/2308-1-MEDIHEALTH-ROZELAIC-GEL-30G.webp?v=639262262030000000",
-      "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
-      "es_mas_barato": false,
       "grupo_id": "G007",
-      "en_grupo": false
+      "en_grupo": true
     },
     {
       "nombre": "Sensibio Gel Moussant 500 ml Bioderma",
@@ -695,23 +695,23 @@
       "en_grupo": false
     },
     {
+      "nombre": "Rozelaic Gel 15% x 30 Gr",
+      "marca": "Medicamentos",
+      "precio": 93330,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178117/2308-1-MEDIHEALTH-ROZELAIC-GEL-30G.webp?v=639262262030000000",
+      "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
+      "es_mas_barato": false,
+      "grupo_id": "G009",
+      "en_grupo": false
+    },
+    {
       "nombre": "Tricovit 60 Tabs",
       "marca": "Suiphar",
       "precio": 160012,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177576/3117-1-TRICOVIT-TABLETAS-BELLA-PIEL.jpg?v=639237965711900000",
       "url": "https://www.bellapiel.com.co/tricovit-60-tab-3117/p",
-      "es_mas_barato": false,
-      "grupo_id": "G009",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Contorno de Ojos ISDIN K-OX: Reduce Ojeras y Bolsas",
-      "marca": "Isdin",
-      "precio": 181680,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169323/8429420113374-1.png.png?v=638833789665300000",
-      "url": "https://www.bellapiel.com.co/isdinceutics-k-ox-eyes-3608/p",
       "es_mas_barato": false,
       "grupo_id": "G010",
       "en_grupo": false
@@ -774,7 +774,7 @@
     {
       "nombre": "Engystol Tableta",
       "marca": "HEEL COLOMBIA",
-      "precio": 74640,
+      "precio": 93300,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
@@ -796,7 +796,7 @@
     {
       "nombre": "Pañitos Húmedos Pequeñín Almendra (3x100un)",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 36225,
+      "precio": 40250,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203807/7702026148683_1.jpg.jpg?v=638779309917030000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-almendra-3x100un-7702026148683/p",
@@ -1016,7 +1016,7 @@
     {
       "nombre": "Serenos Lha Comprimido",
       "marca": "HOMEOPATICO ALEMAN",
-      "precio": 57375,
+      "precio": 63750,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
       "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
