@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-16T05:23:56.058Z",
+  "ultima_actualizacion": "2026-11-16T21:44:43.832Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -948,6 +948,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Pedialyte Max 60 Con Zinc Solución Oral Fresa",
+      "marca": "ABBOTT",
+      "precio": 10900,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208256/7501033961557.jpg?v=638929466786230000",
+      "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-solucion-oral-fresa-7501033961557/p",
+      "es_mas_barato": false,
+      "grupo_id": "G016",
+      "en_grupo": true
+    },
+    {
       "nombre": "Pañal Winny Sensitive Gold Etapa 1 Bolsax30+ Toallitas X20 Recien Nacido",
       "marca": "TECNOQUIMICAS",
       "precio": 33150,
@@ -1011,17 +1022,6 @@
       "url": "https://www.drogueriascolsubsidio.com/protector-solar-sunday-adultos-spf60-7707016404466/p",
       "es_mas_barato": false,
       "grupo_id": "G020",
-      "en_grupo": false
-    },
-    {
-      "nombre": "Serenos Lha Comprimido",
-      "marca": "HOMEOPATICO ALEMAN",
-      "precio": 63750,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159526/7707214806680.jpg?v=637109836015670000",
-      "url": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
-      "es_mas_barato": false,
-      "grupo_id": "G021",
       "en_grupo": false
     }
   ]
