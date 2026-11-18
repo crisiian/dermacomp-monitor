@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-17T20:35:12.869Z",
+  "ultima_actualizacion": "2026-11-18T06:26:16.459Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -19,6 +19,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/187640/7709990319132.jpg?v=638198666464600000",
       "url": "https://www.drogueriascolsubsidio.com/tapabocas-desecha-empaqueindiv-9780201379624-1/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
+      "marca": "LOREAL",
+      "precio": 43500,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -57,23 +68,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 58000,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Cicaplast Baume B5+ La Roche-Posay 40 ml",
       "marca": "La Roche Posay",
       "precio": 58900,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/164638/6019.jpg?v=639257824570830000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-cicaplast-balm-b5-40ml-1/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Cerave Contorno De Ojos Crema Reparadora x 14Ml",
+      "marca": "Cerave",
+      "precio": 62950,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170131/6225-1-CERAVE-CONTORNO-DE-OJOS-CREMA-REPARADORA-BELLA-PIEL.png.png?v=638808530409070000",
+      "url": "https://www.bellapiel.com.co/crema-reparadora-contorno-de-ojos-cerave-14-ml-6225/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -107,6 +118,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169146/6570_--1-.jpg?v=638709088970300000",
       "url": "https://www.bellapiel.com.co/cerave-gel-crema-hidratante-oil-control-x-52ml-6570/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Refill Gel Limpiador Espumoso Para Piel Normal A Grasa - CeraVe",
+      "marca": "CeraVe",
+      "precio": 87900,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166522/3337875905596-1.jpg?v=638947704654200000",
+      "url": "https://www.medipiel.com.co/refill-gel-limpiador-espumoso-para-piel-normal-a-grasa-cerave/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -387,17 +409,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 196760,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
-      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Shampoo Genesis Hydra-Fortifiant Caída Cabello Graso - Kérastase",
       "marca": "Kérastase",
       "precio": 205500,
@@ -431,23 +442,34 @@
       "en_grupo": true
     },
     {
+      "nombre": "Kit Luminosidad Sesvitamin C- 5 Serum 30 ml + Gratis Sesvitamin C- Crema 50 ml - Sesderma",
+      "marca": "Sesderma",
+      "precio": 231600,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208628/31149174-1200-auto.jpg?v=639196564485630000",
+      "url": "https://www.medipiel.com.co/kit-luminosidad-sesvitamin-c-5-serum-gratis-sesvitamin-c-crema-sesderma/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
+      "marca": "La Roche Posay",
+      "precio": 245950,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2187085/3337875920582-14.jpg?v=639105898433130000",
+      "url": "https://www.medipiel.com.co/serum-suractivado-hyalu-b5-la-roche-posay/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "La Roche-Posay Serum Pure Vitamin C12 Oil Control x 30Ml",
       "marca": "La Roche Posay",
       "precio": 245950,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/175604/6655-1-LA-ROCHE-POSAY-SERUM-C-12-OIL-CONTROL-BELLA-PIEL.jpg?v=639150796023600000",
       "url": "https://www.bellapiel.com.co/la-roche-posay-serum-pure-vitamin-c12-oil-control-x-30ml-6655/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Sérum Nutritive 8H Magic Night Nutrición Nocturna Para Cabello Seco - Kérastase",
-      "marca": "Kérastase",
-      "precio": 259000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/225269/serum-nutritive-8h-magic-night-kerastase.jpg.jpg?v=638751504546900000",
-      "url": "https://www.medipiel.com.co/serum-nutritive-8h-magic-night-kerastase/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -596,17 +618,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Mini Mascarilla Reparación Ultimate Repair – Wella Professionals",
-      "marca": "Wella Professionals",
-      "precio": 40380,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2216262/6c0fde1f-ceaf-471c-bf2d-ce9cb6a69f37.webp?v=639244933677870000",
-      "url": "https://www.medipiel.com.co/mini-mascarilla-reparacion-ultimate-repair-wella-30ml/p",
-      "es_mas_barato": false,
-      "grupo_id": "G004",
-      "en_grupo": true
-    },
-    {
       "nombre": "Sérum Genesis Anti-Caída Para Cabello Quebradizo - Kérastase",
       "marca": "Kérastase",
       "precio": 219000,
@@ -664,7 +675,7 @@
     {
       "nombre": "Estavit DHA Cápsulas Blandas con Cubierta Entérica",
       "marca": "PROCAPS",
-      "precio": 108200,
+      "precio": 81150,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212404/7703153045678-2.jpg?v=639211049955770000",
       "url": "https://www.drogueriascolsubsidio.com/estavit-dha-capsulas-blandas-con-cubierta-enterica-7703153045678/p",
@@ -675,7 +686,7 @@
     {
       "nombre": "Isoface 20mg x 40 Cápsulas",
       "marca": "Medicamentos",
-      "precio": 179910,
+      "precio": 159920,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178162/2796-1-PROCAPS-ISOFACE-20MG-X40-CAPS-BELLA-PIEL.jpg?v=639263742590200000",
       "url": "https://www.bellapiel.com.co/isoface-20mg-x-40-caps-2796/p",
@@ -684,25 +695,14 @@
       "en_grupo": true
     },
     {
-      "nombre": "Sensibio Gel Moussant 500 ml Bioderma",
-      "marca": "Bioderma",
-      "precio": 167365,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/164519/3701129800843--1-.jpg?v=639261991176900000",
-      "url": "https://www.bellapiel.com.co/sensibio_gel_moussant_500ml/p",
-      "es_mas_barato": false,
-      "grupo_id": "G009",
-      "en_grupo": false
-    },
-    {
       "nombre": "Rozelaic Gel 15% x 30 Gr",
       "marca": "Medicamentos",
-      "precio": 98820,
+      "precio": 87840,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178117/2308-1-MEDIHEALTH-ROZELAIC-GEL-30G.webp?v=639262262030000000",
       "url": "https://www.bellapiel.com.co/rozelaic-gel-2308/p",
       "es_mas_barato": false,
-      "grupo_id": "G010",
+      "grupo_id": "G009",
       "en_grupo": false
     },
     {
@@ -713,7 +713,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177576/3117-1-TRICOVIT-TABLETAS-BELLA-PIEL.jpg?v=639237965711900000",
       "url": "https://www.bellapiel.com.co/tricovit-60-tab-3117/p",
       "es_mas_barato": false,
-      "grupo_id": "G011",
+      "grupo_id": "G010",
       "en_grupo": false
     },
     {
@@ -724,7 +724,7 @@
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/169958/6338-1-MEGA-LCISTIN-SUPLEMENTO-DIETARIO-BELLA-PIEL--1---1---1-.jpg.jpg?v=638799923013930000",
       "url": "https://www.bellapiel.com.co/mega-lcistin-suplemento-dietario-tabletas-recubiertas-caja-x-30ml-6338/p",
       "es_mas_barato": false,
-      "grupo_id": "G012",
+      "grupo_id": "G011",
       "en_grupo": false
     },
     {
@@ -735,7 +735,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/161219/7702605100019.jpg?v=637115844571530000",
       "url": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-genfar-7702605100019/p",
       "es_mas_barato": true,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -746,7 +746,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214715/7703763750184.jpg?v=639253523303970000",
       "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-mandarina-7703763750184/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -757,7 +757,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214714/7703763750115.jpg?v=639253522859000000",
       "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -768,29 +768,29 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212307/7707397791490_1.jpg?v=639198937850500000",
       "url": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500-mg-tableta-recubierta-7707397791490/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
       "nombre": "Levomepromazina 25mg Tableta Recubierta Humax",
       "marca": "HUMAX",
-      "precio": 32150,
+      "precio": 24112,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/164894/7707288820926.jpg?v=637244717525900000",
       "url": "https://www.drogueriascolsubsidio.com/levomepromazina-25mg-tableta-recubierta-humax-7707288820926/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
       "nombre": "Engystol Tableta",
       "marca": "HEEL COLOMBIA",
-      "precio": 93300,
+      "precio": 69975,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
       "es_mas_barato": false,
-      "grupo_id": "G013",
+      "grupo_id": "G012",
       "en_grupo": true
     },
     {
@@ -801,29 +801,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208376/7706634040032.jpg?v=638933003736300000",
       "url": "https://www.drogueriascolsubsidio.com/jeringa-insulina-rymco-1ml-27gx12-7706634040032/p",
       "es_mas_barato": true,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Jeringa Desechable 10ml Medispro",
-      "marca": "PROTEX",
-      "precio": 400,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159872/7707270361239.jpg?v=637109843606170000",
-      "url": "https://www.drogueriascolsubsidio.com/jeringa-desechable-10ml-medispro-7707270361239/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Jeringa 5ml Con Aguja 21g x 1 1/2 Pulgadas",
-      "marca": "ALFA TRADING",
-      "precio": 450,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159602/7707228361786.jpg?v=637109837262130000",
-      "url": "https://www.drogueriascolsubsidio.com/jeringa-5ml-con-aguja-21g-x-1-12-pulgadas-7707228361786/p",
-      "es_mas_barato": false,
-      "grupo_id": "G014",
+      "grupo_id": "G013",
       "en_grupo": true
     },
     {
@@ -834,7 +812,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/183208/1000002521601.jpg?v=638015292057370000",
       "url": "https://www.drogueriascolsubsidio.com/aguja-pluma-insulina-desechable-32gx4mm-tipo810-alfasafe-1000002521601/p",
       "es_mas_barato": false,
-      "grupo_id": "G014",
+      "grupo_id": "G013",
       "en_grupo": true
     },
     {
@@ -845,7 +823,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159342/7707178250826.jpg?v=637108483254470000",
       "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-plastica-no16-desechable-7707178250826/p",
       "es_mas_barato": false,
-      "grupo_id": "G014",
+      "grupo_id": "G013",
       "en_grupo": true
     },
     {
@@ -856,7 +834,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216253/7707178250802.jpg?v=639268338075300000",
       "url": "https://www.drogueriascolsubsidio.com/sonda-nelaton-plastica-no12-desechable-7707178250802/p",
       "es_mas_barato": false,
-      "grupo_id": "G014",
+      "grupo_id": "G013",
       "en_grupo": true
     },
     {
@@ -867,18 +845,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
       "es_mas_barato": true,
-      "grupo_id": "G015",
+      "grupo_id": "G014",
       "en_grupo": true
     },
     {
       "nombre": "Pañitos Húmedos Pequeñín Almendra (3x100un)",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 40250,
+      "precio": 30187,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203807/7702026148683_1.jpg.jpg?v=638779309917030000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-almendra-3x100un-7702026148683/p",
       "es_mas_barato": false,
-      "grupo_id": "G015",
+      "grupo_id": "G014",
       "en_grupo": true
     },
     {
@@ -889,7 +867,18 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208381/7707177978639.jpg?v=638933016967230000",
       "url": "https://www.drogueriascolsubsidio.com/solhidrex-polvo-para-solucion-oral-cereza-7707177978639/p",
       "es_mas_barato": true,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
+      "en_grupo": true
+    },
+    {
+      "nombre": "N-Acetilcisteína 600mg granulado para Solución oral GEF",
+      "marca": "GENFAR",
+      "precio": 2665,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/200199/7702605111589-.jpg?v=638659859077200000",
+      "url": "https://www.drogueriascolsubsidio.com/n-acetilcisteina-600mg-granulado-para-solucion-oral-gef-7702605111589/p",
+      "es_mas_barato": false,
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -900,7 +889,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/159277/7707141349298.jpg?v=637108481649100000",
       "url": "https://www.drogueriascolsubsidio.com/solucion-salina-09--7707141349298/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -911,7 +900,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216608/7707394716526.jpg?v=639269899009930000",
       "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716526/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -922,7 +911,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/182671/7702207188620.jpg?v=637992169418700000",
       "url": "https://www.drogueriascolsubsidio.com/smecta-3-g-polvo-para-suspension-oral-7702207188620/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -933,7 +922,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/179728/7594002621996-3.jpg?v=637889240821630000",
       "url": "https://www.drogueriascolsubsidio.com/floratil-250-mg-polvo-para-suspension-oral-7594002621996/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -944,7 +933,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211112/ZA_224_Electrolit-Colombia-Hero IMG-08.jpg?v=639083233040370000",
       "url": "https://www.drogueriascolsubsidio.com/electrolit-solucion-oral-maracuya-7501125184864/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -955,7 +944,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208256/7501033961557.jpg?v=638929466786230000",
       "url": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-solucion-oral-fresa-7501033961557/p",
       "es_mas_barato": false,
-      "grupo_id": "G016",
+      "grupo_id": "G015",
       "en_grupo": true
     },
     {
@@ -966,7 +955,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/175086/7701021118011.jpg?v=637635365374530000",
       "url": "https://www.drogueriascolsubsidio.com/panal-winny-sensitive-gold-etapa-1-bolsax30-toallitas-x20-recien-nacido-7701021118011/p",
       "es_mas_barato": true,
-      "grupo_id": "G017",
+      "grupo_id": "G016",
       "en_grupo": true
     },
     {
@@ -977,7 +966,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212209/7701021116536_Hero_Image_1_Alta_0.jpg?v=639193146644070000",
       "url": "https://www.drogueriascolsubsidio.com/panaltoallitas-winny-ultratim-sec-etapa-2-paqx30panal--10toall-7701021116536/p",
       "es_mas_barato": false,
-      "grupo_id": "G017",
+      "grupo_id": "G016",
       "en_grupo": true
     },
     {
@@ -988,7 +977,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216254/7707364806516.jpg?v=639268339284170000",
       "url": "https://www.drogueriascolsubsidio.com/gasa-esteril-no-tejida-10cm-x-10cm-medical-supplies-7707364806516/p",
       "es_mas_barato": true,
-      "grupo_id": "G018",
+      "grupo_id": "G017",
       "en_grupo": true
     },
     {
@@ -999,7 +988,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214719/7707364802181.jpg?v=639253524241800000",
       "url": "https://www.drogueriascolsubsidio.com/venda-elastica-blanca-5-pulgadas-x-5-yd-medical-7707364802181/p",
       "es_mas_barato": false,
-      "grupo_id": "G018",
+      "grupo_id": "G017",
       "en_grupo": true
     },
     {
@@ -1010,7 +999,7 @@
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211708/EAN 7610700002094  DULCES SF LIMON MENTA RICOLA cj27,5g.jpg?v=639142795750400000",
       "url": "https://www.drogueriascolsubsidio.com/dulces-sugar-free-limon-menta-ricola-x-275-g-7610700002094/p",
       "es_mas_barato": false,
-      "grupo_id": "G019",
+      "grupo_id": "G018",
       "en_grupo": false
     },
     {
@@ -1020,6 +1009,17 @@
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/217053/7707016404466.jpg?v=639281032602400000",
       "url": "https://www.drogueriascolsubsidio.com/protector-solar-sunday-adultos-spf60-7707016404466/p",
+      "es_mas_barato": false,
+      "grupo_id": "G019",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Fresubin 2kcal Bebida Vainilla",
+      "marca": "FRESENIUS KABI COLOMBIA",
+      "precio": 8900,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214744/7709656871721.jpg?v=639253550909400000",
+      "url": "https://www.drogueriascolsubsidio.com/fresubin-2kcal-bebida-vainilla-7709656871721/p",
       "es_mas_barato": false,
       "grupo_id": "G020",
       "en_grupo": false
