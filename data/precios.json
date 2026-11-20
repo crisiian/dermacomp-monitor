@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-20T06:14:07.995Z",
+  "ultima_actualizacion": "2026-11-20T19:43:32.432Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -35,6 +35,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
+      "marca": "LOREAL",
+      "precio": 52200,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Cerave Contorno De Ojos Crema Reparadora x 14Ml",
       "marca": "Cerave",
       "precio": 53507,
@@ -52,17 +63,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170152/6406-1-CERAVE-GEL-LIMPIADOR-ESPUMOSO-PIEL-NORMAL-A-GRASA-BELLA-PIEL.jpg.jpg?v=638808540754170000",
       "url": "https://www.bellapiel.com.co/gel-limpiador-facial-espumoso-para-piel-normal-a-grasa-cerave-236-ml-6406/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 58000,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -499,7 +499,7 @@
     {
       "nombre": "Skinceuticals P Tiox Sérum Antiedad Con Complejo Peptídico",
       "marca": "Skinceuticals",
-      "precio": 548000,
+      "precio": 411000,
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177822/6478--1-.jpg?v=639264520130870000",
       "url": "https://www.bellapiel.com.co/skinceuticals-p-tiox-suero-antiedad-30ml-6478/p",
@@ -675,7 +675,7 @@
     {
       "nombre": "Estavit DHA Cápsulas Blandas con Cubierta Entérica",
       "marca": "PROCAPS",
-      "precio": 108200,
+      "precio": 97380,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/217848/7703153045678.jpg?v=639306155982730000",
       "url": "https://www.drogueriascolsubsidio.com/estavit-dha-capsulas-blandas-con-cubierta-enterica-7703153045678/p",
@@ -774,7 +774,7 @@
     {
       "nombre": "Levomepromazina 25mg Tableta Recubierta Humax",
       "marca": "HUMAX",
-      "precio": 32150,
+      "precio": 28935,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/164894/7707288820926.jpg?v=637244717525900000",
       "url": "https://www.drogueriascolsubsidio.com/levomepromazina-25mg-tableta-recubierta-humax-7707288820926/p",
@@ -785,7 +785,7 @@
     {
       "nombre": "Engystol Tableta",
       "marca": "HEEL COLOMBIA",
-      "precio": 93300,
+      "precio": 83970,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
@@ -851,7 +851,7 @@
     {
       "nombre": "Pañitos Húmedos Pequeñín Almendra (3x100un)",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 40250,
+      "precio": 36225,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203807/7702026148683_1.jpg.jpg?v=638779309917030000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-almendra-3x100un-7702026148683/p",
@@ -862,7 +862,7 @@
     {
       "nombre": "Solhidrex Polvo Para Solución Oral Cereza",
       "marca": "LAB INTERNACIONAL DE COLOMNBIA",
-      "precio": 2252,
+      "precio": 2650,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/208381/7707177978639.jpg?v=638933016967230000",
       "url": "https://www.drogueriascolsubsidio.com/solhidrex-polvo-para-solucion-oral-cereza-7707177978639/p",
@@ -930,7 +930,7 @@
       "marca": "PISA FARMACEUTICA",
       "precio": 8650,
       "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/211112/ZA_224_Electrolit-Colombia-Hero IMG-08.jpg?v=639083233040370000",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/217913/7501125184864.jpg?v=639307833617200000",
       "url": "https://www.drogueriascolsubsidio.com/electrolit-solucion-oral-maracuya-7501125184864/p",
       "es_mas_barato": false,
       "grupo_id": "G016",
