@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-20T19:43:32.432Z",
+  "ultima_actualizacion": "2026-11-21T06:04:35.825Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -35,17 +35,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
-      "marca": "LOREAL",
-      "precio": 52200,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
-      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
       "nombre": "Cerave Contorno De Ojos Crema Reparadora x 14Ml",
       "marca": "Cerave",
       "precio": 53507,
@@ -63,6 +52,17 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170152/6406-1-CERAVE-GEL-LIMPIADOR-ESPUMOSO-PIEL-NORMAL-A-GRASA-BELLA-PIEL.jpg.jpg?v=638808540754170000",
       "url": "https://www.bellapiel.com.co/gel-limpiador-facial-espumoso-para-piel-normal-a-grasa-cerave-236-ml-6406/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Bálsamo Calmante La Roche Posay Cicaplast Baume B5+ Restauradora Tubo x 40 ml",
+      "marca": "LOREAL",
+      "precio": 58000,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214234/3337875816809.jpg?v=639252771661370000",
+      "url": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337875816809/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -140,17 +140,6 @@
       "tienda": "Bella Piel",
       "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/170121/6224-1-CERAVE-LOCION-HIDRATANTE-FACIAL-BELLA-PIEL.png.png?v=638808529040970000",
       "url": "https://www.bellapiel.com.co/locion-hidratante-facial-pm-cerave-52-ml-6224/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Cetaphil Limpiador Piel Grasa 473 Ml",
-      "marca": "Cetaphil",
-      "precio": 84562,
-      "tienda": "Bella Piel",
-      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/177047/6161-1-CETAPHIL-LIMPIADOR-PIEL-GRASA-BELLA-PIEL.jpg?v=639214474635270000",
-      "url": "https://www.bellapiel.com.co/gel-limpiadora-piel-grasa-6161/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -431,6 +420,17 @@
       "en_grupo": true
     },
     {
+      "nombre": "Rilastil Sebocare Gel Limpiador x 400 Ml",
+      "marca": "Rilastil",
+      "precio": 180990,
+      "tienda": "Bella Piel",
+      "imagen": "https://bellapiel.vteximg.com.br/arquivos/ids/178004/8272-1-RILASTIL-SEBOCARE-LIMPIADOR-FACIAL-BELLA-PIEL.jpg?v=639257771361970000",
+      "url": "https://www.bellapiel.com.co/rilastil-sebocare-gel-limpiador-400-ml/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Serum Suractivado Hyalu B5 - La Roche Posay",
       "marca": "La Roche Posay",
       "precio": 196760,
@@ -497,6 +497,28 @@
       "en_grupo": true
     },
     {
+      "nombre": "Sérum Genesis Anti-Caída Para Cabello Quebradizo - Kérastase",
+      "marca": "Kérastase",
+      "precio": 219000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2185893/serum-genesis-anti-caida-kerastase.jpg.jpg?v=639090332343270000",
+      "url": "https://www.medipiel.com.co/serum-genesis-anti-caida-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Kit Luminosidad Sesvitamin C- 5 Serum 30 ml + Gratis Sesvitamin C- Crema 50 ml - Sesderma",
+      "marca": "Sesderma",
+      "precio": 231600,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208628/31149174-1200-auto.jpg?v=639196564485630000",
+      "url": "https://www.medipiel.com.co/kit-luminosidad-sesvitamin-c-5-serum-gratis-sesvitamin-c-crema-sesderma/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Skinceuticals P Tiox Sérum Antiedad Con Complejo Peptídico",
       "marca": "Skinceuticals",
       "precio": 411000,
@@ -530,23 +552,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Ácido Glicólico 7% Tónico Exfoliante - The Ordinary",
-      "marca": "The Ordinary",
-      "precio": 54000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210694/the-ordinary-glycolic-acid-7-exfoliating-toner-100ml.jpg?v=639222507948000000",
-      "url": "https://www.medipiel.com.co/solucion-exfoliante-7-the-ordinary/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Suero Cafeína 5% - The Ordinary",
       "marca": "The Ordinary",
       "precio": 55000,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210710/Suero_Cafeina_5__-_The_Ordinary_30ml_1-removebg-preview.png?v=639222519602570000",
       "url": "https://www.medipiel.com.co/suero-cafeina-5-the-ordinary/p",
+      "es_mas_barato": false,
+      "grupo_id": "G001",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Suero Ah 2% + B5 - The Ordinary",
+      "marca": "The Ordinary",
+      "precio": 59000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210677/01e0ec7c1c62b6d02bac.png?v=639222501928330000",
+      "url": "https://www.medipiel.com.co/suero-ah-2-b5-the-ordinary/p",
       "es_mas_barato": false,
       "grupo_id": "G001",
       "en_grupo": true
@@ -585,39 +607,6 @@
       "en_grupo": false
     },
     {
-      "nombre": "Mini Serum Anti-Aging - LaCabine",
-      "marca": "LaCabine",
-      "precio": 25000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082341/mini-serum-anti-aging-reviving-elixir.jpg?v=638860487254070000",
-      "url": "https://www.medipiel.com.co/mini-serum-anti-aging-la-cabine/p",
-      "es_mas_barato": true,
-      "grupo_id": "G004",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Dercos Serum Anticaida R.E.G.E.N - Vichy",
-      "marca": "Vichy",
-      "precio": 185900,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2208809/2182571-1200-auto.webp?v=639199800115230000",
-      "url": "https://www.medipiel.com.co/dercos-serum-anticaida-regen-vichy/p",
-      "es_mas_barato": false,
-      "grupo_id": "G004",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Sérum Genesis Anti-Caída Para Cabello Quebradizo - Kérastase",
-      "marca": "Kérastase",
-      "precio": 219000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2185893/serum-genesis-anti-caida-kerastase.jpg.jpg?v=639090332343270000",
-      "url": "https://www.medipiel.com.co/serum-genesis-anti-caida-kerastase/p",
-      "es_mas_barato": false,
-      "grupo_id": "G004",
-      "en_grupo": true
-    },
-    {
       "nombre": "Imp- 911 Quinoa Hair Mask - Mascarilla Hidratante - Biotop Professional",
       "marca": "Biotop Professional",
       "precio": 220100,
@@ -625,7 +614,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2225552/1E05F3A16A0F51F1C8EED1C1C93D899E_2fd11a20-107b-4ea2-910a-35947c7964bb_911-Quinoa-Hair-Mascarilla-Hidratante---Biotop-Professi.webp?v=639298531933600000",
       "url": "https://www.medipiel.com.co/imp-biotop-911-quinoa-hair-mask-mascarilla-hidratante-biotop-professional/p",
       "es_mas_barato": false,
-      "grupo_id": "G005",
+      "grupo_id": "G004",
       "en_grupo": false
     },
     {
@@ -635,6 +624,17 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2209514/thumbnail--10-.jpg?v=639232021392930000",
       "url": "https://www.medipiel.com.co/crema-reparadora-345-relief-dr-althea/p",
+      "es_mas_barato": false,
+      "grupo_id": "G005",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Mini Serum Anti-Aging - LaCabine",
+      "marca": "LaCabine",
+      "precio": 25000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2082341/mini-serum-anti-aging-reviving-elixir.jpg?v=638860487254070000",
+      "url": "https://www.medipiel.com.co/mini-serum-anti-aging-la-cabine/p",
       "es_mas_barato": false,
       "grupo_id": "G006",
       "en_grupo": false
@@ -675,7 +675,7 @@
     {
       "nombre": "Estavit DHA Cápsulas Blandas con Cubierta Entérica",
       "marca": "PROCAPS",
-      "precio": 97380,
+      "precio": 108200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/217848/7703153045678.jpg?v=639306155982730000",
       "url": "https://www.drogueriascolsubsidio.com/estavit-dha-capsulas-blandas-con-cubierta-enterica-7703153045678/p",
@@ -774,7 +774,7 @@
     {
       "nombre": "Levomepromazina 25mg Tableta Recubierta Humax",
       "marca": "HUMAX",
-      "precio": 28935,
+      "precio": 32150,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/164894/7707288820926.jpg?v=637244717525900000",
       "url": "https://www.drogueriascolsubsidio.com/levomepromazina-25mg-tableta-recubierta-humax-7707288820926/p",
@@ -785,7 +785,7 @@
     {
       "nombre": "Engystol Tableta",
       "marca": "HEEL COLOMBIA",
-      "precio": 83970,
+      "precio": 93300,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/206939/7707336720598_2-.jpg?v=638882056493800000",
       "url": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
@@ -840,7 +840,7 @@
     {
       "nombre": "Pañitos Humedos Pequeñin Manzanilla x 80 Und",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 5200,
+      "precio": 4420,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203818/7702026152536_1.jpg.jpg?v=638779875740430000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-manzanilla-x-80-und-7702026152536/p",
@@ -851,7 +851,7 @@
     {
       "nombre": "Pañitos Húmedos Pequeñín Almendra (3x100un)",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 36225,
+      "precio": 34212,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203807/7702026148683_1.jpg.jpg?v=638779309917030000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-almendra-3x100un-7702026148683/p",
@@ -895,7 +895,7 @@
     {
       "nombre": "Proteina Bipro Classic Polvo",
       "marca": "ELITENUT SAS",
-      "precio": 5000,
+      "precio": 6250,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/216608/7707394716526.jpg?v=639269899009930000",
       "url": "https://www.drogueriascolsubsidio.com/proteina-bipro-classic-polvo-7707394716526/p",
