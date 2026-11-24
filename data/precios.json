@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-23T23:32:26.958Z",
+  "ultima_actualizacion": "2026-11-24T08:55:55.254Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -217,17 +217,6 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/235613/anthelios-uvmune-400-oil-control-fluido-la-roche-posay-con-color.jpg.jpg?v=638755940466500000",
       "url": "https://www.medipiel.com.co/anthelios-uvmune-400-oil-control-fluido-la-roche-posay/p",
-      "es_mas_barato": false,
-      "grupo_id": "G000",
-      "en_grupo": true
-    },
-    {
-      "nombre": "Anthelios UVMune 400 Anti Manchas - La Roche Posay",
-      "marca": "La Roche Posay",
-      "precio": 100730,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2166512/3337875917407_1.jpg?v=638947680313700000",
-      "url": "https://www.medipiel.com.co/anthelios-uvmune-400-anti-manchas-la-roche-posay/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -475,12 +464,34 @@
       "en_grupo": true
     },
     {
+      "nombre": "Acondicionador Gloss Absolu Hidratante Antifriz - Kérastase",
+      "marca": "Kérastase",
+      "precio": 197000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2207184/acondicionador-gloss-absolu-hidratante-an--1-.jpg?v=639184467703670000",
+      "url": "https://www.medipiel.com.co/acondicionador-gloss-absolu-hidratante-antifriz-kerastase/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
       "nombre": "Kit Navidad Absolut Repair: Shampoo + Mascarilla + Cosmetiquera - Loreal Professionnel",
       "marca": "L'Oréal Professionnel",
       "precio": 202800,
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2225298/7704577010297-1.webp?v=639293217123230000",
       "url": "https://www.medipiel.com.co/kit-navidad-absolut-repair-shampoo-mascarilla-cosmetiquera-loreal-professionnel/p",
+      "es_mas_barato": false,
+      "grupo_id": "G000",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Spray Gloss Absolu Termoprotector AntiFrizz - Kérastase",
+      "marca": "Kérastase",
+      "precio": 204000,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210645/3474637283445_01.jpg?v=639222321410400000",
+      "url": "https://www.medipiel.com.co/spray-gloss-absolu-termoprotector-antifrizz-kerastase/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
@@ -585,17 +596,6 @@
       "en_grupo": true
     },
     {
-      "nombre": "Suero Cafeína 5% - The Ordinary",
-      "marca": "The Ordinary",
-      "precio": 55000,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2210710/Suero_Cafeina_5__-_The_Ordinary_30ml_1-removebg-preview.png?v=639222519602570000",
-      "url": "https://www.medipiel.com.co/suero-cafeina-5-the-ordinary/p",
-      "es_mas_barato": false,
-      "grupo_id": "G001",
-      "en_grupo": true
-    },
-    {
       "nombre": "Suero Niacinamida 10% - The Ordinary",
       "marca": "The Ordinary",
       "precio": 65000,
@@ -618,17 +618,6 @@
       "en_grupo": false
     },
     {
-      "nombre": "Reparador Labial En Stick 4 Gr - Isdin",
-      "marca": "Isdin",
-      "precio": 38200,
-      "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2160929/reparador-labial-en-stick-4-gr-isdin.png?v=638887972235300000",
-      "url": "https://www.medipiel.com.co/reparador-labial-en-stick-4-gr-isdin/p",
-      "es_mas_barato": false,
-      "grupo_id": "G003",
-      "en_grupo": false
-    },
-    {
       "nombre": "Imp- 911 Quinoa Hair Mask - Mascarilla Hidratante - Biotop Professional",
       "marca": "Biotop Professional",
       "precio": 220100,
@@ -636,7 +625,7 @@
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2225552/1E05F3A16A0F51F1C8EED1C1C93D899E_2fd11a20-107b-4ea2-910a-35947c7964bb_911-Quinoa-Hair-Mascarilla-Hidratante---Biotop-Professi.webp?v=639298531933600000",
       "url": "https://www.medipiel.com.co/imp-biotop-911-quinoa-hair-mask-mascarilla-hidratante-biotop-professional/p",
       "es_mas_barato": false,
-      "grupo_id": "G004",
+      "grupo_id": "G003",
       "en_grupo": false
     },
     {
@@ -646,6 +635,17 @@
       "tienda": "Medipiel",
       "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2209514/thumbnail--10-.jpg?v=639232021392930000",
       "url": "https://www.medipiel.com.co/crema-reparadora-345-relief-dr-althea/p",
+      "es_mas_barato": false,
+      "grupo_id": "G004",
+      "en_grupo": false
+    },
+    {
+      "nombre": "Reparador Labial En Stick 4 Gr - Isdin",
+      "marca": "Isdin",
+      "precio": 38200,
+      "tienda": "Medipiel",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2160929/reparador-labial-en-stick-4-gr-isdin.png?v=638887972235300000",
+      "url": "https://www.medipiel.com.co/reparador-labial-en-stick-4-gr-isdin/p",
       "es_mas_barato": false,
       "grupo_id": "G005",
       "en_grupo": false
@@ -739,23 +739,23 @@
       "en_grupo": true
     },
     {
-      "nombre": "Vitamina C Tableta Masticable Naranja",
-      "marca": "LA SANTE",
-      "precio": 4756,
-      "tienda": "Colsubsidio",
-      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214714/7703763750115.jpg?v=639253522859000000",
-      "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
-      "es_mas_barato": false,
-      "grupo_id": "G012",
-      "en_grupo": true
-    },
-    {
       "nombre": "Vitamina C Tableta Masticable Mandarina",
       "marca": "LA SANTE",
       "precio": 4756,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214715/7703763750184.jpg?v=639253523303970000",
       "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-mandarina-7703763750184/p",
+      "es_mas_barato": false,
+      "grupo_id": "G012",
+      "en_grupo": true
+    },
+    {
+      "nombre": "Vitamina C Tableta Masticable Naranja",
+      "marca": "LA SANTE",
+      "precio": 4756,
+      "tienda": "Colsubsidio",
+      "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/214714/7703763750115.jpg?v=639253522859000000",
+      "url": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
       "es_mas_barato": false,
       "grupo_id": "G012",
       "en_grupo": true
@@ -851,7 +851,7 @@
     {
       "nombre": "Pañitos Húmedos Pequeñín Almendra (3x100un)",
       "marca": "PRODUCTOS FAMILIA SA",
-      "precio": 40250,
+      "precio": 32200,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/203807/7702026148683_1.jpg.jpg?v=638779309917030000",
       "url": "https://www.drogueriascolsubsidio.com/panitos-humedos-pequenin-almendra-3x100un-7702026148683/p",
@@ -950,7 +950,7 @@
     {
       "nombre": "Pañal Winny Sensitive Gold Etapa 1 Bolsax30+ Toallitas X20 Recien Nacido",
       "marca": "TECNOQUIMICAS",
-      "precio": 33150,
+      "precio": 29835,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/175086/7701021118011.jpg?v=637635365374530000",
       "url": "https://www.drogueriascolsubsidio.com/panal-winny-sensitive-gold-etapa-1-bolsax30-toallitas-x20-recien-nacido-7701021118011/p",
@@ -961,7 +961,7 @@
     {
       "nombre": "Pañal+Toallitas Winny Ultratim Sec Etapa 2 PaqX30Pañal + 10Toall",
       "marca": "TECNOQUIMICAS",
-      "precio": 34700,
+      "precio": 31230,
       "tienda": "Colsubsidio",
       "imagen": "https://colsubsidio.vteximg.com.br/arquivos/ids/212209/7701021116536_Hero_Image_1_Alta_0.jpg?v=639193146644070000",
       "url": "https://www.drogueriascolsubsidio.com/panaltoallitas-winny-ultratim-sec-etapa-2-paqx30panal--10toall-7701021116536/p",
