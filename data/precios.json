@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-11-26T07:21:38.236Z",
+  "ultima_actualizacion": "2026-11-26T21:04:24.330Z",
   "productos": [
     {
       "nombre": "Tapabocas Color Negro Empaque Individual Begut",
@@ -475,12 +475,12 @@
       "en_grupo": true
     },
     {
-      "nombre": "Kit Navidad Absolut Repair: Shampoo + Mascarilla + Cosmetiquera - Loreal Professionnel",
-      "marca": "L'Oréal Professionnel",
-      "precio": 202800,
+      "nombre": "Acondicionador Gloss Absolu Hidratante Antifriz - Kérastase",
+      "marca": "Kérastase",
+      "precio": 197000,
       "tienda": "Medipiel",
-      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2225298/7704577010297-1.webp?v=639293217123230000",
-      "url": "https://www.medipiel.com.co/kit-navidad-absolut-repair-shampoo-mascarilla-cosmetiquera-loreal-professionnel/p",
+      "imagen": "https://medipielsa.vteximg.com.br/arquivos/ids/2207184/acondicionador-gloss-absolu-hidratante-an--1-.jpg?v=639184467703670000",
+      "url": "https://www.medipiel.com.co/acondicionador-gloss-absolu-hidratante-antifriz-kerastase/p",
       "es_mas_barato": false,
       "grupo_id": "G000",
       "en_grupo": true
